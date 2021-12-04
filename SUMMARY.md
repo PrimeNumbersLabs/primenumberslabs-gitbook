@@ -5,6 +5,7 @@
 ## The Company
 
 * [WHAT IS PRIME NUMBERS?](the-company/what-is-prime-numbers.md)
+* [Our game history](the-company/our-game-history.md)
 * [How is the style and how are the NFTs produced?](the-company/how-is-the-style-and-how-are-the-nfts-produced.md)
 * [WHY HAVE WE CREATED PRIME NUMBERS?](the-company/why-have-we-created-prime-numbers.md)
 * [WHAT HAPPENS WHEN A NFT IS SOLD?](the-company/what-happens-when-a-nft-is-sold.md)
