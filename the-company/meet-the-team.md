@@ -8,11 +8,13 @@ coverY: 0
 
 ## Arturo Cantera
 
-👋 Co-Founder — 💌arturo@primenumbers.xyz — SP Spain
+👋 Founder & CEO — 💌arturo@primenumbers.xyz — SP Spain
 
-![](<../.gitbook/assets/anime girl with curly brown hair.png>)
+![](../.gitbook/assets/artuproyecto.jpg)
 
 ### Bio
+
+Extensive experience in crypto. Software engineering student at the Complutense University of Madrid. Advisor in a few projects.
 
 {% hint style="info" %}
 **Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
@@ -26,17 +28,80 @@ coverY: 0
 
 ### Bio
 
+CTO at WorkX. Rotterdam University of Applied Sciences.
+
 {% hint style="info" %}
 **Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
 {% endhint %}
 
-## Ramón Díaz
+## Olatz Diaz
 
-👋 CM — 💌 ramon@primenumbers.xyz — Spain
+👋 ART DIRECTOR — 💌admin@primenumbers.xyz — SP Spain
 
-![](<../.gitbook/assets/WhatsApp Image 2021-08-25 at 6.54.18 PM.jpeg>)
+![](../.gitbook/assets/photo\_2021-12-23\_16-32-22.jpg)
 
 ### Bio
+
+**A**rtist born in the Basque Country. Degree in Advertising and Public Relations with a major in Creativity and Design.
+
+## Xabier Iglesias
+
+👋 Advisor — 💌admin@primenumbers.xyz — SP Spain
+
+![](../.gitbook/assets/FbGSBUZWIAAz4B8.jpg)
+
+### Bio
+
+Founder of Non Fungible Trends Marketing Agency, specialized in Marketing and Communication strategies for the Crypto and NFT scene.
+
+## Rainer
+
+👋 Main Developer — 💌admin@primenumbers.xyz — MX Mexico
+
+![](<../.gitbook/assets/31 HM Prime Numbers (1).jpg>)
+
+### Bio
+
+Rainer is the CEO of a large group of developers from Mexico. They are developing all the Prime Numbers Ecosystem.\
+
+
+
+
+## Bruno San Martin
+
+👋 Advisor — 💌 admin@primenumbers.xyz — Spain
+
+![](../.gitbook/assets/Nb3GQBt1\_400x400.jpg)
+
+### Bio
+
+Inversor | Gestor | Educador | Advisor Cripto |
+
+
+
+## Alberto Serrano
+
+👋 CM — 💌 admin@primenumbers.xyz — Spain
+
+![](../.gitbook/assets/photo\_2021-12-15\_10-38-06.jpg)
+
+### Bio
+
+Marketing and relationships at URJC. Five years of experience in start-ups
+
+
+
+## **Federico**
+
+👋 Spaceship Developer — 💌admin@primenumbers.xyz — SP Spain
+
+![](<../.gitbook/assets/1\_ZT5pOj2dj6m9c2pfRMlKjA (1).png>)
+
+### Bio
+
+Federico is building all the Prime Numbers Spaceship.
+
+###
 
 {% hint style="info" %}
 **Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.

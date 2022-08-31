@@ -1,9 +1,9 @@
 ---
 description: >-
-  Our NFTs are prime numbers, everyone likes prime numbers. Help students while
-  shopping for art. #BuiltOnXDC #XDC
-cover: .gitbook/assets/Titulo.png
-coverY: 0
+  Prime Numbers is a DAO that generates funds for our community through NFTs and
+  DEFI.
+cover: .gitbook/assets/6-banner-PN-paris.png
+coverY: 21.050024764735017
 ---
 
 # Prime Numbers
