@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/6-banner-PN-paris (1).png
-coverY: 21.54531946508172
----
-
 # WHAT IS PRIME NUMBERS?
 
 **Prime Numbers** is a DAO that **generates funds** for our **community and students** through **NFTs and DEFI.**
@@ -21,3 +16,7 @@ However, It is much more than that. You could find an ecosystem based on DEFI an
 
 
 Prime Numbers is the first DAO, the first NFT project and the first Lending and Borrowing protocol on the XDC Network.
+
+
+
+<figure><img src="../.gitbook/assets/6-banner-PN-paris.png" alt=""><figcaption></figcaption></figure>
