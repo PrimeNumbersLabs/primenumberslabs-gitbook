@@ -16,10 +16,6 @@ coverY: 0
 
 Extensive experience in crypto. Software engineering student at the Complutense University of Madrid. Advisor in a few projects.
 
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
-
 ## Daniel de Witte
 
 👋 Advisor — 💌 daniel@primenumbers.xyz — 🇳🇱 Amsterdam
@@ -29,10 +25,6 @@ Extensive experience in crypto. Software engineering student at the Complutense 
 ### Bio
 
 CTO at WorkX. Rotterdam University of Applied Sciences.
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
 
 ## Olatz Diaz
 
@@ -102,7 +94,3 @@ Marketing and relationships at URJC. Five years of experience in start-ups
 Federico is building all the Prime Numbers Spaceship.
 
 ###
-
-{% hint style="info" %}
-**Good to know:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
-{% endhint %}
