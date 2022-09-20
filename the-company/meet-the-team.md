@@ -40,7 +40,7 @@ CTO at WorkX. Rotterdam University of Applied Sciences.
 
 👋 Advisor — 💌admin@primenumbers.xyz — SP Spain
 
-![](../.gitbook/assets/FbGSBUZWIAAz4B8.jpg)
+![](../.gitbook/assets/photo\_2022-09-01\_14-36-07.jpg)
 
 ### Bio
 
