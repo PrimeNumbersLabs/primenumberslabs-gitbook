@@ -2,11 +2,13 @@
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-PRIME NUMBERS FINANCE is a **decentralized finance (DeFi) protocol that enables the borrowing and lending of cryptocurrency,** including **flash loans.**
+PRIME NUMBERS FINANCE is a **decentralized finance (DeFi) protocol that enables the borrowing and lending of cryptocurrency.**
 
 PRIME NUMBERS FINANCE is **built on the XDC network,** and is the first project in the XDC network that focuses on **lending and borrowing cryptocurrency through a pooled liquidity system.**
 
-Lenders can earn relatively low-risk, passive income from interest paid on loans, without having to engage with third-parties or middlemen.
+Lenders can earn relatively low-risk, passive income from interest paid on loans, without having to engage with third-parties or middlemen.\
+\
+**The protocol includes the Lending & Borrowing of NFTs.**
 
 
 
@@ -31,3 +33,22 @@ Lenders can earn relatively low-risk, passive income from interest paid on loans
 
         &#x20;
     * **PRNT holders who stake their tokens with Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits.**
+
+## Lending & Borrowing NFTs <a href="#bd95" id="bd95"></a>
+
+Prime Numbers Finance will include Lending & Borrowing NFTs. Prime Numbers also have an NFT marketplace with an option for lending and borrowing NFTs.&#x20;
+
+### What is Lending & Borrowing NFTs? <a href="#1a53" id="1a53"></a>
+
+**Borrow:**
+
+With Prime Numbers Finance you can use your NFT as collateral to borrow tokens (XDC, wXDC, xUSDT, PRNT, XSP, GBEX, etc.) from another user.\
+
+
+**Lend:**
+
+Lend tokens to the NFT owners using their NFTs as collateral.\
+\
+//More information soon
+
+****
