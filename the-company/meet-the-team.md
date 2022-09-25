@@ -8,7 +8,7 @@ coverY: 0
 
 ## Arturo Cantera
 
-👋 Founder & CEO — 💌arturo@primenumbers.xyz — SP Spain
+👋 Founder & CEO — 💌arturo@primenumbers.xyz — Spain
 
 ![](../.gitbook/assets/artuproyecto.jpg)
 
@@ -28,7 +28,7 @@ CTO at WorkX. Rotterdam University of Applied Sciences.
 
 ## Olatz Diaz
 
-👋 ART DIRECTOR — 💌admin@primenumbers.xyz — SP Spain
+👋 ART DIRECTOR — 💌admin@primenumbers.xyz — Spain
 
 ![](../.gitbook/assets/photo\_2021-12-23\_16-32-22.jpg)
 
@@ -38,7 +38,7 @@ CTO at WorkX. Rotterdam University of Applied Sciences.
 
 ## Xabier Iglesias
 
-👋 Advisor — 💌admin@primenumbers.xyz — SP Spain
+👋 Advisor — 💌admin@primenumbers.xyz — Spain
 
 ![](../.gitbook/assets/photo\_2022-09-01\_14-36-07.jpg)
 
@@ -48,7 +48,7 @@ Founder of Non Fungible Trends Marketing Agency, specialized in Marketing and Co
 
 ## Rainer
 
-👋 Main Developer — 💌admin@primenumbers.xyz — MX Mexico
+👋 Main Developer — 💌admin@primenumbers.xyz — Mexico
 
 ![](<../.gitbook/assets/31 HM Prime Numbers (1).jpg>)
 
@@ -85,7 +85,7 @@ Marketing and relationships at URJC. Five years of experience in start-ups
 
 ## **Federico**
 
-👋 Spaceship Developer — 💌admin@primenumbers.xyz — SP Spain
+👋 Spaceship Developer — 💌admin@primenumbers.xyz — Spain
 
 ![](<../.gitbook/assets/1\_ZT5pOj2dj6m9c2pfRMlKjA (1).png>)
 

@@ -1,6 +1,12 @@
+---
+description: >-
+  Prime Numbers is a DAO that generates funds for our community through NFTs and
+  DEFI.
+---
+
 # WHAT IS PRIME NUMBERS?
 
-**Prime Numbers** is a DAO that **generates funds** for our **community and students** through **NFTs and DEFI.**
+**Prime Numbers** is a DAO that **generates funds** for our **community** through **NFTs and DEFI.**
 
 **Prime Numbers are composed of** [**Prime Numbers DAO**](https://www.primenumbers.es/) **&** [**Prime Numbers Finance**](https://www.primenumbers.finance/)**.**\
 ****\
