@@ -71,17 +71,11 @@ Inversor | Gestor | Educador | Advisor Cripto |
 
 
 
-## Alberto Serrano
+## Iván Ballester
 
 👋 CM — 💌 admin@primenumbers.xyz — Spain
 
-![](../.gitbook/assets/photo\_2021-12-15\_10-38-06.jpg)
-
-### Bio
-
-Marketing and relationships at URJC. Five years of experience in start-ups
-
-
+![](../.gitbook/assets/photo\_2022-10-22\_17-07-52.jpg)
 
 ## **Federico**
 
