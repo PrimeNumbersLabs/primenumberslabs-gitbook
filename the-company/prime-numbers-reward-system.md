@@ -64,7 +64,7 @@ Reward per month: 6666 $PRNT
 
 ### **1- Fixed Reward** <a href="#eb79" id="eb79"></a>
 
-**30% of the minting funds will be rewarded to the NFTs in the first year. After this first year, the reward for the non-locked and non-custodial $XDC staking will be 10% of the profits from Prime Numbers Finance.**&#x20;
+**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two year, the reward for the non-locked and non-custodial $XDC staking will be 10% of the profits from Prime Numbers Finance.**&#x20;
 
 **Formula Staking:**\
 a= total multiplier of the NFT\
