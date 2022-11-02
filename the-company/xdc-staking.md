@@ -2,6 +2,12 @@
 
 ## Introduction <a href="#5919" id="5919"></a>
 
+**XDC STAKING NFTs is an NFT collection with a high utility.**
+
+**First non-custodial and trustless $XDC staking.**
+
+**These NFTs are like “vaults” where you put your XDC.**
+
 Welcome to the explanatory post about how NFTs and XDC staking will work.
 
 The collection consists of 5557 NFTs, of which 5542 are made by Prime Numbers, and 15 have the same aspect as the Prime Numbers Handmade NFTs.
@@ -56,7 +62,7 @@ We present to you our revolutionary staking system featuring NFTs.
 
 In order to earn rewards with XDC Staking NFTs, you will need to stake your $XDC. This does not happen in an ordinary way however, when we stake at the Prime Numbers ecosystem, we stake inside the NFTs. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT by “Empty NFT” or “BurnToRedeem”.
 
-When we stake our tokens in the NFT, they will gradually level up. There is a maximum potency that we can stake on a daily basis, so we have to repeat this process on a regular basis, not more than once a day.
+When we stake our tokens in the NFT, they will gradually level up. You will able to stake as much as you want until the max limit \[100,000 $XDC per NFT]\(Not the final amount, still in development).
 
 Your share depends on the multiplier of your NFT which is based on both its level(added multiplier) and its rarity(base multiplier).
 
@@ -64,7 +70,7 @@ The higher your level and the more rarity you have the more reward you will get.
 
 These NFTs upon receiving the tokens will level up from this. The staking airdrop will be factored in based on the amount of $XDC inside the NFT.
 
-<figure><img src="../.gitbook/assets/1_v4gKluLz6QyJ4jXkMG8XnQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1_v4gKluLz6QyJ4jXkMG8XnQ (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Total Multipliers <a href="#75d4" id="75d4"></a>
 
@@ -75,17 +81,75 @@ Example:
 
 NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total multiplier of 3.8
 
-## **Rewards** <a href="#7242" id="7242"></a>
+## **How to get a $XDC Staking NFT?** <a href="#dbd0" id="dbd0"></a>
+
+Minting Details:
+
+**THE FIRST MINTING WAVE WILL BE ON 3RD NOVEMBER AT 18:00 PM CEST**
+
+THE SECOND MINTING WAVE WILL BE ON 15TH NOVEMBER AT 18:00 PM CEST
+
+THE THIRD MINTING WAVE WILL BE ON 29TH NOVEMBER AT 18:00 PM CEST
+
+THE FOURTH MINTING WAVE WILL BE ON 13 DECEMBER AT 18:00 PM CEST
+
+BETWEEN MINTING WAVES WE WILL RELEASE SIMULATIONS AND MORE INFORMATION! STAY TUNED FOR MORE INFO.
+
+We are going to do the minting in different waves with different prices.
+
+Wallets holding 500 PRNT or ≥1 PRNTNFT will get early access to the minting interface.
+
+<figure><img src="../.gitbook/assets/1_4fS5w1Be-JsQ1U2wDlG9Aw (1).png" alt=""><figcaption></figcaption></figure>
+
+We will sell 5300 NFTs in the minting waves.
+
+31 NFTs will be airdropped to the PRNT NFTs Plentiful holders.\
+15 NFTs will be airdropped to the PRNT NFTs Handmade holders.\
+1 NFT will be airdropped to the PRNT NFTs Godly Holder.
+
+210 NFTs will be minted for development purposes + marketing.
+
+## **Rewards:** <a href="#7242" id="7242"></a>
 
 These NFTs are going to get the following rewards:
 
 * 10% of Prime Numbers Finance Profits
-* In the first two years, 33% of the funds from the minting will be rewarded to the XDC Staking NFTs.
+* In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
 
-We will give the 33% of the funds from the minting because Prime Numbers Finance is not finished(will be in February) and we want to start giving rewards.
+We will give the 30% of the funds from the minting because Prime Numbers Finance is not finished(will be in February) and we want to start giving rewards.
 
 The 10% of Prime Numbers Finance profits should be higher than the 33% of the minting funds.\
 All of these rewards will be paid on $XDC.
+
+## 1- Fixed Reward <a href="#164e" id="164e"></a>
+
+**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the reward for the non-locked and non-custodial $XDC staking will be 10% of the profits from Prime Numbers Finance.**
+
+**Formula Staking:** a= total multiplier of the NFT
+
+a = x +y
+
+x= base multiplier \[multiplier per rarity of the NFT]
+
+y= added multiplier \[multiplier per level of the NFT]
+
+**We have found a way to make the rewards fair for everyone:**
+
+b= $XDC staked per NFT
+
+15% of the minting given to “a” -> \[Total Multiplier] of the NFTs
+
+15% of the minting given to (“a” \* ”b”) -> \[(Total Multiplier)\*Tokens)]
+
+Link to staking mechanics: [https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-853d6a417db8](https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-853d6a417db8)
+
+## 2- Prime Numbers Finance <a href="#3fb4" id="3fb4"></a>
+
+Prime Numbers XDC Staking NFTs will receive 10% of Prime Numbers Finance profits. [https://www.primenumbers.finance/](https://www.primenumbers.finance/)
+
+## 3- XDC NFT Staking (optional): <a href="#92b1" id="92b1"></a>
+
+You will be able to lock your XDC NFTs for receiving a fixed 6% APY in addition. **We will share more info about this before the second wave!**
 
 ## Important Data: <a href="#ed02" id="ed02"></a>
 
@@ -93,9 +157,9 @@ MAX Number of NFTs: 5557
 
 We will need a soft cap of 1500 NFTs sold! If we don't get this, we will refund all the NFTs.
 
-Price x NFT: 2500 $XDC ($75 ) (The final price will be chosen two weeks before the minting)
+XDC staking will be released just after the Reveal.
 
-XDC staking will be released few weeks after Primeport release.
+Reveal is when you will be able to see what NFT you received.
 
 ## How to stake? <a href="#2018" id="2018"></a>
 
@@ -111,14 +175,16 @@ The tutorial will come after the minting.
 ## Staking Interface Buttons <a href="#c8fe" id="c8fe"></a>
 
 * **“Staking” Button**\
-  This button is used for stake inside the NFT. This button follows the staking rules. Sometimes you will need a lower amount of the daily max allowed because you need less $XDC to level up your NFT.
+  This button is used for stake inside the NFT.
 * **“Transfer” Button**\
   This button is used for transferring NFTs between wallets.
-* **“Instant Stake” Button**\
-  This button allows you to stake whatever you want amount but you pay a 5% fee of the introduced amount. If you introduce 10000 $XDC -> 9500$ XDC to the stake and 500$ XDC for the fee.
 * **“Empty NFT” Button**\
   This button takes out the NFT balance.\
   To use this button you need the NFT without interactions the previous 15 days of trying to use “**Empty NFT**”.\
+  Interaction = Transfer, Stake
+* **“GetSurplus” Button**\
+  This button takes out the NFT balance above 82980 $XDC.\
+  To use this button you need the NFT without interactions the previous 15 days of trying to use “GetSurplus”.\
   Interaction = Transfer, Stake
 * **“BurnToRedeem” Button**\
   This button breaks the NFT and takes out all the $XDC inside the NFT.\
