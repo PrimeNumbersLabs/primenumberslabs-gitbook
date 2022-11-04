@@ -83,21 +83,21 @@ NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total
 
 ## **How to get a $XDC Staking NFT?** <a href="#dbd0" id="dbd0"></a>
 
-Minting Details:
+**Minting Details:**
 
-**THE FIRST MINTING WAVE WILL BE ON 3RD NOVEMBER AT 18:00 PM CEST**
+THE FIRST WAVE SOLD OUT!!!
 
-THE SECOND MINTING WAVE WILL BE ON 15TH NOVEMBER AT 18:00 PM CEST
+THE SECOND MINTING WAVE WILL BE ON 17TH NOVEMBER AT 17:05 PM CET
 
-THE THIRD MINTING WAVE WILL BE ON 29TH NOVEMBER AT 18:00 PM CEST
+THE THIRD MINTING WAVE WILL BE ON 1ST DECEMBER AT 17:05 PM CET
 
-THE FOURTH MINTING WAVE WILL BE ON 13 DECEMBER AT 18:00 PM CEST
+THE FOURTH MINTING WAVE WILL BE ON 15TH DECEMBER AT 17:05 PM CET
 
 BETWEEN MINTING WAVES WE WILL RELEASE SIMULATIONS AND MORE INFORMATION! STAY TUNED FOR MORE INFO.
 
-We are going to do the minting in different waves with different prices.
+THE REVEAL WILL BE JUST AFTER THE LAST WAVE.
 
-Wallets holding 500 PRNT or ≥1 PRNTNFT will get early access to the minting interface.
+We are going to do the minting in different waves with different prices.
 
 <figure><img src="../.gitbook/assets/1_4fS5w1Be-JsQ1U2wDlG9Aw (1).png" alt=""><figcaption></figcaption></figure>
 
