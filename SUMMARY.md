@@ -6,9 +6,10 @@
 
 * [WHAT IS PRIME NUMBERS?](the-company/what-is-prime-numbers.md)
 * [WHAT IS PRIME NUMBERS FINANCE?](the-company/what-is-prime-numbers-finance.md)
+* [Infographic](the-company/infographic.md)
 * [NFTs](the-company/nfts.md)
-* [XDC STAKING](the-company/xdc-staking.md)
 * [Staking Mechanics](the-company/staking-mechanics.md)
+* [XDC STAKING](the-company/xdc-staking.md)
 * [OG NFTs](the-company/og-nfts.md)
 * [Prime Numbers Reward System](the-company/prime-numbers-reward-system.md)
 * [Main Network $XDC](the-company/main-network-usdxdc.md)
