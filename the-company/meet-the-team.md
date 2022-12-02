@@ -87,4 +87,18 @@ Inversor | Gestor | Educador | Advisor Cripto |
 
 Federico is building all the Prime Numbers Spaceship.
 
+\
+\
+
+
+**Ronald Mitchell**
+
+👋 Advisor — 💌admin@primenumbers.xyz — Puerto Rico
+
+![](../.gitbook/assets/photo\_2022-12-02\_09-51-59.jpg)
+
+### Bio
+
+Ronald Mitchell brings a wealth of hands-on Web3 strategy and implementation experience. A true XDC ecosystem veteran turned community liaison, he played a pivotal role in establishing early growth and adoption of the network by leveraging his more than a decade of experience in Corporate Leadership. Hugely passionate about decentralization, blockchain technology, and the bright opportunities for the future they hold, he has worked alongside the XDC Founders and Ecosystem Development Team to integrate key stakeholders both up and down the value chain, from exchanges to wallets and beyond. Now the Founder of The Mitchell Group PR, Ronald resides in crypto-friendly Puerto Rico with his family and continues to explore Web3 entrepreneurship while maintaining his XDC Network validator node and concentrating his energy and efforts toward L2's such as expanding the Prime Numbers ecosystem.
+
 ###
