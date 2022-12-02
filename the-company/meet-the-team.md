@@ -14,7 +14,7 @@ coverY: 0
 
 ### Bio
 
-Extensive experience in crypto. Software engineering student at the Complutense University of Madrid. Advisor in a few projects.
+Extensive experience in crypto.  Advisor in a few projects.
 
 ## Daniel de Witte
 
@@ -67,28 +67,7 @@ Rainer is the CEO of a large group of developers from Mexico. They are developin
 
 ### Bio
 
-Inversor | Gestor | Educador | Advisor Cripto |
-
-
-
-## Iván Ballester
-
-👋 CM — 💌 admin@primenumbers.xyz — Spain
-
-![](../.gitbook/assets/photo\_2022-10-22\_17-07-52.jpg)
-
-## **Federico**
-
-👋 Spaceship Developer — 💌admin@primenumbers.xyz — Spain
-
-![](<../.gitbook/assets/1\_ZT5pOj2dj6m9c2pfRMlKjA (1).png>)
-
-### Bio
-
-Federico is building all the Prime Numbers Spaceship.
-
-\
-\
+Inversor | Gestor | Educador | Advisor Cripto |\
 
 
 **Ronald Mitchell**
