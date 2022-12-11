@@ -5,7 +5,8 @@
 ## The Company
 
 * [WHAT IS PRIME NUMBERS?](the-company/what-is-prime-numbers.md)
-* [WHAT IS PRIME NUMBERS FINANCE?](the-company/what-is-prime-numbers-finance.md)
+* [PRIME NUMBERS FINANCE](the-company/prime-numbers-finance.md)
+* [PRIMEPORT.XYZ MARKETPLACE](the-company/primeport.xyz-marketplace.md)
 * [Infographic](the-company/infographic.md)
 * [NFTs](the-company/nfts.md)
 * [Staking Mechanics](the-company/staking-mechanics.md)
