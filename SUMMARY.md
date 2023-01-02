@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Prime Numbers](README.md)
+* [Prime Numbers Ecosystem](README.md)
 
 ## The Company
 
@@ -19,7 +19,5 @@
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)
 * [$PRNT Sales](the-company/usdprnt-sales.md)
 * [Token Bridge $PRNT](the-company/token-bridge-usdprnt.md)
-* [Internal NFT Marketplace](the-company/internal-nft-marketplace.md)
 * [How to stake with Prime Numbers? Tutorial](the-company/how-to-stake-with-prime-numbers-tutorial.md)
-* [Roadmap](the-company/roadmap.md)
 * [Meet the Team!](the-company/meet-the-team.md)

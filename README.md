@@ -2,11 +2,11 @@
 description: >-
   Prime Numbers is a DAO that generates funds for our community through NFTs and
   DEFI.
-cover: .gitbook/assets/6-banner-PN-paris (2).png
-coverY: 21.050024764735017
+cover: .gitbook/assets/primenumbers_youtube_02.png
+coverY: 0
 ---
 
-# Prime Numbers
+# Prime Numbers Ecosystem
 
 ## Welcome aboard!
 

@@ -23,16 +23,14 @@ This is the first step to developing something truly amazing.\
 \- Import smart contracts\
 \- Dark mode/White mode\
 \- Explore NFTs\
-\- Profile Editor
+\- Profile Editor\
+\- Rarity percentages of the NFT traits\
+\- Filters, categories…
 
-PrimePort.xyz End of December Release\
+PrimePort.xyz Future Releases\
 \- Bid System and Auctions system\
 \- ETH-Polygon Implementation\
-\- Filters, categories…\
 \- Email notification system\
-\- Rarity percentages of the NFT traits
-
-PrimePort.xyz January Release\
 \- Upload (Minting system for creators):\
 We are not going to do a poor way to mint your NFTs when you are a creator.\
 With Primeport.xyz you can upload all your NFT images/videos simultaneously.\
