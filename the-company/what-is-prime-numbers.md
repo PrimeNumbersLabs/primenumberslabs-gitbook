@@ -1,8 +1,16 @@
+---
+description: >-
+  Prime Numbers is an ecosystem composed of different DEFI and NFT protocols
+  that generate revenue for its community on the XDC Blockchain.
+---
+
 # WHAT IS PRIME NUMBERS?
 
-**Prime Numbers is an ecosystem composed of protocols that generate revenue for its community on the XDC Blockchain.**
+Prime Numbers is an ecosystem composed of different DEFI and NFT protocols that generate revenue for its community on the XDC Blockchain.
 
-**We combine DEFI protocols and NFTs to make it possible.**
+Our ecosystem generates revenue through the fees created at PrimePort NFT Marketplace and Prime Numbers Finance, the first lending and borrowing protocol on XDC.
+
+We reward our community through our NFTs collections, which have a [revolutionary staking system](https://medium.com/@PrimeNumbersFi/nft-staking-mechanics-june-update-8d3eb8327258) where you stake tokens inside your NFTs to earn rewards.
 
 ### **PRNT NFTS**
 
@@ -17,21 +25,10 @@ Primeport.xyz is our multichain NFT marketplace where you can trade NFTs from al
 
 First lending and borrowing platform in the XDC network for cryptocurrency and NFTs. Part of the revenue from this protocol will go to PRNT NFT & XDC Staking NFT holders.
 
-### Summary
-
-Prime Numbers have [different mechanisms](https://medium.com/@PrimeNumbersFi/prime-numbers-reward-system-e097aeb7187c) to generate funds for the community. For example:\
-\
-\- Staking tokens inside NFTs\
-\- Royalties from our NFT collection.\
-\- Fees from our NFT marketplace.\
-\- 40% of the profits from our lending and borrowing protocol Prime Numbers Finance.
-
-However, It is much more than that. You could find an ecosystem based on DEFI and NFTs.
-
 
 
 Prime Numbers is the first DAO, NFT project, and the first Lending and Borrowing protocol on the XDC Network.
 
 
 
-<figure><img src="../.gitbook/assets/6-banner-PN-paris.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/primenumbers_youtube.png" alt=""><figcaption></figcaption></figure>
