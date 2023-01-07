@@ -57,8 +57,8 @@ The royalties percentage is set at 5% which means 1.25% of the sales price of ea
 Link: [https://medium.com/@PrimeNumbersFi/prime-numbers-lp-rewards-on-the-xdc-network-6a080ab40b74](https://medium.com/@PrimeNumbersFi/prime-numbers-lp-rewards-on-the-xdc-network-6a080ab40b74)
 
 TOTAL Reward Pool: 240000 $PRNT\
-Reward per year: 80000 $PRNT\
-Reward per month: 6666 $PRNT
+Reward per year: 120000 $PRNT\
+Reward per month: 10000 $PRNT
 
 ### XDC Staking inside NFTs: <a href="#e7a6" id="e7a6"></a>
 
@@ -87,7 +87,7 @@ Prime Numbers XDC Staking NFTs will receive 10% of Prime Numbers Finance profits
 
 ### XDC NFT Staking: <a href="#e7a6" id="e7a6"></a>
 
-You will be able to lock your XDC NFTs for receiving a fixed 6% APY in addition.
+If you have an NFT with 100,000 $XDC, you will be able to lock your XDC NFTs for receiving a fixed 6% APY in addition.
 
 ### Game Ecosystem Rewards <a href="#0c92" id="0c92"></a>
 

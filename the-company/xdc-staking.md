@@ -1,3 +1,7 @@
+---
+description: How can you stake $XDC?
+---
+
 # XDC STAKING
 
 ## Introduction <a href="#5919" id="5919"></a>

@@ -1,7 +1,7 @@
 ---
 description: >-
-  Prime Numbers is a DAO that generates funds for our community through NFTs and
-  DEFI.
+  Prime Numbers is an ecosystem composed of different DEFI and NFT protocols
+  that generate revenue for its community on the XDC Blockchain.
 cover: .gitbook/assets/primenumbers_youtube_02.png
 coverY: 0
 ---

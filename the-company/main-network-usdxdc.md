@@ -10,5 +10,5 @@ In addition, XinFin has an excellent community and staff members.\
 \
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 

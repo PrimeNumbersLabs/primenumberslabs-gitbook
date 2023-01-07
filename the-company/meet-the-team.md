@@ -8,43 +8,19 @@ coverY: 0
 
 ## Arturo Cantera
 
-👋 Founder & CEO — 💌arturo@primenumbers.xyz — Spain
+👋 CEO & CTO — 💌arturo@primenumbers.xyz — Spain
 
-![](../.gitbook/assets/artuproyecto.jpg)
-
-### Bio
-
-Extensive experience in crypto.  Advisor in a few projects.
+![](../.gitbook/assets/QVRWzE5k\_400x400.jpg)
 
 ## Daniel de Witte
 
-👋 Advisor — 💌 daniel@primenumbers.xyz — 🇳🇱 Amsterdam
+👋 Advisor — 💌 daniel@primenumbers.xyz — Amsterdam
 
 ![](../.gitbook/assets/HuymJaIk\_400x400.jpg)
 
 ### Bio
 
 CTO at WorkX. Rotterdam University of Applied Sciences.
-
-## Olatz Diaz
-
-👋 ART DIRECTOR — 💌admin@primenumbers.xyz — Spain
-
-![](../.gitbook/assets/photo\_2021-12-23\_16-32-22.jpg)
-
-### Bio
-
-**A**rtist born in the Basque Country. Degree in Advertising and Public Relations with a major in Creativity and Design.
-
-## Xabier Iglesias
-
-👋 Advisor — 💌admin@primenumbers.xyz — Spain
-
-![](../.gitbook/assets/photo\_2022-09-01\_14-36-07.jpg)
-
-### Bio
-
-Founder of Non Fungible Trends Marketing Agency, specialized in Marketing and Communication strategies for the Crypto and NFT scene.
 
 ## Rainer
 
@@ -61,9 +37,9 @@ Rainer is the CEO of a large group of developers from Mexico. They are developin
 
 ## Bruno San Martin
 
-👋 Advisor — 💌 admin@primenumbers.xyz — Spain
+👋 CMO — 💌 admin@primenumbers.xyz — Spain
 
-![](../.gitbook/assets/Nb3GQBt1\_400x400.jpg)
+![](../.gitbook/assets/pn\_55.png)
 
 ### Bio
 
@@ -74,7 +50,7 @@ Inversor | Gestor | Educador | Advisor Cripto |\
 
 👋 Advisor — 💌admin@primenumbers.xyz — Puerto Rico
 
-![](../.gitbook/assets/photo\_2022-12-02\_09-51-59.jpg)
+![](../.gitbook/assets/PAULO.png)
 
 ### Bio
 
