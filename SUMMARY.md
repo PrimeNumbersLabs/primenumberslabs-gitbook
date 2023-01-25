@@ -17,7 +17,6 @@
 * [$PRNT Tokenomics](the-company/usdprnt-tokenomics.md)
 * [$PRNT Smart Contracts](the-company/usdprnt-smart-contracts.md)
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)
-* [$PRNT Sales](the-company/usdprnt-sales.md)
 * [Token Bridge $PRNT](the-company/token-bridge-usdprnt.md)
-* [How to stake with Prime Numbers? Tutorial](the-company/how-to-stake-with-prime-numbers-tutorial.md)
+* [How to stake $PRNT with Prime Numbers? Tutorial](the-company/how-to-stake-usdprnt-with-prime-numbers-tutorial.md)
 * [Meet the Team!](the-company/meet-the-team.md)
