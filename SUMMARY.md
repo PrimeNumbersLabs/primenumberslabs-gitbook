@@ -19,4 +19,3 @@
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)
 * [Token Bridge $PRNT](the-company/token-bridge-usdprnt.md)
 * [How to stake $PRNT with Prime Numbers? Tutorial](the-company/how-to-stake-usdprnt-with-prime-numbers-tutorial.md)
-* [Meet the Team!](the-company/meet-the-team.md)

@@ -4,8 +4,6 @@ description: How can you stake $XDC?
 
 # XDC STAKING
 
-***
-
 #### XDC Staking & NFT Mechanics
 
 <figure><img src="https://cdn-images-1.medium.com/max/1600/1*BisxixIgI3yi8STR9zQ1hQ.png" alt=""><figcaption><p>Example of NFT</p></figcaption></figure>
@@ -41,19 +39,16 @@ All of these rewards will be paid on $XDC.
 **30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Numbers Finance.**
 
 **PAYOUT Formula Staking**\
-a= total multiplier of the NFT\
+a= total Multiplier of the NFT\
 a = x +y\
-x= base multiplier \[multiplier per rarity of the NFT]\
-y= added multiplier \[multiplier per level of the NFT]
+x= base multiplier \[Multiplier per rarity of the NFT]\
+y= added Multiplier \[Multiplier per level of the NFT]
 
 **We have found a way to make the rewards fair for everyone:**\
 b= XDC staked per NFT
 
 HALF XDC REWARD given to "a" -> \[Total Multiplier] of the NFTs\
 HALF XDC REWARD given to (“a” \* ”b”) -> \[(Total Multiplier)\*XDC)]
-
-**Current(14-January) Reward Pool: 1,275,000 $XDC**\
-**The reward pool depends on the total minted NFTs.**
 
 #### 2- Prime Numbers Finance
 
@@ -64,8 +59,7 @@ Prime Numbers XDC Staking NFTs will receive 10% of [Prime Numbers Finance](https
 When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get an **additional 7% APY**
 
 The lock period will be **one year.**\
-**The XDC inside this NFT is used to host masternodes.**\
-**The effect of the lock will be confirmed to the NFT once the masternode creation is complete.**
+**The XDC inside this NFT is used to host masternodes.**
 
 **The reward will be paid monthly to the NFT.**
 
@@ -79,7 +73,7 @@ And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% 
 
 The first 15 Prime Numbers consist of handcrafted images from our Art Director.
 
-The owners of these Prime Numbers Handmade NFTs will get the XDC Handmade NFTs airdropped.
+The owners of these Prime Numbers Handmade NFTs will get 3 XDC Staking NFTs for free.
 
 Base Multiplier = 2.
 
@@ -153,15 +147,15 @@ Examples: \
 
 This makes the NFTs deflationary.
 
-#### Staking system with NFTs
+#### The staking system with NFTs
 
 We present to you our revolutionary staking system featuring NFTs.
 
-To earn rewards with XDC Staking NFTs, you will need to stake your $XDC. This does not happen in an ordinary way; however, when we stake at the Prime Numbers ecosystem, we stake inside the NFTs. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT by "Empty NFT," "Withdraw XDC," or "BurnToRedeem."
+To earn rewards with XDC Staking NFTs, you must stake your $XDC. This does not happen in an ordinary way; however, when we stake at the Prime Numbers ecosystem, we stake inside the NFTs. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT by "Empty NFT," "Withdraw XDC," or "BurnToRedeem."
 
-When we stake our tokens in the NFT, they will gradually level up. You will able to stake as much as you want until the max limit \[100 000 $XDC per NFT]
+When we stake our tokens in the NFT, they will gradually level up. You will be able to stake as much as you want until the max limit \[100 000 $XDC per NFT]
 
-Your share depends on the multiplier of your NFT, which is based on both its level(added multiplier) and its rarity(base multiplier).
+Your share depends on the Multiplier of your NFT, which is based on both its level(added Multiplier) and its rarity(base multiplier).
 
 The higher your level and the more rarity you have, the more reward you will get.
 
@@ -189,14 +183,14 @@ Level:\
 Stake in level:\
 Last Stake Time:\
 Last Month's Reward:\
-Added multiplier:\
+Added Multiplier:\
 $XDC to level up:\
-Total multiplier:\
+Total Multiplier:\
 Locked:
 
 #### Total Multipliers
 
-You will get a Total Multiplier depending on your Base Rarity and/or level.\
+Depending on your Base Rarity and/or level, you will get a Total Multiplier.\
 Total Multiplier = Base Multiplier + Added Multiplier
 
 Example:
@@ -207,63 +201,40 @@ NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total
 
 #### **How to get a $XDC Staking NFT?**
 
-Current minting price: 3500 $XDC
-
-We will sell 5300 NFTs in the minting waves.
-
-31 NFTs will be airdropped to the PRNT NFTs Plentiful holders.\
-15 NFTs will be airdropped to the PRNT NFTs Handmade holders.\
-1 NFT will be airdropped to the PRNT NFTs Godly Holder.
-
-210 NFTs will be minted for development purposes + marketing.
-
-***
-
-#### Important Data:
-
-MAX Number of NFTs: 5557
-
-XDC staking will be released just after the Reveal.
-
-Reveal is when you will be able to see what NFT you received.
+[https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293](https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293)
 
 ***
 
 #### How to stake?
 
-The tutorial will come after the minting.
+The tutorial is coming!
 
 #### Frequently Asked Questions
 
 * **When are the staking rewards sent?**\
-  Smart-contract send the rewards on the last day of every month.
-* **When a person is in the process of leveling up, and a rewards drop takes place. Since the rewards drop into the NFT, does that help increase the levels?**\
-  Yes.
+  Smart-contract sends the rewards on the last day of every month.
+* **When a person is in the process of leveling up, and a rewards drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
+  Yes. But you need to stake to advance to the next level!
 
 #### Staking Interface Buttons
 
-* **"Staking" Button**\
+* **"Stake" Button**\
   This button is used for stake inside the NFT.
 * **"Transfer" Button**\
   This button is used for transferring NFTs between wallets.
-* **"Empty NFT" Button**\
-  This button takes out the NFT balance.\
-  To use this button, you need the NFT without interactions the previous seven days before trying to use "**Empty NFT**."\
-  Interaction = Transfer, Stake\
-  **Example: Your NFT has 30 000 $XDC; if you press this button, all the staked $XDC will go to your wallet.**
 * **"WITHDRAW XDC" Button**\
-  This button takes out the chosen NFT balance.\
-  To use this button, you need the NFT without interactions the previous 15 days before trying to use **"WITHDRAW XDC."**\
-  Interaction = Transfer, Stake\
-  **Example: Your NFT has 30 000 $XDC; if you press this button and introduce 10 000 $XDC, 10 000 $XDC from your staked $XDC will go to your wallet.**
+  This button takes out the NFT balance.\
+  To use this button, you need the NFT without interactions the previous seven days before using **"WITHDRAW XDC."**\
+  Interaction = Transfer, Stake
 * **"BurnToRedeem" Button**\
   This button breaks the NFT and extracts all the $XDC inside the NFT.\
   **It cannot be reversed;** it will burn your NFT and send all the XDC to your wallet. Also, **you get 30 $PRNT when you break the NFT.**
 * **"Merge NFTs" Button**\
   This button **merges 2 NFTs of the same rarity to get one of the following rarities.**
 * **"LOCK NFT" Button**\
-  This button locks this NFT for one year to get an **additional 7% APY.**\
-  When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get this reward.
+  This button locks this NFT for one year and one month to get an **additional 7% APY.**\
+  When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get this reward.\
+  **NFTs that are locked cannot utilize BurnToRedeem, Merge NFTs, or WithdrawXDC features.**
 
 #### Summary
 

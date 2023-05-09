@@ -1,4 +1,4 @@
-# WHAT IS PRIME NUMBERS FINANCE?
+# PRIME NUMBERS FINANCE
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,4 +51,3 @@ Lend tokens to the NFT owners using their NFTs as collateral.\
 \
 //More information soon
 
-****
