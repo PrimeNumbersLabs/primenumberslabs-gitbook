@@ -1,4 +1,4 @@
-# NFTs
+# PRNT NFTs
 
 <figure><img src="../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 

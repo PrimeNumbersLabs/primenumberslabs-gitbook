@@ -2,7 +2,7 @@
 description: How staking mechancis works?
 ---
 
-# Staking Mechanics
+# PRNT Staking Mechanics
 
 ## Staking system with NFTs <a href="#5932" id="5932"></a>
 
