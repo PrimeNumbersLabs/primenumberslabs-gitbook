@@ -91,16 +91,10 @@ Prime Numbers XDC Staking NFTs will receive 10% of [Prime Numbers Finance](https
 
 When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get an **additional 7% APY**
 
-The lock period will be **one year.**\
-**The XDC inside this NFT is used to host masternodes.**\
-**The effect of the lock will be confirmed to the NFT once the masternode creation is complete.**
+The lock period will be **one year.**
 
 **The reward will be paid monthly to the NFT.**
 
 Example: You have an NFT with 100 000 $XDC. And you lock it.\
 From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC\
 And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% minting funds.
-
-Game Ecosystem Rewards
-
-This will be announced when we have all this part of the ecosystem ready.

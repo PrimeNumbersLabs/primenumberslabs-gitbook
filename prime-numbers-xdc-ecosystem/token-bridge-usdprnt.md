@@ -2,7 +2,11 @@
 
 We are going to explain how to bridge $PRNT and the $PRNT token networks.
 
-Prime Numbers $PRNT token is now on the XDC network, ETH network, BSC network, and XRPL network.
+Prime Numbers $PRNT token is now on the XDC network, ETH network, BSC network, and XRPL network.\
+\
+**WE RECOMMEND TO USE** [**https://bridge.wanchain.org/**](https://bridge.wanchain.org/)\
+\
+**You can use also:**
 
 We can bridge between ETH, BSC, and XRPL through [https://app.multichain.org/#/router](https://app.multichain.org/#/router)
 
