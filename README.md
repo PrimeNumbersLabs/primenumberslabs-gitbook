@@ -6,7 +6,7 @@ description: Prime Numbers Labs is a blockchain-focused organization.
 
 Prime Numbers Labs is a blockchain-focused organization known for its pioneering work in decentralized finance (DeFi) and non-fungible tokens (NFTs) on the XDC Network. \
 \
-Prime Numbers Labs is using its innovative staking technology with NFTs to solve blockchain, web3 gaming, tokenize, and banking problems.\
+Prime Numbers Labs is using its innovative staking technology with NFTs to solve blockchain, web3 gaming, tokenizing, and banking problems.\
 \
 They have developed several innovative platforms, including Prime Numbers XDC, a multifaceted ecosystem that generates revenue through its DeFi and NFT protocols.\
 \
