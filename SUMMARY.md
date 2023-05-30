@@ -27,3 +27,7 @@
 ## PRIME NUMBERS POLYGON ECOSYSTEM
 
 * [Prime Numbers Labs: Polygon Blockchain](prime-numbers-polygon-ecosystem/prime-numbers-labs-polygon-blockchain.md)
+
+## PRIME NUMBERS KUCOIN CHAIN ECOSYSTEM
+
+* [Prime Numbers Labs: KCC Blockchain](prime-numbers-kucoin-chain-ecosystem/prime-numbers-labs-kcc-blockchain.md)
