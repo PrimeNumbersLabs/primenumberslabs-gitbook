@@ -1,6 +1,7 @@
 # Table of contents
 
 * [PRIME NUMBERS LABS](README.md)
+  * [WHAT IS PRIME NUMBERS LABS?](prime-numbers-labs/what-is-prime-numbers-labs.md)
 
 ## Prime Numbers XDC Ecosystem
 
