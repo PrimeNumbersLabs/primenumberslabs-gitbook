@@ -1,7 +1,12 @@
 # Table of contents
 
 * [PRIME NUMBERS LABS](README.md)
+  * [Introduction](prime-numbers-labs/introduction.md)
   * [WHAT IS PRIME NUMBERS LABS?](prime-numbers-labs/what-is-prime-numbers-labs.md)
+  * [Liquid NFT Staking System](prime-numbers-labs/liquid-nft-staking-system.md)
+  * [PrimePort.xyz NFT Marketplace](prime-numbers-labs/primeport.xyz-nft-marketplace.md)
+  * [Prime Numbers Finance](prime-numbers-labs/prime-numbers-finance.md)
+  * [Tokenization System](prime-numbers-labs/tokenization-system.md)
 
 ## Prime Numbers XDC Ecosystem
 
