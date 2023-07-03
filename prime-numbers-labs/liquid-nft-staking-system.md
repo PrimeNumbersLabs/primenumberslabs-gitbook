@@ -4,8 +4,9 @@ Explanation of how Liquid NFT Staking System works:\
 \
 Our Staking System is an evolution of the Liquid Staking System\
 \
-SOON\
+Users are able to stake their $COIN or $TOKEN (depending on the network). When a user is staking, the user needs to connect to the platform and the desired network, then the user chooses what the user wants to stake. The platform will check the wallet of the user and will check if the user already has a "Vault NFT"\
 \
+//more INFO SOON\
 \
 Before we delve into how our system operates, let's first elucidate the concept of a Liquid Staking System.
 
