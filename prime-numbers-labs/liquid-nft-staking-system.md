@@ -4,6 +4,8 @@ Explanation of how Liquid NFT Staking System works:\
 \
 Our Staking System is an evolution of the Liquid Staking System\
 \
+SOON\
+\
 \
 Before we delve into how our system operates, let's first elucidate the concept of a Liquid Staking System.
 
