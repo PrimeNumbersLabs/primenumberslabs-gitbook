@@ -1,14 +1,48 @@
 # Liquid NFT Staking System
 
-Explanation of how Liquid NFT Staking System works:\
+The Liquid NFT Staking System is an innovative method of staking digital assets that blends the versatility of liquid staking with the potential benefits of non-fungible tokens (NFTs). It's a progression from the traditional Liquid Staking System.
+
+Our Staking System is an advancement to the traditional Liquid Staking System.
+
+**How does it function?**
+
+Users can stake their $COIN or $TOKEN, depending on the network of their choice.
+
+1- When a user intends to stake, they need to connect to the platform and select the preferred network, followed by choosing the desired staking option.
+
+2- The platform will then scrutinize the user's wallet to determine if they already possess a "Vault NFT" (We will discuss the various types of NFTs later). If the user does not have an NFT, the platform will display the following options:
+
+a) Mint a Free Vault NFT (Type 1) \
+b) Purchase a Premium Vault NFT (Type 2)
+
+The differentiation between Free Vault NFT and Premium Vault NFT lies in the following:
+
+Free Vault NFT: These NFTs empower users with the ability to stake within the NFT and garner rewards from the nodes of the blockchain that the user is utilizing.
+
+Premium Vault NFT: These NFTs also allow users to stake within the NFT and receive rewards from the blockchain nodes that the user is employing. Moreover, these NFTs provide additional rewards from the protocols of Prime Numbers Labs such as Primeport.xyz and Prime Numbers Finance. Premium NFTs fetch higher rewards compared to Free Vault NFTs.
+
+3- Once the user possesses an NFT and is connected to the platform, they can commence staking.
+
+4- The user merely needs to select the NFT, input the staking amount, and they're good to go!
+
+The system provides users with the following options:
+
+In this system, the NFT functions as a vault. Users can stake within the NFT, with the rewards being credited to the NFT. Rewards can be withdrawn from the NFT, and the staked amount can also be retrieved from the NFT.
+
+The most compelling advantage of this system:
+
+Owing to Prime Numbers Finance, users can utilize the NFT as collateral and exploit the staked amount in more protocols/methods. (In the future, you will be able to use this function of the NFTs in more lending and borrowing protocols)
+
+For instance:
+
+A user stakes 100 ETH within a Vault NFT, then proceeds to Prime Numbers Finance to collateralize the NFT for ETH. This ETH can then be utilized for various purposes such as staking in other NFTs or trading. To reclaim the NFT, the user needs to repay the ETH to Prime Numbers Finance.
+
+This innovative model is the Liquid NFT Staking System. These NFTs are liquid in nature since most of their value is attributed to the amount staked within the NFT.\
 \
-Our Staking System is an evolution of the Liquid Staking System\
 \
-Users are able to stake their $COIN or $TOKEN (depending on the network). When a user is staking, the user needs to connect to the platform and the desired network, then the user chooses what the user wants to stake. The platform will check the wallet of the user and will check if the user already has a "Vault NFT"\
-\
-//more INFO SOON\
-\
-Before we delve into how our system operates, let's first elucidate the concept of a Liquid Staking System.
+**Liquid Staking System Explanation:**\
+(This system is used in most of the protocols)\
+To understand better how our system operates, let's elucidate the concept of a Liquid Staking System.
 
 Liquid staking represents the latest advancement in staking services. It necessitates users to commit their funds to secure the network, yet retains liquidity, meaning that users maintain access to their resources. Unlike traditional Proof-of-Stake (PoS) systems, liquid staking sees the funds stored in DeFi escrow accounts, ensuring high liquidity and enabling users to access their tokens at will. With liquid staking, users can unlock multiple revenue streams from their crypto assets, as they can stake their assets and still have them accessible. This liquidity can then be used in other DeFi protocols to garner additional returns on initial deposits.
 
