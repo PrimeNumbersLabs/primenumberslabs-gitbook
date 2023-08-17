@@ -96,3 +96,13 @@ The lock period will be **one year.**
 Example: You have an NFT with 100 000 $XDC. And you lock it.\
 From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC\
 And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% minting funds.
+
+
+
+## Additional information <a href="#5230" id="5230"></a>
+
+If you want more information about the rewards in both collections of NFTs, check out these links:
+
+{% embed url="https://medium.primenumbers.xyz/xdc-staking-nft-collection-e7e7c7fa99d4" %}
+
+{% embed url="https://medium.primenumbers.xyz/prnt-staking-nft-rewards-10eca7fe6854" %}
