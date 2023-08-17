@@ -37,7 +37,7 @@ Check the following table to see what is the max multiplier your NFT can get wit
 
 ## How to stake? <a href="#21ca" id="21ca"></a>
 
-[https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c](https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c)
+{% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c" %}
 
 ## _Frequently Asked Questions_ <a href="#a7be" id="a7be"></a>
 

@@ -40,7 +40,11 @@ Prime Numbers’ NFT marketplace, Primeport.xyz has a 1.5% fee on all secondary 
 
 ### 4- Prime Numbers Finance <a href="#7896" id="7896"></a>
 
-Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits. [https://www.primenumbers.finance/](https://www.primenumbers.finance/)
+Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits.&#x20;
+
+{% embed url="https://www.primenumbers.finance/" %}
+link
+{% endembed %}
 
 ### LP Rewards: <a href="#11cf" id="11cf"></a>
 
@@ -108,5 +112,9 @@ And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% 
 If you want more information about the rewards in both collections of NFTs, check out these links:
 
 {% embed url="https://medium.primenumbers.xyz/xdc-staking-nft-collection-e7e7c7fa99d4" %}
+link
+{% endembed %}
 
 {% embed url="https://medium.primenumbers.xyz/prnt-staking-nft-rewards-10eca7fe6854" %}
+ñink
+{% endembed %}

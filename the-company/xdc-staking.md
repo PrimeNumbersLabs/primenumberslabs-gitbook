@@ -111,7 +111,7 @@ Base Multiplier = 2.
 
 MYSTERY ❤ You will see it on the Reveal.
 
-
+***
 
 #### **MERGE SYSTEM**
 
@@ -197,13 +197,13 @@ Example:
 
 NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total multiplier of 3.8
 
-
+***
 
 #### **How to get a $XDC Staking NFT?**
 
-[https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293](https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293)
-
-
+{% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
+Link
+{% endembed %}
 
 #### How to stake?
 
