@@ -15,7 +15,4 @@ description: $PRNT smart contracts on different networks.
 \
 **BSC NETWORK:**\
 [**https://bscscan.com/token/0x9f402f44684574f3535ea6f1bb5cfbffef42ee28**](https://bscscan.com/token/0x9f402f44684574f3535ea6f1bb5cfbffef42ee28)\
-0x9F402F44684574F3535EA6f1Bb5cFBFfef42ee28\
-\
-**XRPL NETWORK:**\
-[https://medium.com/@PrimeNumbersFi/xrpl-prime-numbers-c2a8b30f1ac2](https://medium.com/@PrimeNumbersFi/xrpl-prime-numbers-c2a8b30f1ac2)
+0x9F402F44684574F3535EA6f1Bb5cFBFfef42ee28

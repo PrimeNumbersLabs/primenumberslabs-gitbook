@@ -12,7 +12,7 @@ Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are ha
 
 ## Handmade <a href="#a422" id="a422"></a>
 
-The first 15 Prime Numbers will consist of handcrafted images from our Art Director, a famous artist. They are creative paintings that each represent one of the first 15 prime numbers. The handmade Prime Numbers are unique, and will never again be minted.
+The first 15 Prime Numbers will consist of handcrafted images from our Art Director. They are creative paintings that each represent one of the first 15 prime numbers. The handmade Prime Numbers are unique, and will never again be minted.
 
 ## Generative <a href="#0cde" id="0cde"></a>
 

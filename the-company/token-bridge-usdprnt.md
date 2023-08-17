@@ -8,11 +8,9 @@ Prime Numbers $PRNT token is now on the XDC network, ETH network, BSC network, a
 \
 **You can use also:**
 
-We can bridge between ETH, BSC, and XRPL through [https://app.multichain.org/#/router](https://app.multichain.org/#/router)
+We can bridge between ETH or BSC through [https://app.multichain.org/#/router](https://app.multichain.org/#/router)
 
-Multichain team is waiting on the XDC team to allow them to integrate the XDC network.
-
-**How to bridge ETH, BSC or XRPL $PRNT with XDC $PRNT ?**\
+**How to bridge ETH or BSC  $PRNT with XDC $PRNT ?**\
 You need to bridge your BSC or XRPL $PRNT to ETH $PRNT and then deposit this ETH $PRNT on bitrue.
 
 When you have this $PRNT on bitrue, you will be able to withdraw $PRNT on the XDC network.

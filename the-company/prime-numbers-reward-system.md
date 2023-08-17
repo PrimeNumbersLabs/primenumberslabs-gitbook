@@ -26,8 +26,6 @@ Using NFT Royalty Standard, NFT holders will receive 50% of all royalties on res
 
 The royalties percentage is set at 10%, which means 5% of the sales price of each sold NFT is distributed over all NFT holders.
 
-The funds go to this wallet: xdc129f3071bDFA4660A8D9E85c57570c839A80658F
-
 ### 3- PrimePort.xyz NFT Marketplace <a href="#015a" id="015a"></a>
 
 Prime Numbers’ NFT marketplace, Primeport.xyz has a 1.5% fee on all secondary market sales.

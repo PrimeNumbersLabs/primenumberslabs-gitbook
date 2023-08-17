@@ -23,17 +23,4 @@
 * [$PRNT Smart Contracts](the-company/usdprnt-smart-contracts.md)
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)
 * [Token Bridge $PRNT](the-company/token-bridge-usdprnt.md)
-* [How to stake $PRNT with Prime Numbers? Tutorial](the-company/how-to-stake-usdprnt-with-prime-numbers-tutorial.md)
 * [Main Network $XDC](the-company/main-network-usdxdc.md)
-
-## PRIME NUMBERS ETH ECOSYSTEM
-
-* [PRIME NUMBERS ETH ECOSYSTEM](prime-numbers-eth-ecosystem/prime-numbers-eth-ecosystem.md)
-
-## PRIME NUMBERS POLYGON ECOSYSTEM
-
-* [Prime Numbers Labs: Polygon Blockchain](prime-numbers-polygon-ecosystem/prime-numbers-labs-polygon-blockchain.md)
-
-## PRIME NUMBERS KUCOIN CHAIN ECOSYSTEM
-
-* [Prime Numbers Labs: KCC Blockchain](prime-numbers-kucoin-chain-ecosystem/prime-numbers-labs-kcc-blockchain.md)

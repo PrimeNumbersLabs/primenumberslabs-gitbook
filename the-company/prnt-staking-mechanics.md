@@ -16,7 +16,7 @@ Using NFT Royalty Standard, NFT holders will receive 50% percent of all royaltie
 
 The higher your level and the more rarity you have the more reward you will get.
 
-One of the $PRNT token rewards will be an airdrop of $PRNT tokens into the NFTs. We will airdrop 20000 $PRNT into the NFTs every month for a period of 6 years. Resulting in a total of 1.440.000 $PRNT taken from the foundation’s reward pool. These NFTs upon receiving the tokens will level up from this. The staking airdrop will be factored in based on the amount of $PRNT inside the NFT.
+One of the $PRNT token rewards will be an airdrop of $PRNT tokens into the NFTs. We will airdrop 20000 $PRNT into the NFTs every month for a period of 6 years. Resulting in a total of 1.440.000 $PRNT taken from the staking reward pool. These NFTs upon receiving the tokens will level up from this. The staking airdrop will be factored in based on the amount of $PRNT inside the NFT.
 
 <figure><img src="../.gitbook/assets/1_KOU9KspbOFi_USk19sQJUQ.png" alt=""><figcaption></figcaption></figure>
 
@@ -56,9 +56,9 @@ Check the following table to see what is the max multiplier your NFT can get wit
   This button breaks the NFT and takes out all the $PRNT inside the NFT.\
   It cannot be reversed, it will burn your NFT and send all the PRNT to your wallet.
 * **“Instant Stake” Button**\
-  This button allows you to stake whatever you want amount but you pay a 5% fee of the introduced amount. If you introduce 10000 $PRNT -> 9500$ PRNT to the stake and 500$ PRNT for the fee.
+  This button allows you to stake whatever you want amount but you pay a 5% fee of the introduced amount. This fee goes to the reward pool. If you introduce 10000 $PRNT -> 9500$ PRNT to the stake and 500$ PRNT for the fee.
 * **“GetSurplus” Button**\
-  This button takes out the NFT the balance above 8298 $PRNT.\
+  This button takes out the NFT the balance above 8298 $PRNT. It means that any value above 8298 $PRNT can be withdrawn.\
   To use this button you need the NFT without interactions the previous 15 days of trying using “GetSurplus”.\
   Interaction = Transfer, Stake
 
