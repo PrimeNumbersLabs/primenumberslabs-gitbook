@@ -18,7 +18,9 @@ In this post, we are going to explain all the rewards of the Prime Numbers ecosy
 
 10000 $PRNT given to “a” -> \[Total Multiplier] of the NFTs 10000 $PRNT given to (“a” \* ”b”) -> \[(Total Multiplier)\*Tokens)]
 
-Link to staking mechanics: [https://medium.com/@PrimeNumbersFi/nft-staking-mechanics-june-update-8d3eb8327258](https://medium.com/@PrimeNumbersFi/nft-staking-mechanics-june-update-8d3eb8327258)
+Link to staking mechanics:&#x20;
+
+{% embed url="https://medium.com/@PrimeNumbersFi/nft-staking-mechanics-june-update-8d3eb8327258" %}
 
 ### 2- Prime Numbers NFTs Royalties <a href="#6649" id="6649"></a>
 
@@ -42,7 +44,9 @@ Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits. [https://w
 
 ### LP Rewards: <a href="#11cf" id="11cf"></a>
 
-Link: [https://medium.com/@PrimeNumbersFi/prime-numbers-lp-rewards-on-the-xdc-network-6a080ab40b74](https://medium.com/@PrimeNumbersFi/prime-numbers-lp-rewards-on-the-xdc-network-6a080ab40b74)
+Link:&#x20;
+
+{% embed url="https://medium.com/@PrimeNumbersFi/prime-numbers-lp-rewards-on-the-xdc-network-6a080ab40b74" %}
 
 TOTAL Reward Pool: 240000 $PRNT\
 Reward per year: 120000 $PRNT\
