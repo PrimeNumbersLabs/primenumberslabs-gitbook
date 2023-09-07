@@ -27,14 +27,6 @@ One of the $PRNT token rewards will be an airdrop of $PRNT tokens into the NFTs.
 Depending on your Base Rarity and/or level you will get a Total Multiplier.\
 Total Multiplier = Base Multiplier + Added Multiplier
 
-Check the following table to see what is the max multiplier your NFT can get with the Base Rarity.
-
-<figure><img src="../.gitbook/assets/1_82LhdX8TW7C6r1ENK-LYQw.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1_Qw-xNwnAFLANYOu2nv76rw.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/1_HbSqRdBnONyxVUr-FZuNzA.png" alt=""><figcaption></figcaption></figure>
-
 ## How to stake? <a href="#21ca" id="21ca"></a>
 
 {% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c" %}
