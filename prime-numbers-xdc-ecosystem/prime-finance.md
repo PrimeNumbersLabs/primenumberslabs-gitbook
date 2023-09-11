@@ -1,6 +1,6 @@
-# Prime Numbers Finance
+# PRIME FINANCE
 
-Prime Numbers Finance is a decentralized finance (DeFi) protocol, operating on the XDC network, which pioneers the concept of lending and borrowing cryptocurrency through a pooled liquidity system. This protocol, which is compatible with most EVM networks, provides lenders with an opportunity to earn a stable, relatively risk-free income from interest on loans, all while bypassing the need for intermediaries.
+Prime Finance is a decentralized finance (DeFi) protocol, operating on the XDC network, which pioneers the concept of lending and borrowing cryptocurrency through a pooled liquidity system. This protocol, which is compatible with most EVM networks, provides lenders with an opportunity to earn a stable, relatively risk-free income from interest on loans, all while bypassing the need for intermediaries.
 
 A unique feature of this protocol is the integration of NFTs (Non-Fungible Tokens) into its lending and borrowing framework.
 
@@ -11,6 +11,8 @@ The loans are overcollateralized, meaning the collateral's value exceeds the loa
 The PRNT token offers holders a multitude of benefits. For instance, loans in PRNT do not incur fees, and borrowers using PRNT as collateral receive discounted fees.
 
 Moreover, PRNT owners can access loans before they are made available to the public for a PRNT fee. They can also borrow more if they use PRNT as collateral.
+
+When PRNT holders stake their tokens with Prime Numbers NFTs, they receive 40% of Prime Numbers Finance profits.
 
 The innovative feature of Lending & Borrowing NFTs is also included in Prime Numbers Finance. This comes hand in hand with an NFT marketplace that offers options for lending and borrowing NFTs.
 
