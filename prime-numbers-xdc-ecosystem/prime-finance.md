@@ -12,8 +12,8 @@ The PRNT token offers holders a multitude of benefits. For instance, loans in PR
 
 Moreover, PRNT owners can access loans before they are made available to the public for a PRNT fee. They can also borrow more if they use PRNT as collateral.
 
-When PRNT holders stake their tokens with Prime Numbers NFTs, they receive 40% of Prime Numbers Finance profits.
+When PRNT holders stake their tokens with Prime Numbers NFTs, they receive 40% of Prime Finance profits.
 
-The innovative feature of Lending & Borrowing NFTs is also included in Prime Numbers Finance. This comes hand in hand with an NFT marketplace that offers options for lending and borrowing NFTs.
+The innovative feature of Lending & Borrowing NFTs is also included in Prime Finance. This comes hand in hand with an NFT marketplace that offers options for lending and borrowing NFTs.
 
 Through the Liquid NFT Staking System developed by Prime Numbers Labs, users can leverage the funds within their NFTs for use across additional protocols or NFTs. This further extends the versatility and utility of the system, enabling enhanced yield optimization and asset management.
