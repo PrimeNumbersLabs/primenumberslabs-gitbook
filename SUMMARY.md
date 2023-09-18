@@ -23,4 +23,5 @@
 * [$PRNT Smart Contracts](the-company/usdprnt-smart-contracts.md)
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)
 * [Token Bridge $PRNT](the-company/token-bridge-usdprnt.md)
+* [Roadmap](prime-numbers-xdc-ecosystem/roadmap.md)
 * [Main Network $XDC](the-company/main-network-usdxdc.md)
