@@ -36,6 +36,8 @@ This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 P
 
 {% embed url="https://docs.google.com/spreadsheets/d/1qIb3FfCR3eY9LUCz2rGExolEvlhs9809jmqiig4pQM4/edit?usp=sharing" %}
 
+<figure><img src="../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 **4. Prime Numbers Finance Rewards (1,000,000 PRNT)**
@@ -64,6 +66,8 @@ Tokens allocated for the seed sale were sold at 0.33 $/PRNT. This batch has been
 
 {% embed url="https://docs.google.com/spreadsheets/d/1GZ2MXIWx6SmNEIp9NL-s8cH691iqgGlenOpv_I13tgA/edit?usp=sharing" %}
 
+<figure><img src="../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
+
 ***
 
 **9. Team (300,000 PRNT)**
@@ -75,3 +79,5 @@ The team's token allocation is locked and will remain so until Wednesday, Januar
 **10. MM & LPs (300,000 PRNT)**
 
 This allocation compensates the Liquidity Providers (LPs) on Decentralized Exchanges (DEXs). The total reward pool stands at 240,000 $PRNT, with an annual reward of 120,000 $PRNT and a monthly reward of 10,000 $PRNT.
+
+<figure><img src="../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
