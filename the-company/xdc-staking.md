@@ -26,17 +26,17 @@ The collection consists of 5557 NFTs, of which Prime Numbers make 5542, and 15 h
 
 These NFTs are going to get the following rewards:
 
-* **VARIABLE REWARD:** 10% of Prime Numbers Finance Profits
+* **VARIABLE REWARD:** 10% of Prime Finance Profits
 * **FIXED REWARD:** In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
 
-We will give the 30% of the funds from the minting because Prime Numbers Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
+We will give the 30% of the funds from the minting because Prime Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
 
-The 10% of Prime Numbers Finance profits should be higher than the 30% of the minting funds.\
+The 10% of Prime Finance profits should be higher than the 30% of the minting funds.\
 All of these rewards will be paid on $XDC.
 
 #### 1- Fixed Reward
 
-**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Numbers Finance.**
+**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Finance.**
 
 **PAYOUT Formula Staking**\
 a= total Multiplier of the NFT\
@@ -50,9 +50,9 @@ b= XDC staked per NFT
 HALF XDC REWARD given to "a" -> \[Total Multiplier] of the NFTs\
 HALF XDC REWARD given to (“a” \* ”b”) -> \[(Total Multiplier)\*XDC)]
 
-#### 2- Prime Numbers Finance
+#### 2- Prime Finance
 
-Prime Numbers XDC Staking NFTs will receive 10% of [Prime Numbers Finance](https://primenumberswhitepaper.gitbook.io/prime-numbers/the-company/prime-numbers-finance) profits.
+Prime Numbers XDC Staking NFTs will receive 10% of [Prime Finance](https://primenumberswhitepaper.gitbook.io/prime-numbers/the-company/prime-numbers-finance) profits.
 
 #### XDC NFT Staking (optional):
 
@@ -65,7 +65,7 @@ The lock period will be **one year.**\
 
 Example: You have an NFT with 100 000 $XDC. And you lock it.\
 From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC\
-And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% minting funds.
+And a part of the 10% of Prime Finance profits and an amount of the 30% minting funds.
 
 #### Different Rarities:
 
