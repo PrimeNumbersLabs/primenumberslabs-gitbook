@@ -131,7 +131,7 @@ This makes the NFTs deflationary.
 
 #### Refund System
 
-Here we show you how our merge NFTs system works.
+Here, we show you how our merge NFTs system works.
 
 **You can use the "BurnToRedeem" button to get 30 $PRNT (Refund System)**
 
@@ -143,7 +143,7 @@ Examples: \
 
 2- You minted and got one low rarity, and you prefer 30 $PRNT; you can also use this system.
 
-3- The 30 $PRNT is more valuable than the NFT, and you decide to "BurnToRedeem" as an investment option.
+3- The 30 $PRNT is more valuable than the NFT, and you decide to use "BurnToRedeem" as an investment option.
 
 This makes the NFTs deflationary.
 
@@ -164,7 +164,7 @@ These NFTs, upon receiving the tokens, will level up from this. The staking aird
 <figure><img src="https://cdn-images-1.medium.com/max/1600/1*kbbiHJ-cD1LocraNJB3L7Q.png" alt=""><figcaption></figcaption></figure>
 
 **Max limit \[100 000 $XDC per NFT]**\
-**100 000 $XDC is the max amount you can stake, but the NFT XDC balance can go above 100 000 $XDC due de rewards.**
+**100 000 $XDC is the maximum amount you can stake, but the NFT XDC balance can go above 100 000 $XDC due to rewards.**
 
 #### The information you can see in the staking interface:
 
@@ -205,15 +205,13 @@ NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total
 Link
 {% endembed %}
 
-#### How to stake?
 
-The tutorial is coming!
 
 #### Frequently Asked Questions
 
 * **When are the staking rewards sent?**\
   Smart-contract sends the rewards on the last day of every month.
-* **When a person is in the process of leveling up, and a rewards drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
+* **When a person is in the process of leveling up, a reward drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
   Yes. But you need to stake to advance to the next level!
 
 #### Staking Interface Buttons
@@ -233,13 +231,13 @@ The tutorial is coming!
   This button **merges 2 NFTs of the same rarity to get one of the following rarities.**
 * **"LOCK NFT" Button**\
   This button locks this NFT for one year and one month to get an **additional 7% APY.**\
-  When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get this reward.\
+  When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you can lock this NFT to get this reward.\
   **NFTs that are locked cannot utilize BurnToRedeem, Merge NFTs, or WithdrawXDC features.**
 
 #### Summary
 
 After reading the entire post, we can get the following conclusions:
 
-Due to our level system, trying to achieve the highest level can be very interesting and rewarding. By actively leveling your NFT, you quickly raise in reward multiplier, resulting in a larger slice of the $XDC pie.
+Due to our level system, trying to achieve the highest level can be very interesting and rewarding. By actively leveling your NFT, you quickly raise the reward multiplier, resulting in a larger slice of the $XDC pie.
 
 Depending on the rarity of the NFT and level, you can get up to +4x in the rewards.

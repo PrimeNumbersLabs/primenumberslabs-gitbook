@@ -4,15 +4,12 @@
   * [Introduction](prime-numbers-labs/introduction.md)
   * [WHAT IS PRIME NUMBERS LABS?](prime-numbers-labs/what-is-prime-numbers-labs.md)
   * [Liquid NFT Staking System](prime-numbers-labs/liquid-nft-staking-system.md)
-  * [PrimePort.xyz NFT Marketplace](prime-numbers-labs/primeport.xyz-nft-marketplace.md)
   * [Prime Finance](prime-numbers-labs/prime-finance.md)
-  * [Tokenization System](prime-numbers-labs/tokenization-system.md)
 
 ## Prime Numbers XDC Ecosystem
 
 * [Prime Numbers XDC Ecosystem](<README (1).md>)
 * [WHAT IS THE PRIME NUMBERS XDC ECOSYSTEM?](the-company/what-is-prime-numbers.md)
-* [PRIMEPORT.XYZ MARKETPLACE](the-company/primeport.xyz-marketplace.md)
 * [PRIME FINANCE](prime-numbers-xdc-ecosystem/prime-finance.md)
 * [PRNT NFTs](the-company/prnt-nfts.md)
 * [PRNT Staking Mechanics](the-company/prnt-staking-mechanics.md)

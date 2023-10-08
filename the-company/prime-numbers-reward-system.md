@@ -6,7 +6,7 @@ description: We are going to explain all the rewards of the Prime Numbers ecosys
 
 ## Prime Numbers Reward System <a href="#5230" id="5230"></a>
 
-In this post, we are going to explain all the rewards of the Prime Numbers ecosystem.
+In this post, we will explain all the rewards of the Prime Numbers ecosystem.
 
 ## PRNT NFT STAKING REWARDS: <a href="#b642" id="b642"></a>
 
@@ -24,27 +24,15 @@ Link to staking mechanics:&#x20;
 
 ### 2- Prime Numbers NFTs Royalties <a href="#6649" id="6649"></a>
 
-Using NFT Royalty Standard, NFT holders will receive 50% of all royalties on resales.
+Using the NFT Royalty Standard, NFT holders will receive 50% of all royalties on resales.
 
 The royalties percentage is set at 10%, which means 5% of the sales price of each sold NFT is distributed over all NFT holders.
 
-### 3- PrimePort.xyz NFT Marketplace <a href="#015a" id="015a"></a>
 
-Prime Numbers’ NFT marketplace, Primeport.xyz has a 1.5% fee on all secondary market sales.
 
-0.75% goes to one of our DAO funds, where the DAO will decide what to do with the funds.
-
-0.25% goes to staking rewards.
-
-0.5% goes to the development and maintenance of the marketplace.
-
-### 4- Prime Numbers Finance <a href="#7896" id="7896"></a>
+### 3- Prime Finance <a href="#7896" id="7896"></a>
 
 Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits.&#x20;
-
-{% embed url="https://www.primenumbers.finance/" %}
-link
-{% endembed %}
 
 ### LP Rewards: <a href="#11cf" id="11cf"></a>
 
@@ -65,7 +53,7 @@ These NFTs are going to get the following rewards:
 * **VARIABLE REWARD:** 10% of Prime Numbers Finance Profits
 * **FIXED REWARD:** In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
 
-We will give the 30% of the funds from the minting because Prime Numbers Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
+We will give 30% of the funds from the minting because Prime Numbers Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
 
 The 10% of Prime Numbers Finance profits should be higher than the 30% of the minting funds.\
 All of these rewards will be paid on $XDC.
@@ -86,12 +74,9 @@ b= XDC staked per NFT
 HALF XDC REWARD given to “a” -> \[Total Multiplier] of the NFTs\
 HALF XDC REWARD given to (“a” \* ”b”) -> \[(Total Multiplier)\*XDC)]
 
-**Current(14-January) Reward Pool: 1,275,000 $XDC**\
-**The reward pool depends on the total minted NFTs.**
+## 2- Prime Finance <a href="#036c" id="036c"></a>
 
-## 2- Prime Numbers Finance <a href="#036c" id="036c"></a>
-
-Prime Numbers XDC Staking NFTs will receive 10% of [Prime Numbers Finance](https://primenumberswhitepaper.gitbook.io/prime-numbers/the-company/prime-numbers-finance) profits.
+Prime Numbers XDC Staking NFTs will receive 10% of Prime Finance profits.
 
 ## XDC NFT Staking (optional): <a href="#a11b" id="a11b"></a>
 
@@ -103,7 +88,7 @@ The lock period will be **one year.**
 
 Example: You have an NFT with 100 000 $XDC. And you lock it.\
 From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC\
-And a part of the 10% of Prime Numbers Finance profits and an amount of the 30% minting funds.
+And a part of the 10% of Prime Finance profits and an amount of the 30% minting funds.
 
 
 
