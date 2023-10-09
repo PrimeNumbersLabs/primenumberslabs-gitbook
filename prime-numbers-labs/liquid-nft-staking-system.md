@@ -20,7 +20,7 @@ The differentiation between Free Vault NFT and Premium Vault NFT lies in the fol
 Free Vault NFT: These NFTs empower users with the ability to stake within the NFT and garner rewards from the nodes of the blockchain that the user is utilizing.\
 **The user can use one of their favorite NFTs by minting a wrap of their NFT with the Prime Numbers Labs Utility!**
 
-Premium Vault NFT: These NFTs also allow users to stake within the NFT and receive rewards from the blockchain nodes that the user is employing. Moreover, these NFTs provide additional rewards from the protocols of Prime Numbers Labs such as Primeport.xyz and Prime Numbers Finance. Premium NFTs fetch higher rewards compared to Free Vault NFTs.
+Premium Vault NFT: These NFTs also allow users to stake within the NFT and receive rewards from the blockchain nodes that the user is employing. Moreover, these NFTs provide additional rewards from the protocols of Prime Numbers Labs such  Prime Finance. Premium NFTs fetch higher rewards compared to Free Vault NFTs.
 
 3- Once the user possesses an NFT and is connected to the platform, they can commence staking.
 
@@ -32,7 +32,7 @@ In this system, the NFT functions as a vault. Users can stake within the NFT, wi
 
 The most compelling advantage of this system:
 
-Owing to Prime Numbers Finance, users can utilize the NFT as collateral and exploit the staked amount in more protocols/methods. (In the future, you will be able to use this function of the NFTs in more lending and borrowing protocols)
+Owing to Prime Numbers Finance, users can utilize the NFT as collateral and use the staked amount in more protocols/methods. (In the future, you will be able to use this function of the NFTs in more lending and borrowing protocols)
 
 For instance:
 
