@@ -26,7 +26,7 @@ This is XDC's core activity through the private blockchain ledger. It allows for
 
 **Team**
 
-The XDC team is composed of experts in blockchain, finance, and technology, with experience in companies like JPMorgan and Microsoft.
+The XDC team is composed of experts in blockchain, finance, and technology, with high level experience in finance companies.
 
 The platform also has partnerships with companies such as IBM, Oracle, and the government of India.
 
