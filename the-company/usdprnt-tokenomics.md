@@ -40,9 +40,9 @@ This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 P
 
 ***
 
-**4. Prime Numbers Finance Rewards (1,000,000 PRNT)**
+**4. Prime Finance Rewards (1,000,000 PRNT)**
 
-The Prime Numbers Finance Rewards are designated to reward the Prime Finance Liquidity Providers (LP).
+The Prime Finance Rewards are designated to reward the Prime Finance Liquidity Providers (LP).
 
 ***
 
