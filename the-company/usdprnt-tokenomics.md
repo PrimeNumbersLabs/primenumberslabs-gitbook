@@ -1,10 +1,10 @@
 ---
-description: Prime Numbers Token $PRNT
+description: Prime Numbers Labs Token $PRNT
 ---
 
 # $PRNT Tokenomics
 
-<figure><img src="../.gitbook/assets/Captura de pantalla 2023-06-01 163701.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 **1. XDC Ecosystem Development (2,500,000 PRNT)**
 
@@ -23,6 +23,7 @@ The XDC Ecosystem Development allocation is primarily used for various operation
 The Prime Numbers Labs Ecosystem tokens serve a similar purpose as the XDC Ecosystem Development tokens. They are used for:
 
 * Exchange listing payments.
+* Prime Finance Treasury
 * Payments to hired team members.
 * Strategic token sales to partners.
 * Bridge development and maintenance.
