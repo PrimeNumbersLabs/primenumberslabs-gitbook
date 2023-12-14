@@ -4,7 +4,7 @@ description: We are going to explain all the rewards of the Prime Numbers ecosys
 
 # Prime Numbers Reward System
 
-## Prime Numbers Reward System <a href="#5230" id="5230"></a>
+Prime Numbers Reward System
 
 In this post, we will explain all the rewards of the Prime Numbers ecosystem.
 
@@ -96,10 +96,10 @@ And a part of the 10% of Prime Finance profits and an amount of the 30% minting 
 
 If you want more information about the rewards in both collections of NFTs, check out these links:
 
-{% embed url="https://medium.primenumbers.xyz/xdc-staking-nft-collection-e7e7c7fa99d4" %}
+{% embed url="https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-5db9fe6437a1" %}
 link
 {% endembed %}
 
-{% embed url="https://medium.primenumbers.xyz/prnt-staking-nft-rewards-10eca7fe6854" %}
-ñink
+{% embed url="https://medium.com/@PrimeNumbersFi/prnt-staking-nft-mechanics-fdea8f7d44e1" %}
+link
 {% endembed %}
