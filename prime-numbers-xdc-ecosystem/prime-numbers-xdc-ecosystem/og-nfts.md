@@ -9,6 +9,6 @@ Unlike normal generative NFTs that have a bonus multiplier based on their rarity
 In addition, our designers are making an exclusive look for the OG NFT, featuring it’s multiplier.\
 
 
-<figure><img src="../.gitbook/assets/0_7zfx_manvqzrni1z.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0_7zfx_manvqzrni1z.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/0_Ecc5JGSQItA3T7oy.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/0_Ecc5JGSQItA3T7oy.png" alt=""><figcaption></figcaption></figure>

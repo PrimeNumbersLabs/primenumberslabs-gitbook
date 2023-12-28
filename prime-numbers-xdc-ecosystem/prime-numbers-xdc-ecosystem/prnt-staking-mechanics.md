@@ -18,9 +18,9 @@ The higher your level and the more rarity you have the more reward you will get.
 
 One of the $PRNT token rewards will be an airdrop of $PRNT tokens into the NFTs. We will airdrop 20000 $PRNT into the NFTs every month for a period of 6 years. Resulting in a total of 1.440.000 $PRNT taken from the staking reward pool. These NFTs upon receiving the tokens will level up from this. The staking airdrop will be factored in based on the amount of $PRNT inside the NFT.
 
-<figure><img src="../.gitbook/assets/1_KOU9KspbOFi_USk19sQJUQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_KOU9KspbOFi_USk19sQJUQ.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/1_fPteFbdmqJYlnosnbcgLZQ.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_fPteFbdmqJYlnosnbcgLZQ.png" alt=""><figcaption></figcaption></figure>
 
 ## Total Multipliers <a href="#605d" id="605d"></a>
 

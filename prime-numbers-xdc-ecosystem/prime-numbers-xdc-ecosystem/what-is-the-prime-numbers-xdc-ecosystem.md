@@ -16,12 +16,10 @@ We reward our community through our NFTs collections, which have a [revolutionar
 
 Our ecosystem is based on our NFT collection, where you stake PRNT tokens inside the NFTS to get rewards from the fees of all our protocols.
 
-
-
 First lending and borrowing platform in the XDC network for cryptocurrency and NFTs. Part of the revenue from this protocol will go to PRNT NFT & XDC Staking NFT holders.
 
 
 
 
 
-<figure><img src="../.gitbook/assets/primenumbers_youtube.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/primenumbers_youtube.png" alt=""><figcaption></figcaption></figure>

@@ -8,14 +8,14 @@
 
 ## Prime Numbers XDC Ecosystem
 
-* [Prime Numbers XDC Ecosystem](<README (1).md>)
-* [WHAT IS THE PRIME NUMBERS XDC ECOSYSTEM?](the-company/what-is-prime-numbers.md)
-* [PRIME FINANCE](prime-numbers-xdc-ecosystem/prime-finance.md)
-* [PRNT NFTs](the-company/prnt-nfts.md)
-* [PRNT Staking Mechanics](the-company/prnt-staking-mechanics.md)
-* [XDC STAKING](the-company/xdc-staking.md)
-* [OG NFTs](the-company/og-nfts.md)
-* [Prime Numbers Reward System](the-company/prime-numbers-reward-system.md)
+* [Prime Numbers XDC Ecosystem](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/README.md)
+  * [WHAT IS THE PRIME NUMBERS XDC ECOSYSTEM?](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/what-is-the-prime-numbers-xdc-ecosystem.md)
+  * [PRIME FINANCE](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prime-finance.md)
+  * [PRNT NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-nfts.md)
+  * [PRNT Staking Mechanics](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-staking-mechanics.md)
+  * [XDC STAKING](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/xdc-staking.md)
+  * [OG NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/og-nfts.md)
+  * [Prime Numbers Reward System](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prime-numbers-reward-system.md)
 * [$PRNT Tokenomics](the-company/usdprnt-tokenomics.md)
 * [$PRNT Smart Contracts](the-company/usdprnt-smart-contracts.md)
 * [$PRNT Use Cases](the-company/usdprnt-use-cases.md)

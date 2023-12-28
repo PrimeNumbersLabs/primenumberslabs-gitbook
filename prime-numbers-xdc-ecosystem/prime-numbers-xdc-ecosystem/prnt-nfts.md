@@ -1,6 +1,6 @@
 # PRNT NFTs
 
-<figure><img src="../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#7c88" id="7c88"></a>
 
@@ -31,7 +31,7 @@ The art elements behind the number graphic each have 8 variations all with a dif
 
 The following chances are assigned to the different rarities:
 
-<figure><img src="../.gitbook/assets/1_LM-JzLKtRX_qhy8SoUrYlA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_LM-JzLKtRX_qhy8SoUrYlA.png" alt=""><figcaption></figcaption></figure>
 
 This makes 8⁵ = 32768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
 
@@ -61,6 +61,6 @@ We round up. Then our rarity will be Legendary (6).
 
 Once the form of obtaining the rarity and how unique these NFTs are has been created, you can see below the table in which the multiplier that each NFT carries is detailed.
 
-<figure><img src="../.gitbook/assets/1_FgEl9mSzqGZ8DjWK-q8O_Q (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1_FgEl9mSzqGZ8DjWK-q8O_Q (1).png" alt=""><figcaption></figcaption></figure>
 
 You can increase these percentages with the information we share below (Staking Mechanics).
