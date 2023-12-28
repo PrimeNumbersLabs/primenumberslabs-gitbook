@@ -23,4 +23,4 @@
   * [Token Bridge $PRNT](prime-numbers-xdc-ecosystem/usdprnt-token/token-bridge-usdprnt.md)
 * [Roadmap](prime-numbers-xdc-ecosystem/roadmap.md)
 * [Partners](prime-numbers-xdc-ecosystem/partners.md)
-* [Main Network $XDC](the-company/main-network-usdxdc.md)
+* [$XDC Network](prime-numbers-xdc-ecosystem/usdxdc-network.md)
