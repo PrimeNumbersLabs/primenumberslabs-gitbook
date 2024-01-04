@@ -71,18 +71,3 @@ In conclusion, the partnership between Impel and Prime Numbers Labs is a strateg
 
 
 
-<figure><img src="../.gitbook/assets/logo-full-negativeBG.png" alt=""><figcaption></figcaption></figure>
-
-**Partnership Between ChupaCabra Finance and Prime Numbers Labs**
-
-ChupaCabra Finance, as detailed on their official website, is a pioneering Decentralized Finance (DeFi) ecosystem. They have meticulously crafted their platform to empower the cryptocurrency community by offering sustainable rewards through Stakeable NFTs. Their primary mission revolves around strengthening and expanding the scope of Decentralized Finance within the XDC Network. They also actively seek collaborations with other leading networks.
-
-Now, let's delve into the partnership details:
-
-**Initiation of the Partnership:** Prime Numbers Labs recognized the potential in ChupaCabra Finance, particularly in their endeavor to build an exceptional community focused on discovering the best passive income opportunities in the crypto space.
-
-**Nature of Collaboration:**
-
-1. **Staking Technology Support:** Prime Numbers Labs is aiding ChupaCabra Finance by providing them with their advanced staking technology. Staking is a process where users lock up a certain amount of their cryptocurrency to support the operations of a blockchain network. In return, they receive rewards, often in the form of additional cryptocurrency. With Prime Numbers Labs' expertise in this area, ChupaCabra Finance can offer its community enhanced staking opportunities.
-2. **Platform Utilization:** ChupaCabra Finance is actively using the platforms developed by Prime Numbers Labs. This indicates a deep integration and mutual reliance between the two entities, ensuring that both benefit from each other's strengths and capabilities.
-
