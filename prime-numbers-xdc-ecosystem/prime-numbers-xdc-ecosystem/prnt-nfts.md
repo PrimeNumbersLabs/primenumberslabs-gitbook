@@ -2,19 +2,21 @@
 
 <figure><img src="../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 
-## Introduction <a href="#7c88" id="7c88"></a>
+## Introduction <a href="#id-7c88" id="id-7c88"></a>
 
-Welcome to the explanatory post about how NFTs and Prime Numbers staking will work.
+Welcome to the explanatory post about how NFTs work.
 
 Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are handmade.
 
 **But only 2328 were minted. 2212 NFTs are generative, 15 are handmade and 101 are OG NFTs.**
 
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
 ## Handmade <a href="#a422" id="a422"></a>
 
 The first 15 Prime Numbers will consist of handcrafted images from our Art Director. They are creative paintings that each represent one of the first 15 prime numbers. The handmade Prime Numbers are unique, and will never again be minted.
 
-## Generative <a href="#0cde" id="0cde"></a>
+## Generative <a href="#id-0cde" id="id-0cde"></a>
 
 The artwork of our generative NFTs consists of the following elements:
 

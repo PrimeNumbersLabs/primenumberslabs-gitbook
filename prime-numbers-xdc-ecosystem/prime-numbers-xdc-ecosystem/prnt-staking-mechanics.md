@@ -4,32 +4,51 @@ description: How staking mechancis works?
 
 # PRNT Staking Mechanics
 
-## Staking system with NFTs <a href="#5932" id="5932"></a>
+## Introduction <a href="#id-5932" id="id-5932"></a>
 
 We present to you our revolutionary staking system featuring NFTs.
 
-In order to earn various rewards with Prime Numbers, such as a portion of the NFT royalties, the NFT reward mechanism, and in-game rewards, you will need to stake your $PRNT tokens. This does not happen in an ordinary way however, when we stake at Prime Numbers, as we are an NFT project, we stake inside the NFTs. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time by “breaking open” the NFT which is then destroyed in the process.
+In order to earn various rewards with Prime Numbers, such as a portion of the NFT royalties, the NFT reward mechanism, and in-game rewards, you will need to stake your $PRNT tokens. This does not happen in an ordinary way however. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time by “breaking open” the NFT which is then destroyed in the process.
 
 When we stake our tokens in the NFT, it will gradually level up. There is a maximum potency that we can stake on a daily basis, so we have to repeat this process on a regular basis, not more than once a day.
 
-Using NFT Royalty Standard, NFT holders will receive 50% percent of all royalties on resales. Since the royalties percentage is set at 10% this means 5% of the sales price of each sold NFT is distributed over all NFT holders. Your share depends on the multiplier of your NFT which is based on both its level and its rarity.
-
 The higher your level and the more rarity you have the more reward you will get.
 
-One of the $PRNT token rewards will be an airdrop of $PRNT tokens into the NFTs. We will airdrop 20000 $PRNT into the NFTs every month for a period of 6 years. Resulting in a total of 1.440.000 $PRNT taken from the staking reward pool. These NFTs upon receiving the tokens will level up from this. The staking airdrop will be factored in based on the amount of $PRNT inside the NFT.
+This article will detail all the mechanics behind the PRNT Staking NFT collection. This collection of NFTs is revolutionary because you can stake tokens inside of the NFT which contributes towards leveling it up.
 
-<figure><img src="../../.gitbook/assets/1_KOU9KspbOFi_USk19sQJUQ.png" alt=""><figcaption></figcaption></figure>
+### The Structure Of The NFTs… <a href="#d7e3" id="d7e3"></a>
 
-<figure><img src="../../.gitbook/assets/1_fPteFbdmqJYlnosnbcgLZQ.png" alt=""><figcaption></figcaption></figure>
+Each NFT has the same structure. It consists of…
 
-## Total Multipliers <a href="#605d" id="605d"></a>
+* **A Base Multiplier -** The NFTs have a rarity that determines the base multiplier for that NFT. The table below shows the different rarities and their corresponding base multiplier…
 
-Depending on your Base Rarity and/or level you will get a Total Multiplier.\
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+* **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
+
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+As you can see in the table above, every level you complete adds 0.1 to your added multiplier. Once your NFT reaches the max level of 20 your added multiplier will be maxed out at 2.0
+
+**An Added Multiplier -** When you add the Base Multiplier and Added Multiplier together it gives you the Total Multiplier for your NFT.&#x20;
+
+The Total Multiplier determines how many rewards your NFT gets from the rewards pool each month.
+
+{% hint style="success" %}
 Total Multiplier = Base Multiplier + Added Multiplier
+{% endhint %}
 
-## How to stake? <a href="#21ca" id="21ca"></a>
+## How to stake? <a href="#id-21ca" id="id-21ca"></a>
+
+We highly recommend you to check the whole staking process tutorial:
 
 {% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c" %}
+
+And also check the process through last medium about it here:
+
+{% embed url="https://medium.com/@PrimeNumbersFi/prnt-staking-nft-mechanics-fdea8f7d44e1" %}
+Find ''The Staking Process''
+{% endembed %}
 
 ## _Frequently Asked Questions_ <a href="#a7be" id="a7be"></a>
 
@@ -38,7 +57,7 @@ Total Multiplier = Base Multiplier + Added Multiplier
 * **When a person is in the process of leveling up, and a rewards drop takes place. Since the rewards drop into the NFT, does that help increase the levels?**\
   Yes.
 
-## Staking Interface Buttons <a href="#9afb" id="9afb"></a>
+## Staking Interface Buttons <a href="#id-9afb" id="id-9afb"></a>
 
 * **“Staking” Button**\
   This button is used for stake inside the NFT. This button follows the staking rules. Sometimes you will need a lower amount of the daily max allowed because you need less $PRNT to level up your NFT.
@@ -54,7 +73,7 @@ Total Multiplier = Base Multiplier + Added Multiplier
   To use this button you need the NFT without interactions the previous 15 days of trying using “GetSurplus”.\
   Interaction = Transfer, Stake
 
-## Summary <a href="#04fc" id="04fc"></a>
+## Summary <a href="#id-04fc" id="id-04fc"></a>
 
 After reading the entire post we can get the following conclusions:
 

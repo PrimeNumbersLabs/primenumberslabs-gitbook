@@ -8,4 +8,4 @@ Our journey started with the development of our groundbreaking staking system. T
 
 Yet, our progress doesn't end here. We are steadfast in our commitment to refine and expand our suite of offerings. We regularly roll out updates on a weekly basis to ensure continuous enhancement of our products.
 
-Marking a new milestone, we're delighted to announce the inception of <mark style="background-color:blue;">**Prime Numbers Labs**</mark><mark style="background-color:blue;">!</mark>
+Marking a new milestone, we're delighted to announce the inception of **Prime Numbers Labs**!

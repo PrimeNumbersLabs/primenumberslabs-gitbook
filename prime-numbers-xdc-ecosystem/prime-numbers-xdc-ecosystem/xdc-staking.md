@@ -241,3 +241,7 @@ After reading the entire post, we can get the following conclusions:
 Due to our level system, trying to achieve the highest level can be very interesting and rewarding. By actively leveling your NFT, you quickly raise the reward multiplier, resulting in a larger slice of the $XDC pie.
 
 Depending on the rarity of the NFT and level, you can get up to +4x in the rewards.
+
+
+
+{% embed url="https://www.youtube.com/watch?v=pspWr9M6smo" %}
