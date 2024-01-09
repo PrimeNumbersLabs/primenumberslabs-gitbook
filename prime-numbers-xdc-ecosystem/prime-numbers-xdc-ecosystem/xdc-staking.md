@@ -1,10 +1,4 @@
----
-description: How can you stake $XDC?
----
-
 # XDC NFTs
-
-#### XDC Staking & NFT Mechanics
 
 <figure><img src="https://cdn-images-1.medium.com/max/1600/1*BisxixIgI3yi8STR9zQ1hQ.png" alt=""><figcaption><p>Example of NFT</p></figcaption></figure>
 
@@ -16,11 +10,7 @@ description: How can you stake $XDC?
 
 **These NFTs are like "vaults" where you put your XDC.**
 
-Welcome to the explanatory post about how NFTs and XDC staking will work.
-
 The collection consists of 5557 NFTs, of which Prime Numbers make 5542, and 15 have the same aspect as the Prime Numbers Handmade NFTs.
-
-**New "MERGE SYSTEM" and "REFUND SYSTEM"**
 
 ## Different Rarities:
 
@@ -54,7 +44,7 @@ MYSTERY ❤ You will see it on the Reveal.
 
 ***
 
-#### **MERGE SYSTEM**
+### **Merge System**
 
 We are happy to show you how our merge NFTs system works.
 
@@ -70,7 +60,7 @@ When you merge 2 NFTs, these 2 NFTs get burned, and you get 1 NFT of the next ra
 
 This makes the NFTs deflationary.
 
-#### Refund System
+### Refund System
 
 Here, we show you how our merge NFTs system works.
 
@@ -90,7 +80,7 @@ This makes the NFTs deflationary.
 
 ***
 
-#### **How to get a $XDC Staking NFT?**
+### **How to get a $XDC Staking NFT?**
 
 {% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
 Link
