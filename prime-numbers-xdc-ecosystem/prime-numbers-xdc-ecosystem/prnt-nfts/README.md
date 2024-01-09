@@ -1,16 +1,16 @@
 # PRNT NFTs
 
-<figure><img src="../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Introduction <a href="#id-7c88" id="id-7c88"></a>
 
 Welcome to the explanatory post about how NFTs work.
 
-Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are handmade.
+Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are handmade. In addition pre sale participants got an OG NFT depending on how much they invested.
 
-**But only 2328 were minted. 2212 NFTs are generative, 15 are handmade and 101 are OG NFTs.**
+**Only 2333 were minted.**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Handmade <a href="#a422" id="a422"></a>
 
@@ -33,7 +33,7 @@ The art elements behind the number graphic each have 8 variations all with a dif
 
 The following chances are assigned to the different rarities:
 
-<figure><img src="../../.gitbook/assets/1_LM-JzLKtRX_qhy8SoUrYlA.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1_LM-JzLKtRX_qhy8SoUrYlA.png" alt=""><figcaption></figcaption></figure>
 
 This makes 8⁵ = 32768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
 
@@ -63,6 +63,10 @@ We round up. Then our rarity will be Legendary (6).
 
 Once the form of obtaining the rarity and how unique these NFTs are has been created, you can see below the table in which the multiplier that each NFT carries is detailed.
 
-<figure><img src="../../.gitbook/assets/1_FgEl9mSzqGZ8DjWK-q8O_Q (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/1_FgEl9mSzqGZ8DjWK-q8O_Q (1).png" alt=""><figcaption></figcaption></figure>
 
 You can increase these percentages with the information we share below (Staking Mechanics).
+
+#### **How to get a $PRNT Staking NFT?**
+
+{% embed url="https://primeport.xyz/collection/xdc/prime-numbers" %}

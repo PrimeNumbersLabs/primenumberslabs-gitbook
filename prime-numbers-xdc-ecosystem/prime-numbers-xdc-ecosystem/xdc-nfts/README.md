@@ -1,0 +1,97 @@
+---
+description: How can you stake $XDC?
+---
+
+# XDC NFTs
+
+#### XDC Staking & NFT Mechanics
+
+<figure><img src="https://cdn-images-1.medium.com/max/1600/1*BisxixIgI3yi8STR9zQ1hQ.png" alt=""><figcaption><p>Example of NFT</p></figcaption></figure>
+
+## Introduction
+
+**XDC STAKING NFTs is an NFT collection with a high utility.**
+
+**First non-custodial and trustless $XDC staking.**
+
+**These NFTs are like "vaults" where you put your XDC.**
+
+Welcome to the explanatory post about how NFTs and XDC staking will work.
+
+The collection consists of 5557 NFTs, of which Prime Numbers make 5542, and 15 have the same aspect as the Prime Numbers Handmade NFTs.
+
+**New "MERGE SYSTEM" and "REFUND SYSTEM"**
+
+## Different Rarities:
+
+#### Prime Numbers Handmade NFTs
+
+The first 15 Prime Numbers consist of handcrafted images from our Art Director.
+
+The owners of these Prime Numbers Handmade NFTs will get 3 XDC Staking NFTs for free.
+
+Base Multiplier = 2.
+
+#### XDC Staking NFTs
+
+\#1 Plentiful: Base Multiplier: 0.3
+
+\#2 Common: Base Multiplier: 0.4
+
+\#3 Uncommon: Base Multiplier: 0.5
+
+\#4 Rare: Base Multiplier: 0.7
+
+\#5 Epic: Base Multiplier: 0.9
+
+\#6 Legendary: Base Multiplier: 1.2
+
+\#7 Mythic: Base Multiplier: 1.5
+
+\#8 Godly: Base Multiplier: 1.9
+
+MYSTERY ❤ You will see it on the Reveal.
+
+***
+
+#### **MERGE SYSTEM**
+
+We are happy to show you how our merge NFTs system works.
+
+**You can merge 2 NFTs of the same rarity to get one of the following rarities.**
+
+Examples: \
+The merge of **2 common NFTs** will make **one uncommon NFT.**\
+The merge of **2 mythic NFTs** will make **one godly NFT.**
+
+**Godly** is the best rarity you can get using the **merge system**.
+
+When you merge 2 NFTs, these 2 NFTs get burned, and you get 1 NFT of the next rarity.
+
+This makes the NFTs deflationary.
+
+#### Refund System
+
+Here, we show you how our merge NFTs system works.
+
+**You can use the "BurnToRedeem" button to get 30 $PRNT (Refund System)**
+
+This button breaks the NFT and extracts all the $XDC inside the NFT.\
+It cannot be reversed; it will burn your NFT and send all the XDC to your wallet. Also, you get 30 $PRNT when you break the NFT.
+
+Examples: \
+1- If you test and don't like how the staking system or rewards work, you can decide to "BurnToRedeem" the NFT to get 30 $PRNT.
+
+2- You minted and got one low rarity, and you prefer 30 $PRNT; you can also use this system.
+
+3- The 30 $PRNT is more valuable than the NFT, and you decide to use "BurnToRedeem" as an investment option.
+
+This makes the NFTs deflationary.
+
+***
+
+#### **How to get a $XDC Staking NFT?**
+
+{% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
+Link
+{% endembed %}

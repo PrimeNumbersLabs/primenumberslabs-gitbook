@@ -22,11 +22,11 @@ Each NFT has the same structure. It consists of…
 
 * **A Base Multiplier -** The NFTs have a rarity that determines the base multiplier for that NFT. The table below shows the different rarities and their corresponding base multiplier…
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 * **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 As you can see in the table above, every level you complete adds 0.1 to your added multiplier. Once your NFT reaches the max level of 20 your added multiplier will be maxed out at 2.0
 

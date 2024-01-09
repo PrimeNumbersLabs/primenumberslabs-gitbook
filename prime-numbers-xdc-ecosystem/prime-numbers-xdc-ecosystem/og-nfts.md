@@ -1,12 +1,12 @@
 # OG NFTs
 
-For all the participants in our sales, we have a surprise. Everyone participating in the presale or earlier and holding the received tokens at least till the time of minting will receive an exclusive OG NFT. These NFTs will feature the best reward multiplier possible and will never again be minted making them a truly unique reward to the early supporters of the project.
+For all the participants in our sales, we had a surprise. Everyone who participated in the presale or earlier and held the received tokens until the time of minting received an exclusive OG NFT. These NFTs featured the best possible reward multiplier and were never minted again, making them a truly unique reward for early supporters of the project.
 
-**In order to be able to claim the OG NFT, the participant must hold 100% of the $PRNT obtained during the presale until the time of claiming which will be 1 week before the minting of the regular NFTs will start.** The participant must stake the $PRNT obtained from the presale into the OG NFT as part of the claiming process. This will increase the level of the NFT directly and the $PRNT can be recovered at any time by destroying the NFT.
+To be able to claim the OG NFT, the participant had to hold 100% of the $PRNT obtained during the presale until the time of claiming, which was 1 week before the minting of the regular NFTs started. The participant had to stake the $PRNT obtained from the presale into the OG NFT as part of the claiming process. This directly increased the level of the NFT, and the $PRNT could be recovered at any time by destroying the NFT.
 
-Unlike normal generative NFTs that have a bonus multiplier based on their rarity, the OG NFT has a multiplier based on the participation amount in the presale. The greater your participation, the greater the bonus. The OG NFTs can also be leveled like normal NFTs, however, they will start at a higher level due to the $PRNT staked in the claiming process.
+Unlike normal generative NFTs that had a bonus multiplier based on their rarity, the OG NFT had a multiplier based on the participation amount in the presale. The greater the participation, the greater the bonus. The OG NFTs could also be leveled like normal NFTs; however, they started at a higher level due to the $PRNT staked in the claiming process.
 
-In addition, our designers are making an exclusive look for the OG NFT, featuring it’s multiplier.\
+Additionally, our designers created an exclusive look for the OG NFT, featuring its multiplier..\
 
 
 <figure><img src="../../.gitbook/assets/0_7zfx_manvqzrni1z.png" alt=""><figcaption></figcaption></figure>
