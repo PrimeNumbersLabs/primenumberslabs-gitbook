@@ -1,11 +1,21 @@
 # Introduction
 
-Prime Numbers emerged in 2021, initially with the aspiration to make a significant contribution to the academic community. However, our concept has since undergone significant transformation, to the point where our current vision bears little resemblance to the initial proposal.
+**Our Story: Prime Numbers Labs**
 
-Navigating through the XDC Network during our developmental phase was far from simple. We meticulously constructed our infrastructure from scratch within the network. Amidst this process, we discovered an immense potential lying within our unique Liquid NFT Staking System.
+**A Passion for Innovation and Entrepreneurship**
 
-Our journey started with the development of our groundbreaking staking system. This was followed by the launch of Primeport.xyz, an innovative NFT marketplace. The next phase is the introduction of Prime Finance, our lending and borrowing protocol.
+Prime Numbers Labs' journey began with a curious and ambitious young mind, Arturo. As a child, he was always intrigued by the world of technology. By the age of 12, Arturo had already started exploring the digital realm, creating Minecraft servers and seeking entrepreneurial opportunities. This early interest laid the foundation for his future endeavors.
 
-Yet, our progress doesn't end here. We are steadfast in our commitment to refine and expand our suite of offerings. We regularly roll out updates on a weekly basis to ensure continuous enhancement of our products.
+Arturo's academic path led him to pursue a degree in software engineering. However, he soon realized that the conventional educational route wasn't aligning with his aspirations. He yearned for something more dynamic and challenging – a platform where he could apply his skills in real-world scenarios. Consequently, Arturo made the bold decision to leave his degree unfinished and delve into the vast ocean of opportunities the tech world offered.
 
-Marking a new milestone, we're delighted to announce the inception of **Prime Numbers Labs**!
+His foray into cryptocurrency began in 2016, a period when the digital currency landscape was still evolving. This experience greatly enriched Arturo's understanding of blockchain technology and honed his vision for the future. In 2021, amidst a rapidly transforming digital world, Arturo founded Prime Numbers Labs. The establishment of the company was not just about creating a business; it was about building a community. Starting from scratch, Arturo utilized his blockchain expertise to grow the Prime Numbers Labs Community from 0 to over 1000 members. This achievement was a testament to his commitment and capability in the blockchain space, leading to the prestigious recognition as an XDC Team Core Member in March 2023.
+
+Arturo's efforts and achievements caught the attention of many. In November 2022, XDC invited him to Dubai, keen to meet the mind behind Prime Numbers Labs. Impressed with the work and vision, XDC formed an official partnership with Prime Numbers Labs, marking a significant milestone in the company's journey.
+
+Prime Numbers Labs began with a foundation of personal investment, which flourished through subsequent token sales. The initial years were a testament to Arturo's resilience and innovation, as he judiciously utilized resources and attracted support from third parties.
+
+The company's accomplishments in the NFT space are particularly noteworthy. Under Arturo's guidance, Prime Numbers Labs developed unique NFT collections that showcased an ability to innovate and capture market interest. This success played a significant role in XDC's decision to become an official partner.
+
+At Prime Numbers Labs, The team takes pride in a diverse range of projects and achievements. The company has launched successful apps, created and sold record-breaking NFTs on the XDC Blockchain, built the Primeport.xyz NFT marketplace, and is in the process of developing the Primefinance.xyz lending and borrowing protocol. Ventures into shared Masternodes and applications for various licenses further demonstrate the company's versatility and forward-thinking approach.
+
+For Prime Numbers Labs, the community and partnerships are the pillars of success. Looking to the future, their goal is to elevate Prime Numbers Labs to new heights, breaking boundaries and redefining what's possible in the digital world.
