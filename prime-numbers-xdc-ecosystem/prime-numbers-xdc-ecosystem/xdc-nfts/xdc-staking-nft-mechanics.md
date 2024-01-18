@@ -4,9 +4,7 @@ description: How can you stake $XDC?
 
 # XDC Staking NFT Mechanics
 
-#### XDC Staking & NFT Mechanics
-
-#### The staking system with NFTs
+## Introduction
 
 We present to you our revolutionary staking system featuring NFTs.
 
@@ -27,8 +25,11 @@ These NFTs, upon receiving the tokens, will level up from this. The staking aird
 
 #### Total Multipliers
 
-Depending on your Base Rarity and/or level, you will get a Total Multiplier.\
+Depending on your Base Rarity and/or level, you will get a Total Multiplier.
+
+{% hint style="success" %}
 Total Multiplier = Base Multiplier + Added Multiplier
+{% endhint %}
 
 Example:
 
@@ -36,22 +37,20 @@ NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total
 
 ***
 
-#### **How to get a $XDC Staking NFT?**
+## **How to get a $XDC Staking NFT?**
 
 {% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
 Link
 {% endembed %}
 
-
-
-#### Frequently Asked Questions
+## Frequently Asked Questions
 
 * **When are the staking rewards sent?**\
   Smart-contract sends the rewards on the last day of every month.
 * **When a person is in the process of leveling up, a reward drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
   Yes. But you need to stake to advance to the next level!
 
-#### Staking Interface Buttons
+## Staking Interface Buttons
 
 * **"Stake" Button**\
   This button is used for stake inside the NFT.
@@ -71,7 +70,7 @@ Link
   When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you can lock this NFT to get this reward.\
   **NFTs that are locked cannot utilize BurnToRedeem, Merge NFTs, or WithdrawXDC features.**
 
-#### Summary
+## Summary
 
 After reading the entire post, we can get the following conclusions:
 
@@ -79,6 +78,6 @@ Due to our level system, trying to achieve the highest level can be very interes
 
 Depending on the rarity of the NFT and level, you can get up to +4x in the rewards.
 
-
+{% embed url="https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-5db9fe6437a1" %}
 
 {% embed url="https://www.youtube.com/watch?v=pspWr9M6smo" %}

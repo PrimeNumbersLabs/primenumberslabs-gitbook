@@ -22,7 +22,7 @@ Each NFT has the same structure. It consists of…
 
 * **A Base Multiplier -** The NFTs have a rarity that determines the base multiplier for that NFT. The table below shows the different rarities and their corresponding base multiplier…
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1).jpeg" alt=""><figcaption></figcaption></figure>
 
 * **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
 
@@ -41,10 +41,6 @@ Total Multiplier = Base Multiplier + Added Multiplier
 ## How to stake? <a href="#id-21ca" id="id-21ca"></a>
 
 We highly recommend you to check the whole staking process tutorial:
-
-{% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-with-prime-numbers-tutorial-dc9a6163271c" %}
-
-And also check the process through last medium about it here:
 
 {% embed url="https://medium.com/@PrimeNumbersFi/prnt-staking-nft-mechanics-fdea8f7d44e1" %}
 Find ''The Staking Process''
