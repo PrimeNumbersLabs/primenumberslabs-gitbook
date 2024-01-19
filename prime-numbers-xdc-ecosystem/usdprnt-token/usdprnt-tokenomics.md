@@ -81,4 +81,4 @@ The team's token allocation is locked and will remain so until Wednesday, Januar
 
 This allocation compensates the Liquidity Providers (LPs) on Decentralized Exchanges (DEXs). The total reward pool stands at 240,000 $PRNT, with an annual reward of 120,000 $PRNT and a monthly reward of 10,000 $PRNT.
 
-<figure><img src="../../.gitbook/assets/4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/LPs.jpg" alt=""><figcaption></figcaption></figure>
