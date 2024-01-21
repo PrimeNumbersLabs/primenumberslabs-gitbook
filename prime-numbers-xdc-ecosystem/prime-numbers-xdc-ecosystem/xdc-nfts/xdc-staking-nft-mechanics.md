@@ -18,7 +18,7 @@ The higher your level and the more rarity you have, the more reward you will get
 
 These NFTs, upon receiving the tokens, will level up from this. The staking airdrop will be factored in based on the amount of $XDC inside the NFT.
 
-<figure><img src="https://cdn-images-1.medium.com/max/1600/1*kbbiHJ-cD1LocraNJB3L7Q.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/xdc to be staked.jpeg" alt=""><figcaption></figcaption></figure>
 
 **Max limit \[100 000 $XDC per NFT]**\
 **100 000 $XDC is the maximum amount you can stake, but the NFT XDC balance can go above 100 000 $XDC due to rewards.**
