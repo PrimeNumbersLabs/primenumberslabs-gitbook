@@ -4,7 +4,7 @@ description: Prime Numbers Labs Token $PRNT
 
 # $PRNT Tokenomics
 
-<figure><img src="../../.gitbook/assets/Copia de TOKENOMICS.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
 
 **1. XDC Ecosystem Development (2,500,000 PRNT)**
 

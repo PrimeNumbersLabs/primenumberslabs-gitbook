@@ -40,7 +40,7 @@ Base Multiplier = 2.
 
 \#8 Godly: Base Multiplier: 1.9
 
-MYSTERY ❤ You will see it on the Reveal.
+<figure><img src="../../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 

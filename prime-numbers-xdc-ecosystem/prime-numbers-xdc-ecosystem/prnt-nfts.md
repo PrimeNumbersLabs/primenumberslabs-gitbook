@@ -8,7 +8,7 @@ Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are ha
 
 **Only 2333 were minted.**&#x20;
 
-<figure><img src="../../.gitbook/assets/1.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Handmade <a href="#a422" id="a422"></a>
 
@@ -31,7 +31,7 @@ The art elements behind the number graphic each have 8 variations all with a dif
 
 The following chances are assigned to the different rarities:
 
-<figure><img src="../../.gitbook/assets/2.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
 This makes 8⁵ = 32768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
 
@@ -61,9 +61,9 @@ We round up. Then our rarity will be Legendary (6).
 
 Once the form of obtaining the rarity and how unique these NFTs are has been created, you can see below the table in which the multiplier that each NFT carries is detailed.
 
-<figure><img src="../../.gitbook/assets/3.jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption></figcaption></figure>
 
-You can increase these percentages with the information we share below (Staking Mechanics).
+You can increase these percentages with the information we share in the ''Next'' page (PRNT Staking Mechanics).
 
 #### **How to get a $PRNT Staking NFT?**
 

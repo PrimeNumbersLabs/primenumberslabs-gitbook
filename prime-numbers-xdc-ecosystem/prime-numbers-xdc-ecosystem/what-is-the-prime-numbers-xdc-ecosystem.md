@@ -8,13 +8,15 @@ description: >-
 
 Prime Numbers Labs combines the flexibility of Ethereum smart contract development with the speed and the business environment of XDC.
 
-<figure><img src="../../.gitbook/assets/PNL - XDC .jpeg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
 
 Our ecosystem generates revenue through the fees created by Prime Finance, the first lending and borrowing protocol on XDC. And they also generate returns through other systems.
 
 We reward our community through our NFTs collections, which have a r[evolutionary staking system](https://medium.com/@PrimeNumbersFi/prnt-staking-nft-mechanics-fdea8f7d44e1) where you stake tokens inside your NFTs to earn rewards.
 
-<figure><img src="../../.gitbook/assets/xdcccc.jpeg" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
