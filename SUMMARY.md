@@ -3,7 +3,7 @@
 * [PRIME NUMBERS LABS](README.md)
   * [Introduction](prime-numbers-labs/introduction.md)
   * [WHAT IS PRIME NUMBERS LABS?](prime-numbers-labs/what-is-prime-numbers-labs.md)
-  * [Liquid NFT Staking System](prime-numbers-labs/liquid-nft-staking-system.md)
+  * [XDC NFT Staking System](prime-numbers-labs/xdc-nft-staking-system.md)
   * [Prime Finance](prime-numbers-labs/prime-finance.md)
 
 ## Prime Numbers XDC Ecosystem
