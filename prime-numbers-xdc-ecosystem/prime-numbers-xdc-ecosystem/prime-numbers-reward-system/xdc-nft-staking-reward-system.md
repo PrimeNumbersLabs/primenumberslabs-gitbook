@@ -1,4 +1,4 @@
-# XDC NFT Starking Reward System
+# XDC NFT Staking Reward System
 
 ## XDC NFT STAKING REWARDS: <a href="#b642" id="b642"></a>
 
@@ -9,14 +9,14 @@ These NFTs are going to get the following rewards:
 * **VARIABLE REWARD:** 10% of Prime Numbers Finance Profits
 * **FIXED REWARD:** In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
 
-We will give 30% of the funds from the minting because Prime Numbers Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
+We will give 30% of the funds from the minting because Prime Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
 
-The 10% of Prime Numbers Finance profits should be higher than the 30% of the minting funds.\
+The 10% of Prime Finance profits should be higher than the 30% of the minting funds.\
 All of these rewards will be paid on $XDC.
 
 ## 1- Fixed Reward <a href="#id-8910" id="id-8910"></a>
 
-**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Numbers Finance.**
+**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Finance.**
 
 **PAYOUT Formula Staking**\
 a= total multiplier of the NFT\

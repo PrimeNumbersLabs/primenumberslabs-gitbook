@@ -1,4 +1,4 @@
-# PRNT NFT Starking Reward System
+# PRNT NFT Staking Reward System
 
 ## PRNT NFT STAKING REWARDS: <a href="#b642" id="b642"></a>
 
@@ -24,7 +24,7 @@ The royalties percentage is set at 10%, which means 5% of the sales price of eac
 
 ### 3- Prime Finance <a href="#id-7896" id="id-7896"></a>
 
-Prime Numbers NFTs will receive 40% of Prime Numbers Finance profits.&#x20;
+Prime Numbers NFTs will receive 40% of Prime Finance profits.&#x20;
 
 ### LP Rewards: <a href="#id-11cf" id="id-11cf"></a>
 
