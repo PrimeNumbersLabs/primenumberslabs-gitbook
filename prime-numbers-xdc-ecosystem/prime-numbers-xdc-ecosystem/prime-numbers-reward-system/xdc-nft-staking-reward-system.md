@@ -6,7 +6,7 @@
 
 These NFTs are going to get the following rewards:
 
-* **VARIABLE REWARD:** 10% of Prime Numbers Finance Profits
+* **VARIABLE REWARD:** 10% of Prime Profits
 * **FIXED REWARD:** In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
 
 We will give 30% of the funds from the minting because Prime Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
