@@ -1,6 +1,10 @@
-# Main Network $XDC
+---
+description: Initial Network
+---
 
-For the development of our project, we have chosen XDC, due to its outstanding relationship with the team and all of its advantages over the other networks.
+# $XDC Network
+
+For the initial development of our project, we have chosen XDC due to its outstanding relationship with the team and all of its advantages over the other networks.
 
 **WHY XDC NETWORK?**
 
@@ -14,7 +18,7 @@ In this manner, their blockchain's relationships with the private finance sector
 
 
 
-<figure><img src="../.gitbook/assets/xdc WP.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xdc WP.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Private Sector in XDC Network
 

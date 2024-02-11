@@ -8,7 +8,7 @@ Prime Numbers has a revolutionary staking system where you stake PRNT tokens ins
 
 ### DAO Governance
 
-You can be part of the decisions made in the ecosystem thanks to our DAO by having PRNT tokens.
+Thanks to our DAO, you can be part of the decisions made in the ecosystem by having PRNT tokens.
 
 ### NFTs
 

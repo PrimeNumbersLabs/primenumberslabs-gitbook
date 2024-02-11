@@ -1,4 +1,4 @@
-# XDC NFT Staking System
+# XDC NFTs Staking System
 
 In this system, the NFT functions as a vault. Users can stake within the NFT, with the rewards being credited to the NFT. Rewards can be withdrawn from the NFT, and the staked amount can also be retrieved from the NFT.
 
@@ -11,15 +11,15 @@ Through this system, we manage to provide significant benefits to XDC holders in
 
 Users can stake their XDC tokens through 2 different NFT collections.
 
-1- When a user intends to stake, they need to connect to the platform and select the XDC network, followed by choosing the staking option.
+1- When a user intends to stake, they need to connect to the platform, select the XDC network, and choose the staking option.
 
-2- The platform will then scrutinize the user's wallet to determine if they already possess a "**Vault NFT**" (We will discuss the various types of NFTs later). If the user does not have an NFT, the platform will display the following options:
+2- The platform will then scrutinize the user's wallet to determine if they already possess an "XDC NFT" (We will discuss the various types of NFTs later). If the user does not have an NFT, the platform will display the following options:
 
-a) Mint a Free Vault NFT (Type 1) \
-b) Purchase a Premium Vault NFT (Type 2)
+a) Mint a Free Vault NFT (Type 1) (Not live)\
+b) Purchase a Premium Vault NFT (Type 2) (Current XDC NFT staking system)
 
 {% hint style="success" %}
-Premium Vault NFT = XDC NFT
+Premium Vault NFT = XDC NFT Staking System
 {% endhint %}
 
 The differentiation between Free Vault NFT and Premium Vault NFT lies in the following:
@@ -37,18 +37,12 @@ There is no minimum staking amount to receive rewards.
 
 **Premium Vault NFT**
 
-These NFTs also allow users to stake within the NFT and receive rewards from the blockchain nodes that the user is employing. Moreover, these NFTs provide additional rewards from the protocols of Prime Numbers Labs such Prime Finance. Premium NFTs fetch higher rewards compared to Free Vault NFTs.
+These NFTs also allow users to stake within the NFT and receive rewards from the blockchain nodes that the user is employing. Moreover, these NFTs provide additional rewards from the protocols of Prime Numbers Labs, such as Prime Finance. Premium NFTs fetch higher rewards compared to Free Vault NFTs.
 
 {% hint style="warning" %}
-The minimum staking amount to receive rewards is 100k XDC tokens.
+The minimum staking amount to receive masternode rewards is 100k XDC tokens.
 {% endhint %}
 
 3- Once the user possesses an NFT and is connected to the platform, they can commence staking.
 
-4- The user merely needs to select the NFT, input the staking amount, and they're good to go!
-
-The system provides users with the following options:
-
-
-
-\
+4- The user needs to select the NFT, input the staking amount, and they're ready!

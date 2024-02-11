@@ -24,5 +24,5 @@
   * [$PRNT Use Cases](prime-numbers-xdc-ecosystem/usdprnt-token/usdprnt-use-cases.md)
   * [Token Bridge $PRNT](prime-numbers-xdc-ecosystem/usdprnt-token/token-bridge-usdprnt.md)
 * [Roadmap](prime-numbers-xdc-ecosystem/roadmap.md)
-* [Partners](prime-numbers-xdc-ecosystem/partners.md)
-* [$XDC Network](prime-numbers-xdc-ecosystem/usdxdc-network.md)
+* [Partners](prime-numbers-xdc-ecosystem/partners/README.md)
+  * [$XDC Network](prime-numbers-xdc-ecosystem/partners/usdxdc-network.md)
