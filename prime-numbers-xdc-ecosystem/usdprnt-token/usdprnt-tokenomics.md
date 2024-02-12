@@ -4,8 +4,6 @@ description: Prime Numbers Labs Token $PRNT
 
 # $PRNT Tokenomics
 
-<figure><img src="../../.gitbook/assets/1.jpg" alt=""><figcaption></figcaption></figure>
-
 **1. XDC Ecosystem Development (2,500,000 PRNT)**
 
 The XDC Ecosystem Development allocation is primarily used for various operational and expansion activities. This includes:
@@ -76,10 +74,4 @@ Tokens allocated for the seed sale were sold at 0.33 $/PRNT. This batch has been
 The team's token allocation is locked and will remain so until Wednesday, January 1, 2025, at 10:18:09 AM. The associated address for these tokens is 0x4Ce69e8952Ebda2079941e0d131A239C0E3C20f2.
 
 ***
-
-**10. MM & LPs (300,000 PRNT)**
-
-This allocation compensates the Liquidity Providers (LPs) on Decentralized Exchanges (DEXs). The total reward pool stands at 240,000 $PRNT, with an annual reward of 120,000 $PRNT and a monthly reward of 10,000 $PRNT.
-
-<figure><img src="../../.gitbook/assets/MM &#x26; LPs.jpeg" alt=""><figcaption></figcaption></figure>
 
