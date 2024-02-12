@@ -18,7 +18,7 @@ The XDC Ecosystem Development allocation is primarily used for various operation
 
 ***
 
-**2. Prime Numbers Labs Ecosystem (2,500,000 PRNT)**
+**2. Prime Numbers Labs Ecosystem (1,800,000 PRNT)**
 
 The Prime Numbers Labs Ecosystem tokens serve a similar purpose as the XDC Ecosystem Development tokens. They are used for:
 
@@ -35,13 +35,13 @@ The Prime Numbers Labs Ecosystem tokens serve a similar purpose as the XDC Ecosy
 
 This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 PRNT is distributed as rewards to these holders.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1qIb3FfCR3eY9LUCz2rGExolEvlhs9809jmqiig4pQM4/edit?usp=sharing" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1qIb3FfCR3eY9LUCz2rGExolEvlhs9809jmqiig4pQM4/edit?usp=sharing" fullWidth="false" %}
 
 <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**4. Prime Finance Rewards (1,000,000 PRNT)**
+**4. Prime Finance Rewards (2,000,000 PRNT)**
 
 The Prime Finance Rewards are designated to reward the Prime Finance Liquidity Providers (LP).
 
@@ -49,7 +49,7 @@ The Prime Finance Rewards are designated to reward the Prime Finance Liquidity P
 
 **5. Contingency (1,000,000 PRNT)**
 
-These tokens are reserved for unforeseen circumstances. They will only be utilized in the event of a significant error, bug, failure, or problem.
+These tokens are reserved for unforeseen circumstances. They will only be utilized in case of a significant error, bug, failure, or problem.
 
 ***
 
@@ -59,7 +59,7 @@ Tokens allocated for the private sale were sold at a rate of 1 $/PRNT. This allo
 
 **7. Public Sale (300,000 PRNT)**
 
-The public sale tokens were sold at a rate ranging between 38-42 xdc/PRNT. This allocation is also fully distributed.
+The public sale tokens were sold at a rate between 38 and 42 xdc/PRNT. This allocation is also fully distributed.
 
 **8. Seed Sale (120,000 PRNT)**
 
