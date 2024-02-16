@@ -4,6 +4,8 @@ description: Prime Numbers Labs Token $PRNT
 
 # $PRNT Tokenomics
 
+<figure><img src="../../.gitbook/assets/tokenomics nuevo JPG.jpg" alt=""><figcaption></figcaption></figure>
+
 **1. XDC Ecosystem Development (2,500,000 PRNT)**
 
 The XDC Ecosystem Development allocation is primarily used for various operational and expansion activities. This includes:
