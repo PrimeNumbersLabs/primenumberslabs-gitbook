@@ -6,6 +6,8 @@ description: Prime Numbers Labs Token $PRNT
 
 <figure><img src="../../.gitbook/assets/tokenomics nuevo JPG.jpg" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 **1. XDC Ecosystem Development (2,500,000 PRNT)**
 
 The XDC Ecosystem Development allocation is primarily used for various operational and expansion activities. This includes:
@@ -33,7 +35,7 @@ The Prime Numbers Labs Ecosystem tokens serve a similar purpose as the XDC Ecosy
 
 **3. PRNT NFTs Staking Rewards (1,500,000 PRNT)**
 
-This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 PRNT is distributed as rewards to these holders.
+This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 PRNT is distributed as a reward to these holders.
 
 {% embed url="https://docs.google.com/spreadsheets/d/1qIb3FfCR3eY9LUCz2rGExolEvlhs9809jmqiig4pQM4/edit?usp=sharing" fullWidth="false" %}
 
