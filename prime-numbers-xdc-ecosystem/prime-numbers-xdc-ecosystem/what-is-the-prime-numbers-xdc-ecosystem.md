@@ -14,9 +14,7 @@ Our ecosystem generates revenue through the fees created by Prime Finance, the f
 
 We reward our community through our NFT collections, which have a revolutionary staking system: You stake tokens inside your NFTs to earn rewards.
 
-
-
-<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/our ecosystem.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
