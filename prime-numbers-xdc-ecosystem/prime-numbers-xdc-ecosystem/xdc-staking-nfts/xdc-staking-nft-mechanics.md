@@ -17,24 +17,19 @@ Our staking system is revolutionary because it means your staked XDC tokens will
 
 When you stake XDC tokens inside your NFT it will gradually level up which increases the multiplier of your NFT. The higher your multiplier the more rewards you earn from the rewards pool compared to other NFTs in circulation. 100,000 XDC is the maximum amount of tokens you can stake inside of our NFTs.
 
+### <mark style="color:purple;">The Structure Of The NFTs…</mark> <a href="#d7e3" id="d7e3"></a>
 
+Each NFT has the same structure. It consists of…
 
+* **A Base Multiplier -** The NFTs have a rarity that determines the base multiplier for that NFT. The table below shows the different rarities and their corresponding base multiplier…
 
+<figure><img src="../../../.gitbook/assets/XDC Base Multipliers.png" alt=""><figcaption></figcaption></figure>
 
-Your share depends on the Multiplier of your NFT, which is based on both its level(added Multiplier) and its rarity(base multiplier).
-
-The higher your level and the more rarity you have, the more reward you will get.
-
-These NFTs, upon receiving the tokens, will level up from this. The staking airdrop will be factored in based on the amount of $XDC inside the NFT.
+* **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
 
 <figure><img src="../../../.gitbook/assets/11.jpg" alt=""><figcaption></figcaption></figure>
 
-**Max limit \[100 000 $XDC per NFT]**\
-**100 000 $XDC is the maximum amount you can stake, but the NFT XDC balance can go above 100 000 $XDC due to rewards.**
-
-#### Total Multipliers
-
-Depending on your Base Rarity and/or level, you will get a Total Multiplier.
+Your share of the rewards depends on the Total Multiplier of your NFT, which is based on both its rarity (Base Multiplier) and its level (Added Multiplier).
 
 {% hint style="success" %}
 Total Multiplier = Base Multiplier + Added Multiplier
@@ -42,22 +37,25 @@ Total Multiplier = Base Multiplier + Added Multiplier
 
 Example:
 
-NFT with Base Multiplier 2.0 and level 18 (added multiplier 1.8) will be a total multiplier of 3.8
+NFT with Base Multiplier 2.0 and level 18 (Added Multiplier 1.8) will be a Total Multiplier of 3.8
+
+The higher the level and rarity of your NFT, the more rewards you will receive at the end of each month. The rewards you claim at the end of each month will go into your NFT and contribute towards levelling it up. The maximum that can be staked inside an NFT is 100,000 XDC. Once it reaches this amount your rewards will continue to be added to your NFT each month and you can withdraw the excess XDC by using the "Get Surplus" button.
 
 ***
 
-## **How to get a $XDC Staking NFT?**
+## <mark style="color:purple;">**How to get a $XDC Staking NFT?**</mark>
 
 {% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
 Link
 {% endembed %}
 
-## Frequently Asked Questions
+## <mark style="color:purple;">Frequently Asked Questions</mark>
 
-* **When are the staking rewards sent?**\
-  Smart-contract sends the rewards on the last day of every month.
-* **When a person is in the process of leveling up, a reward drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
-  Yes. But you need to stake to advance to the next level!
+* **When do I receive my rewards?**\
+  Your rewards will be available to claim on the last day of each month.
+*   **Do the rewards I claim contribute toward levelling up my NFT?**
+
+    Yes they do
 
 ## <mark style="color:purple;">NFT Interface Buttons</mark> <a href="#id-9afb" id="id-9afb"></a>
 
