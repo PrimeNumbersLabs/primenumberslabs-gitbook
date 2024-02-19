@@ -4,9 +4,9 @@
 
 ## Introduction <a href="#id-7c88" id="id-7c88"></a>
 
-Our collection consists of 4111 NFTs, of which 4096 are generative and 15 are handmade. In addition pre sale participants got an OG NFT depending on how much they invested.
+Our collection consists of 4,111 NFTs, of which 4,096 are generative NFTs and 15 are handmade NFTs. In addition, pre sale participants received an OG NFT depending on how much they invested.
 
-**Only 2333 were minted.**&#x20;
+During the PRNT Staking NFT minting period, only 2,333 NFTs were minted so the original supply was halved from the very beginning making those NFTs in circulation far more valuable.
 
 <figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -23,9 +23,9 @@ The artwork of our generative NFTs consists of the following elements:
 * a geometric figure
 * a feminine shape
 * futuristic background lines
-* A background color fade with complementing colors
+* A background colour fade with complementing colours
 
-The prime numbers will be generated at minting time sequentially, starting at the 16th prime number up to the 4111th prime number. Each generated number is unique and will be minted only once, ever.
+The prime numbers will be generated at minting time sequentially, starting at the 16th prime number up to the 4,111th prime number. Each generated number is unique and will be minted only once, ever.
 
 The art elements behind the number graphic each have 8 variations all with a different rarity that has a certain chance of being randomly chosen.
 
@@ -33,7 +33,7 @@ The following chances are assigned to the different rarities:
 
 <figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption></figcaption></figure>
 
-This makes 8⁵ = 32768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
+This makes 8⁵ = 32,768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
 
 Each generative NFT will be unique, and there will be no others like it.
 
