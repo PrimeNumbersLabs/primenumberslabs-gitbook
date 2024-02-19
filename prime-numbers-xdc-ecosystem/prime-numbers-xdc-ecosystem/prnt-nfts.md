@@ -2,7 +2,7 @@
 
 <figure><img src="../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 
-## Introduction <a href="#id-7c88" id="id-7c88"></a>
+## <mark style="color:purple;">Introduction</mark> <a href="#id-7c88" id="id-7c88"></a>
 
 Our collection consists of 4,111 NFTs, of which 4,096 are generative NFTs and 15 are handmade NFTs. In addition, pre sale participants received an OG NFT depending on how much they invested.
 
@@ -10,11 +10,11 @@ During the PRNT Staking NFT minting period, only 2,333 NFTs were minted so the o
 
 <figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption></figcaption></figure>
 
-## Handmade <a href="#a422" id="a422"></a>
+## <mark style="color:purple;">Handmade</mark> <a href="#a422" id="a422"></a>
 
 The first 15 Prime Numbers will consist of handcrafted images from our Art Director. They are creative paintings that each represent one of the first 15 prime numbers. The handmade Prime Numbers are unique, and will never again be minted.
 
-## Generative <a href="#id-0cde" id="id-0cde"></a>
+## <mark style="color:purple;">Generative</mark> <a href="#id-0cde" id="id-0cde"></a>
 
 The artwork of our generative NFTs consists of the following elements:
 
@@ -39,7 +39,7 @@ Each generative NFT will be unique, and there will be no others like it.
 
 The Generative NFTs will increase in price as more get minted. We want to reward early minters by getting a better price, however, we ensure the curve is not too punishing for later participants.
 
-## NFTs Rarity <a href="#b805" id="b805"></a>
+## <mark style="color:purple;">NFTs Rarity</mark> <a href="#b805" id="b805"></a>
 
 The NFTs in our collection each have their own global rarity. We explained in the previous chapter how each of the segments of the NFT has its own rarity, combining the rarity of the segments determines the overall rarity of the NFT. Each rarity grants an increasing base multiplier when you are staking.
 
