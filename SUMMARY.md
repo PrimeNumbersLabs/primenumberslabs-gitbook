@@ -10,8 +10,8 @@
 
 * [Prime Numbers XDC Ecosystem](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/README.md)
   * [What Is The Prime Numbers XDC Ecosystem?](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/what-is-the-prime-numbers-xdc-ecosystem.md)
-  * [PRNT NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-nfts.md)
-    * [PRNT Staking Mechanics](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-staking-mechanics.md)
+  * [PRNT Staking NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-staking-nfts/README.md)
+    * [PRNT Staking Mechanics](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/prnt-staking-nfts/prnt-staking-mechanics.md)
   * [XDC Staking NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/xdc-staking-nfts/README.md)
     * [XDC Staking NFT Mechanics](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/xdc-staking-nfts/xdc-staking-nft-mechanics.md)
   * [OG NFTs](prime-numbers-xdc-ecosystem/prime-numbers-xdc-ecosystem/og-nfts.md)
