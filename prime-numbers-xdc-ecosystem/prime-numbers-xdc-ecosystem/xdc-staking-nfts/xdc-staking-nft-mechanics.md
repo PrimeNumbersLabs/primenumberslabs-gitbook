@@ -6,11 +6,20 @@ description: Understanding how the XDC Staking mechanics work
 
 ## <mark style="color:purple;">Introduction</mark>
 
-We present to you our revolutionary staking system featuring NFTs.
+We present to you our revolutionary staking system using NFTs.
 
-To earn rewards with XDC Staking NFTs, you must stake your $XDC. This does not happen in an ordinary way; however, when we stake at the Prime Numbers ecosystem, we stake inside the NFTs. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT by "Empty NFT," "Withdraw XDC," or "BurnToRedeem."
+To earn various rewards within the Prime Numbers ecosystem you will need to stake your $XDC tokens inside our revolutionary NFTs. By staking with us you gain access to numerous rewards such as...
 
-When we stake our tokens in the NFT, they will gradually level up. You will be able to stake as much as you want until the max limit \[100 000 $XDC per NFT]
+* Rewards from the XDC rewards pool
+* 10% of the profits from Prime Finance, the first borrowing and lending protocol built on the XDC Network
+
+Our staking system is revolutionary because it means your staked XDC tokens will give intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time providing it's not locked up in one of our master nodes. Simply use the withdraw XDC button to empty the NFT and send all the XDC inside of it back to your wallet.
+
+When you stake XDC tokens inside your NFT it will gradually level up which increases the multiplier of your NFT. The higher your multiplier the more rewards you earn from the rewards pool compared to other NFTs in circulation. 100,000 XDC is the maximum amount of tokens you can stake inside of our NFTs.
+
+
+
+
 
 Your share depends on the Multiplier of your NFT, which is based on both its level(added Multiplier) and its rarity(base multiplier).
 
