@@ -4,7 +4,7 @@ description: How can you stake $XDC?
 
 # XDC Staking NFT Mechanics
 
-## Introduction
+## <mark style="color:purple;">Introduction</mark>
 
 We present to you our revolutionary staking system featuring NFTs.
 
@@ -50,33 +50,26 @@ Link
 * **When a person is in the process of leveling up, a reward drop occurs. Since the rewards drop into the NFT, does that help increase the levels?**\
   Yes. But you need to stake to advance to the next level!
 
-## Staking Interface Buttons
+## <mark style="color:purple;">NFT Interface Buttons</mark> <a href="#id-9afb" id="id-9afb"></a>
 
-* **"Stake" Button**\
-  This button is used for stake inside the NFT.
-* **"Transfer" Button**\
+* **The “Stake” Button**\
+  This button is used to stake XDC tokens inside your NFT. Simply enter the amount you wish to stake and then confirm the stake transaction.
+* **The “Get Surplus” Button**\
+  Once your NFT has reached the top level then the Get Surplus button will become available. This allows you to withdraw any XDC tokens from your NFT that are above the balance of 100,000 XDC tokens.
+* **The “Withdraw XDC” Button**\
+  This button allows you to withdraw XDC tokens from your NFT without destroying it. Simply enter how much you want to withdraw and then click accept and that amount of tokens will get sent back to your wallet.
+* **The “Burn To Redeem” Button**\
+  This button breaks open the NFT and sends all the XDC tokens inside of it back to your wallet. This action CANNOT be reversed, it will burn your NFT and send all the XDC tokens back to your wallet. You also receive 30 PRNT tokens as a bonus for burning your NFT.
+* **The “Transfer” Button**\
   This button is used for transferring NFTs between wallets.
-* **"WITHDRAW XDC" Button**\
-  This button takes out the NFT balance.\
-  To use this button, you need the NFT without interactions the previous seven days before using **"WITHDRAW XDC."**\
-  Interaction = Transfer, Stake
-* **"BurnToRedeem" Button**\
-  This button breaks the NFT and extracts all the $XDC inside the NFT.\
-  **It cannot be reversed;** it will burn your NFT and send all the XDC to your wallet. Also, **you get 30 $PRNT when you break the NFT.**
-* **"Merge NFTs" Button**\
-  This button **merges 2 NFTs of the same rarity to get one of the following rarities.**
-* **"LOCK NFT" Button**\
-  This button locks this NFT for one year and one month to get an **additional 7% APY.**\
-  When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you can lock this NFT to get this reward.\
-  **NFTs that are locked cannot utilize BurnToRedeem, Merge NFTs, or WithdrawXDC features.**
-
-## Summary
-
-After reading the entire post, we can get the following conclusions:
-
-Due to our level system, trying to achieve the highest level can be very interesting and rewarding. By actively leveling your NFT, you quickly raise the reward multiplier, resulting in a larger slice of the $XDC pie.
-
-Depending on the rarity of the NFT and level, you can get up to +4x in the rewards.
+* **The “Merge NFTs” Button**\
+  Pressing this button allows you to merge two NFTs of the same rarity together to create an NFT of a higher rarity.
+* **The “Lock NFT” Button**\
+  Pressing this button allows you to lock your NFT up in one of the Prime Numbers XDC master nodes which earns you an extra 7% per year in rewards. This button locks this NFT for one year and one month to earn an additional 7% APY. When your NFT reaches the MAX LIMIT (100 000 $XDC staked inside the NFT), you can lock the NFT to get this reward. NFTs that are locked cannot utilize Burn To Redeem, Merge NFTs, or Withdraw XDC features.
+* **The “Claim XDC” Button**\
+  On the last day of each month, you can press the Claim XDC button to claim your XDC rewards which will then get added to your NFT.
+* **The “Sell” Button**\
+  By pressing the sell button it'll take you to the PrimePort marketplace where you can then sell your NFT by listing it or starting an auction.
 
 {% embed url="https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-5db9fe6437a1" %}
 
