@@ -1,5 +1,5 @@
 ---
-description: How can you stake $XDC?
+description: Understanding how the XDC Staking mechanics work
 ---
 
 # XDC Staking NFT Mechanics
