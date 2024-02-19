@@ -1,22 +1,24 @@
 ---
-description: How staking mechancis works?
+description: Understanding how the staking mechanics work
 ---
 
 # PRNT Staking Mechanics
 
-## Introduction <a href="#id-5932" id="id-5932"></a>
+## <mark style="color:purple;">Introduction</mark> <a href="#id-5932" id="id-5932"></a>
 
-We present to you our revolutionary staking system featuring NFTs.
+We present to you our revolutionary staking system using NFTs.
 
-In order to earn various rewards with Prime Numbers, such as a portion of the NFT royalties, the NFT reward mechanism, and in-game rewards, you will need to stake your $PRNT tokens. This does not happen in an ordinary way however. This means your staked tokens will give an intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time by “breaking open” the NFT which is then destroyed in the process.
+To earn various rewards within the Prime Numbers ecosystem you will need to stake your $PRNT tokens inside our revolutionary NFTs. By staking with us you gain access to numerous rewards such as...
 
-When we stake our tokens in the NFT, it will gradually level up. There is a maximum potency that we can stake on a daily basis, so we have to repeat this process on a regular basis, not more than once a day.
+* Rewards from the PRNT rewards pool
+* A portion of the NFT Royalties from the PrimePort NFT Marketplace
+* 40% of the profits from Prime Finance, the first borrowing and lending protocol built on the XDC Network
 
-The higher your level and the more rarity you have the more reward you will get.
+Our staking system is revolutionary because it means your staked PRNT tokens will give intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time by “breaking open” the NFT which is then destroyed in the process. You can also withdraw your tokens without destroying the NFT, however, this comes at a cost which is a 20% fee which then gets placed in the rewards pool and distributed back to the current NFT holders.
 
-This article will detail all the mechanics behind the PRNT Staking NFT collection. This collection of NFTs is revolutionary because you can stake tokens inside of the NFT which contributes towards leveling it up.
+When you stake PRNT tokens inside your NFT it will gradually level up which increases the multiplier of your NFT. The higher your multiplier the more rewards you earn from the rewards pool compared to other NFTs in circulation.
 
-### The Structure Of The NFTs… <a href="#d7e3" id="d7e3"></a>
+### <mark style="color:purple;">The Structure Of The NFTs…</mark> <a href="#d7e3" id="d7e3"></a>
 
 Each NFT has the same structure. It consists of…
 
