@@ -28,7 +28,7 @@ Each NFT has the same structure. It consists of…
 
 * **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
 
-<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PRNT V3 Staking Table.png" alt=""><figcaption></figcaption></figure>
 
 As you can see in the table above, every level you complete adds 0.1 to your added multiplier. Once your NFT reaches the max level of 20 your added multiplier will be maxed out at 2.0
 
