@@ -1,10 +1,10 @@
 ---
 description: >-
-  Prime Numbers XDC is an ecosystem composed of different DEFI and NFT protocols
-  that generate revenue for its community on the XDC Blockchain.
+  Prime Numbers is an ecosystem built on the XDC blockchain composed of
+  different DeFi and NFT protocols that generate revenue for its community.
 ---
 
-# WHAT IS THE PRIME NUMBERS XDC ECOSYSTEM?
+# What Is The Prime Numbers XDC Ecosystem?
 
 Prime Numbers Labs combines the flexibility of Ethereum smart contract development with the speed and the business environment of XDC.
 
