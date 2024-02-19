@@ -40,7 +40,7 @@ The Total Multiplier determines how many rewards your NFT gets from the rewards 
 Total Multiplier = Base Multiplier + Added Multiplier
 {% endhint %}
 
-## How to stake? <a href="#id-21ca" id="id-21ca"></a>
+## <mark style="color:purple;">How to stake?</mark> <a href="#id-21ca" id="id-21ca"></a>
 
 We highly recommend you to check the whole staking process tutorial:
 
@@ -48,33 +48,29 @@ We highly recommend you to check the whole staking process tutorial:
 Find ''The Staking Process''
 {% endembed %}
 
-## _Frequently Asked Questions_ <a href="#a7be" id="a7be"></a>
+## <mark style="color:purple;">Frequently Asked Questions</mark> <a href="#a7be" id="a7be"></a>
 
-* **When the staking rewards are sent?**\
-  Smart-contract send the rewards on the last day of every month.
-* **When a person is in the process of leveling up, and a rewards drop takes place. Since the rewards drop into the NFT, does that help increase the levels?**\
-  Yes.
+* **When do I receive my rewards?**\
+  Your rewards will be available to claim on the last day of each month.
+*   **Do the rewards I claim contribute toward levelling up my NFT?**
 
-## Staking Interface Buttons <a href="#id-9afb" id="id-9afb"></a>
+    Yes they do
 
-* **“Staking” Button**\
-  This button is used for stake inside the NFT. This button follows the staking rules. Sometimes you will need a lower amount of the daily max allowed because you need less $PRNT to level up your NFT.
-* **“Transfer” Button**\
+## <mark style="color:purple;">NFT Interface Buttons</mark> <a href="#id-9afb" id="id-9afb"></a>
+
+* **The “Stake” Button**\
+  This button is used to stake PRNT tokens inside your NFT. Simply enter the amount you wish to stake, approve the PRNT and then confirm the stake transaction.
+* **The “Get Surplus” Button**\
+  Once your NFT has reached the top level then the Get Surplus button will become available. This allows you to withdraw any PRNT tokens, free of charge, from your NFT that are above the balance of 8,298 PRNT tokens.
+* **The “Burn To Redeem” Button**\
+  This button breaks open the NFT and sends all the PRNT tokens inside of it back to your wallet. This action CANNOT be reversed, it will burn your NFT and send all the PRNT tokens back to your wallet.
+* **The “Transfer” Button**\
   This button is used for transferring NFTs between wallets.
-* **“BurnToRedeem” Button**\
-  This button breaks the NFT and takes out all the $PRNT inside the NFT.\
-  It cannot be reversed, it will burn your NFT and send all the PRNT to your wallet.
-* **“Instant Stake” Button**\
-  This button allows you to stake whatever you want amount but you pay a 5% fee of the introduced amount. This fee goes to the reward pool. If you introduce 10000 $PRNT -> 9500$ PRNT to the stake and 500$ PRNT for the fee.
-* **“GetSurplus” Button**\
-  This button takes out the NFT the balance above 8298 $PRNT. It means that any value above 8298 $PRNT can be withdrawn.\
-  To use this button you need the NFT without interactions the previous 15 days of trying using “GetSurplus”.\
-  Interaction = Transfer, Stake
-
-## Summary <a href="#id-04fc" id="id-04fc"></a>
-
-After reading the entire post we can get the following conclusions:
-
-Due to our level system, it can be very interesting and rewarding to try to achieve the highest level. Just by actively leveling your NFT you quickly raise in reward multiplier, resulting in a larger slice of the $PRNT pie.
-
-Depending on the rarity of the NFT and its level, you can get up to +4x in the rewards.
+* **The “Withdraw PRNT” Button**\
+  This button allows you to withdraw PRNT tokens from your NFT without destroying it. However, there's a 20% fee for doing this so if you withdrew 100 PRNT tokens, 80 would get sent to your wallet and the other 20 would get sent to the rewards pool and distributed back to the other NFT holders at the end of the month.
+* **The “Claim PRNT” Button**\
+  On the last day of each month, you can press the Claim PRNT button to claim your PRNT rewards which will then get added to your NFT.
+* **The “Sell” Button**\
+  By pressing the sell button it'll take you to the PrimePort marketplace where you can then sell your NFT by listing it or starting an auction.
+* **The “Merge NFTs” Button**\
+  Pressing this button allows you to merge two NFTs of the same rarity together to create an NFT of a higher rarity.
