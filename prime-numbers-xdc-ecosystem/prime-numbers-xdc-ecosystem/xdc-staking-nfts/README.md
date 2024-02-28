@@ -36,7 +36,7 @@ Base Multiplier = 2.
 
 \#8 Godly: Base Multiplier: 1.9
 
-<figure><img src="../../../.gitbook/assets/10.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/10.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
 ***
 
