@@ -23,4 +23,4 @@
     * [XDC NFT Staking Reward System](prime-numbers-xdc-ecosystem/prime-numbers-reward-system/xdc-nft-staking-reward-system.md)
 * [Partners](partners/README.md)
   * [$XDC Network](partners/usdxdc-network.md)
-* [PrimePort NFT Marketplace](https://docs.primeport.xyz/)
+* [PrimePort Docs](https://docs.primeport.xyz/)
