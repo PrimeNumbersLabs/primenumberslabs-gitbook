@@ -37,8 +37,6 @@ The Prime Numbers Labs Ecosystem tokens serve a similar purpose as the XDC Ecosy
 
 This allocation is dedicated to rewarding PRNT NFT holders. Each month, 20,000 PRNT is distributed as a reward to these holders.
 
-{% embed url="https://docs.google.com/spreadsheets/d/1qIb3FfCR3eY9LUCz2rGExolEvlhs9809jmqiig4pQM4/edit?usp=sharing" fullWidth="false" %}
-
 <figure><img src="../../.gitbook/assets/3.png" alt=""><figcaption></figcaption></figure>
 
 ***
@@ -66,8 +64,6 @@ The public sale tokens were sold at a rate between 38 and 42 xdc/PRNT. This allo
 **8. Seed Sale (120,000 PRNT)**
 
 Tokens allocated for the seed sale were sold at 0.33 $/PRNT. This batch has been fully distributed.
-
-{% embed url="https://docs.google.com/spreadsheets/d/1GZ2MXIWx6SmNEIp9NL-s8cH691iqgGlenOpv_I13tgA/edit?usp=sharing" %}
 
 <figure><img src="../../.gitbook/assets/5.png" alt=""><figcaption></figcaption></figure>
 
