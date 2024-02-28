@@ -19,7 +19,7 @@ Prime Finance represents the pinnacle of innovation in decentralized finance (De
 
 **Profit Sharing and NFT Integration**:
 
-* A distinctive aspect of Prime Finance is the 40% profit sharing offered to PRNT token holders who stake their tokens with Prime Numbers NFTs. And also the 10% for the XDC NFTs holders.
+* A distinctive aspect of Prime Finance is the distribution of 40% of the profits offered to Prime Numbers NFT holders. And also 10% for XDC NFT holders.
 * This integration of lending and borrowing with NFTs, coupled with the platform's comprehensive approach to yield optimization and asset management, underscores Prime Finance's commitment to innovation and versatility in the rapidly evolving DeFi ecosystem.
 * Those users who provide liquidity to the PRNT pairs on the DEX and networks confirmed by Prime Numbers Labs as official will receive blue chip rewards from the fees generated in Prime Finance.
 * There will be an incentive program for concentrated liquidity providers. Users who lock a % of their lend position will be eligible for emissions of our token PRNT.
