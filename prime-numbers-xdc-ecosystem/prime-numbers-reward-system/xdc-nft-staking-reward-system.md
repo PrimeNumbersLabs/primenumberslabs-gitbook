@@ -2,47 +2,89 @@
 
 ## XDC NFT STAKING REWARDS: <a href="#b642" id="b642"></a>
 
-## Rewards: <a href="#f327" id="f327"></a>
+## Calculating NFT Rewards with PRNT Staking Rewards Pool and Extra Rewards.
 
-These NFTs are going to get the following rewards:
+### Variables Overview
 
-* **VARIABLE REWARD:** 10% of Prime Profits
-* **FIXED REWARD:** In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
+* **X**: The total number of NFTs in consideration.
+* **a**: Rarity of the NFT.
+* **b**: Level of the NFT.
+* **t**: XDC tokens assigned per NFT.
+* **Tx**: Total multiplier for an NFT, calculated as (Tx = a + b).
+* **Extra Rewards**: Additional rewards coming from Prime Finance fees, added to the initial minting funds rewards.
 
-We will give 30% of the funds from the minting because Prime Finance (Lending and Borrowing Protocol) development is ongoing, and we want to start giving rewards.
+A total of 82,000 tokens, plus Extra Rewards, are to be distributed, taking into account both the NFTs' total multiplier and the product of the total multiplier and XDC tokens per NFT.
 
-The 10% of Prime Finance profits should be higher than the 30% of the minting funds.\
-All of these rewards will be paid on $XDC.
+### Reward Distribution Formula
 
-## 1- Fixed Reward <a href="#id-8910" id="id-8910"></a>
+#### Part 1: Based on Total Multiplier
 
-**30% of the minting funds will be rewarded to the NFTs in the first two years. After these first two years, the non-locked and non-custodial $XDC staking reward will be 10% of the profits from Prime Finance.**
+To distribute the first portion of XDC tokens plus a share of the Extra Rewards, we calculate each NFT's share based on its total multiplier (Tx).
 
-**PAYOUT Formula Staking**\
-a= total multiplier of the NFT\
-a = x +y\
-x= base multiplier \[multiplier per rarity of the NFT]\
-y= added multiplier \[multiplier per level of the NFT]
+1. **Calculate the accumulated total multiplier**:
 
-**We have found a way to make the rewards fair for everyone:**\
-b= XDC staked per NFT
+$$
+T_{total} = \sum_{i=1}^{X} Tx_i
+$$
 
-HALF XDC REWARD given to “a” -> \[Total Multiplier] of the NFTs\
-HALF XDC REWARD given to (“a” \* ”b”) -> \[(Total Multiplier)\*XDC)]
+2. **Determine the reward for each NFT**, also considering a portion of the Extra Rewards:
 
-## 2- Prime Finance <a href="#id-036c" id="id-036c"></a>
+$$
+R_{1,i} = \left(\frac{Tx_i}{T_{total}} \times 82000\right) + \left(\frac{Tx_i}{T_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
+$$
 
-Prime Numbers XDC Staking NFTs will receive 10% of Prime Finance profits.
+####
 
-## XDC NFT Staking (optional): <a href="#a11b" id="a11b"></a>
+####
 
-When your NFT reaches the **MAX LIMIT** (**100 000 $XDC** staked inside the NFT), you will be able to lock this NFT to get an **additional 7% APY**
+#### Part 2: Based on Total Multiplier and XDC Tokens
 
-The lock period will be **one year.**
+For the second distribution of XDC tokens plus another share of the Extra Rewards, we include the product of the total multiplier and XDC tokens (Tx \* t).
 
-**The reward will be paid monthly to the NFT.**
+1. **Calculate the total of the product of total multipliers and XDC tokens (Ptotal)**:
 
+$$
+P_{total} = \sum_{i=1}^{X} (Tx_i \times t_i)
+$$
+
+2. **Determine the reward for each NFT**, incorporating a portion of the Extra Rewards:
+
+$$
+R_{2,i} = \left(\frac{Tx_i \times t_i}{P_{total}} \times 82000\right) + \left(\frac{Tx_i \times t_i}{P_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
+$$
+
+***
+
+### Conclusion
+
+By applying these formulas, each NFT's reward is determined by its unique characteristics (rarity and level) and the assigned XDC tokens. This dual approach ensures a balanced reward distribution that considers both the intrinsic qualities of the NFTs and the PRNT tokens allocated to them.
+
+***
+
+***
+
+## XDC NFTs STAKING REWARDS: <a href="#b642" id="b642"></a>
+
+## 1- Fixed Rewards
+
+In the first two years, 30% of the funds from the minting will be rewarded to the XDC Staking NFTs.
+
+## 2- Variable Rewards - Prime Finance <a href="#id-7896" id="id-7896"></a>
+
+XDC NFTs will receive 10% of Prime Finance profits.&#x20;
+
+{% hint style="warning" %}
+To be eligible for these rewards, you need to lock your NFT for a period of time on Prime Finance.
+{% endhint %}
+
+## 3.- XDC NFTs Masternodes Staking - Optional
+
+When your NFT reach the MAX LIMIT (100,000 $XDC staked inside the NFT), you will be able to lock this NFT to get an additional 7% APY.&#x20;
+
+The lock period will be one year. Reward will be montly paid to the NFT.
+
+{% hint style="success" %}
 Example: You have an NFT with 100 000 $XDC. And you lock it.\
-From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC\
-And a part of the 10% of Prime Finance profits and an amount of the 30% minting funds.
+From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC
+{% endhint %}
 

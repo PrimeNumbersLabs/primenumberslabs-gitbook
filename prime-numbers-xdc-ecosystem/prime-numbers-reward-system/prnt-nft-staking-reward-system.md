@@ -59,7 +59,11 @@ By applying these formulas, each NFT's reward is determined by its unique charac
 
 ## PRNT NFT STAKING REWARDS: <a href="#b642" id="b642"></a>
 
-## 1- 20,000 PRNT Fixed Rewards
+### 1- 20,000 PRNT Fixed Rewards
+
+1.5M from the allocation is dedicated to rewarding PRNT NFT holders.&#x20;
+
+Each month, 20,000 PRNT is distributed as a reward to these holders.
 
 ### 2- Prime Numbers NFTs Royalties <a href="#id-6649" id="id-6649"></a>
 
@@ -70,6 +74,10 @@ The royalties percentage is set at 10%, which means 5% of the sales price of eac
 ### 3- Prime Finance <a href="#id-7896" id="id-7896"></a>
 
 Prime Numbers NFTs will receive 40% of Prime Finance profits.&#x20;
+
+{% hint style="warning" %}
+To be eligible for these rewards, you need to lock your NFT for a period of time on Prime Finance.
+{% endhint %}
 
 
 

@@ -8,6 +8,16 @@ Our XDC Staking NFTs are the first non-custodial and trustless XDC staking syste
 
 The collection consists of 5,557 NFTs, of which Prime Numbers make 5,542, and 15 have the same aspect as the Prime Numbers Handmade NFTs.
 
+## <mark style="color:purple;">Smart Contract Information</mark>
+
+<details>
+
+<summary>Prime Numbers XDC NFT V2</summary>
+
+[xdc9d458330e458f11fd1ce7e44b3a66568af8076a0](https://xdc.blocksscan.io/address/xdc9d458330e458f11fd1ce7e44b3a66568af8076a0)
+
+</details>
+
 ## <mark style="color:purple;">Different Rarities:</mark>
 
 #### Prime Numbers Handmade NFTs
@@ -36,7 +46,7 @@ Base Multiplier = 2.
 
 \#8 Godly: Base Multiplier: 1.9
 
-<figure><img src="../../../.gitbook/assets/10.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/10.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
 ***
 
