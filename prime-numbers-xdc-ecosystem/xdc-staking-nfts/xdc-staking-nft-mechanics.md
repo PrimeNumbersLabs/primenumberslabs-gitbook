@@ -23,11 +23,11 @@ Each NFT has the same structure. It consists of…
 
 * **A Base Multiplier -** The NFTs have a rarity that determines the base multiplier for that NFT. The table below shows the different rarities and their corresponding base multiplier…
 
-<figure><img src="../../../.gitbook/assets/XDC Base Multipliers.png" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Elementos Whitepaper (1).jpg" alt=""><figcaption></figcaption></figure>
 
-* **An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
+**An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
 
-<figure><img src="../../../.gitbook/assets/11.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/11.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
 Your share of the rewards depends on the Total Multiplier of your NFT, which is based on both its rarity (Base Multiplier) and its level (Added Multiplier).
 
