@@ -1,4 +1,8 @@
-# PRNT Staking NFTs
+---
+description: PRNT Staking NFTs
+---
+
+# Prime Numbers NFTs
 
 <figure><img src="../../.gitbook/assets/37 HM Prime Numbers.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -77,4 +81,4 @@ You can increase these percentages with the information we share in the ''Next''
 
 #### **How to get a $PRNT Staking NFT?**
 
-{% embed url="https://primeport.xyz/collection/xdc/prime-numbers" %}
+{% embed url="https://primeport.xyz/collection/xdc/PRNTNFTv3" %}

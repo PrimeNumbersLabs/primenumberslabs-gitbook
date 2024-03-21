@@ -68,19 +68,10 @@ This makes the NFTs deflationary.
 
 ### <mark style="color:purple;">Refund System</mark>
 
-Here, we show you how our merge NFTs system works.
-
 **You can use the "BurnToRedeem" button to get 30 $PRNT (Refund System)**
 
 This button breaks the NFT and extracts all the $XDC inside the NFT.\
 It cannot be reversed; it will burn your NFT and send all the XDC to your wallet. Also, you get 30 $PRNT when you break the NFT.
-
-Examples: \
-1- If you test and don't like how the staking system or rewards work, you can decide to "BurnToRedeem" the NFT to get 30 $PRNT.
-
-2- You minted and got one low rarity, and you prefer 30 $PRNT; you can also use this system.
-
-3- The 30 $PRNT is more valuable than the NFT, and you decide to use "BurnToRedeem" as an investment option.
 
 This makes the NFTs deflationary.
 
@@ -88,6 +79,4 @@ This makes the NFTs deflationary.
 
 ### **How to get a $XDC Staking NFT?**
 
-{% embed url="https://primeport.xyz/collection/xdc/0x2204E4Db4D45A290e284daa6f6fb52273593B293" %}
-Link
-{% endembed %}
+{% embed url="https://primeport.xyz/collection/xdc/XDCNFTv2" %}
