@@ -4,7 +4,7 @@ description: $PRNT smart contracts on different networks.
 
 # $PRNT Smart Contracts
 
-
+If you want to bridge across networks, use: [**https://bridge.wanchain.org/**](https://bridge.wanchain.org/)&#x20;
 
 {% tabs %}
 {% tab title="XDC Network" %}

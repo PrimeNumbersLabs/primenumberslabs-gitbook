@@ -1,16 +1,32 @@
 # Prime Finance
 
-**Introduction Prime Finance**
+**Introduction Prime Finance**\
+\
+PRIME FINANCE is a decentralized finance (DeFi) protocol that enables the borrowing and lending of cryptocurrency and NFTs.
 
-Prime Finance represents the pinnacle of innovation in decentralized finance (DeFi), being able to operate in EVM blockchains and utilizing its unique PRNT token. This forward-thinking platform empowers users to supply liquidity for generating passive income or borrowing with a flexible collateralization approach, setting a new standard in the DeFi space.
+With Prime Finance, get the best lending and borrowing rates in a snap.
+
+Dive into vast liquidity, smart reinvestment, and top-tier access—boosting returns, cutting costs, and easing stress. It’s your financial game, upgraded.
+
+It will be live on Ethereum and XDC Network. EVM Compatible.\
+\
+PRIME FINANCE will have the same general features as any other lending platform.
+
+However, it will also offer unique functionalities: concentrated liquidity through your assets, collateralizing NFTs for loans, and fractionalizing your NFTs for renting.
+
+Supporting RWA as collateral will be one of Prime Finance's main features.
+
+To learn more about Prime Finance, we recommend carefully reviewing its [Official WhitePaper](https://app.gitbook.com/o/j7Qko0hTNGYSZrhxYdJe/s/o4SISzko0XTUUE5cJyPX/).
+
+Prime Finance represents the pinnacle of innovation in decentralized finance (DeFi). It can operate in EVM blockchains and utilize its unique PRNT token. This platform empowers users to supply liquidity for generating passive income or borrowing with a flexible collateralization approach.
 
 **Key Features of Prime Finance**:
 
-1. **Security and Openness**: Renowned for its robust security framework, Prime Finance will be fully audited and open-source, ensuring maximum transparency and safety. The protocol offers user-friendly interaction through web interfaces, APIs, or direct engagement with network smart contracts and encourages the development of third-party integrations and applications.
-2. **Active Participation in the Ecosystem**: Users can seamlessly integrate into the Prime Finance ecosystem by depositing assets, which provide passive income based on market demand and allow for asset-backed borrowing. This dual functionality balances the cost of borrowing with the interest accrued from deposits.
+1. **Security and Openness**: Prime Finance, renowned for its robust security framework, will be fully audited and open-source, ensuring maximum transparency and safety. The protocol offers user-friendly interaction through web interfaces, APIs, or direct engagement with network smart contracts and encourages the development of third-party integrations and applications.
+2. **Active Participation in the Ecosystem**: Users can seamlessly integrate into the Prime Finance ecosystem by depositing assets. These assets provide passive income based on market demand and allow for asset-backed borrowing. This dual functionality balances the cost of borrowing with the interest accrued from deposits.
 3. **Secure Asset Storage**: Utilizing robust and transparent smart contracts, Prime Finance guarantees the safety of users’ funds. These open-source contracts will be regularly audited, ensuring reliability and security. Users can withdraw or convert their funds into pTokens for trading on the blockchain.
-4. **Comprehensive Risk Management**: Despite robust security measures, Prime Finance acknowledges the inherent risks in DeFi, such as potential smart contract vulnerabilities and the challenges in the liquidation process. The platform employs continuous audits and public code reviews to mitigate these and maintains an active bug bounty program.
-5. **PRNT Token: The Governance and Security Cornerstone**: The PRNT token is integral to Prime Finance's governance, enabling token holders to vote on Prime Finance Improvement Proposals (PFIPs) and influence the protocol's trajectory.
+4. **Comprehensive Risk Management**: Prime Finance acknowledges the inherent risks in DeFi, such as potential smart contract vulnerabilities and the challenges in the liquidation process. The platform employs continuous audits and public code reviews to mitigate these and maintains an active bug bounty program.
+5. **PRNT Token: The Governance and Security Cornerstone**: The PRNT token is integral to Prime Finance's governance. It enables token holders to vote on Prime Finance Improvement Proposals (PFIPs) and influence the protocol's trajectory.
 
 **Innovations in Lending and Borrowing**:
 
@@ -19,7 +35,7 @@ Prime Finance represents the pinnacle of innovation in decentralized finance (De
 
 **Profit Sharing and NFT Integration**:
 
-* A distinctive aspect of Prime Finance is the distribution of 40% of the profits offered to Prime Numbers NFT holders. And also 10% for XDC NFT holders.
+* A distinctive aspect of Prime Finance is the distribution of 40% of the profits offered to Prime Numbers NFT holders and 10% to XDC NFT holders.
 * This integration of lending and borrowing with NFTs, coupled with the platform's comprehensive approach to yield optimization and asset management, underscores Prime Finance's commitment to innovation and versatility in the rapidly evolving DeFi ecosystem.
 * Those users who provide liquidity to the PRNT pairs on the DEX and networks confirmed by Prime Numbers Labs as official will receive blue chip rewards from the fees generated in Prime Finance.
 * There will be an incentive program for concentrated liquidity providers. Users who lock a % of their lend position will be eligible for emissions of our token PRNT.

@@ -8,20 +8,12 @@ Prime Numbers has a revolutionary staking system where you stake PRNT tokens ins
 
 ### DAO Governance
 
-Thanks to our DAO, you can be part of the decisions made in the ecosystem by having PRNT tokens.
+Thanks to our DAO, you can participate in the decisions made in the ecosystem by having PRNT tokens.
 
-### NFTs
-
-#### PRNT NFTs
+### PRNT NFTs
 
 * Earn up to 40% from Prime Finance
 * 20k PRNT to the PRNT NFTs holders
-
-#### XDC NFTs
-
-* Earn up to 10% from Prime Finance
-* 7% APY from staking
-* 30% of XDC NFTs minting funds.
 
 ### Prime Finance
 
@@ -29,11 +21,7 @@ Thanks to our DAO, you can be part of the decisions made in the ecosystem by hav
 
 2.-Participation Rewards
 
-3.-Collateral for Loans
-
-4.-Participation in Staking
-
-5.-Fee Discounts
+3.-Participation in Staking
 
 
 
