@@ -1,9 +1,8 @@
 # Table of contents
 
 * [PRIME NUMBERS LABS](README.md)
-  * [Introduction](prime-numbers-labs/introduction.md)
-  * [Prime Numbers Logo](prime-numbers-labs/prime-numbers-logo.md)
   * [What Is Prime Numbers Labs?](prime-numbers-labs/what-is-prime-numbers-labs.md)
+  * [Prime Numbers Logo](prime-numbers-labs/prime-numbers-logo.md)
   * [XDC NFTs Staking System](prime-numbers-labs/xdc-nfts-staking-system.md)
   * [Prime Finance](prime-numbers-labs/prime-finance.md)
   * [$PRNT Token](prime-numbers-labs/usdprnt-token/README.md)
