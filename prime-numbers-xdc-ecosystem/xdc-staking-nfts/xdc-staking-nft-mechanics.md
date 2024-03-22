@@ -15,7 +15,7 @@ To earn various rewards within the Prime Numbers ecosystem you will need to stak
 
 Our staking system is revolutionary because it means your staked XDC tokens will give intrinsic value to the NFT and can be traded along with the NFT on any NFT marketplace as a packaged deal. The tokens can be recovered from the NFT at any point in time providing it's not locked up in one of our master nodes. Simply use the withdraw XDC button to empty the NFT and send all the XDC inside of it back to your wallet.
 
-When you stake XDC tokens inside your NFT it will gradually level up which increases the multiplier of your NFT. The higher your multiplier the more rewards you earn from the rewards pool compared to other NFTs in circulation. 100,000 XDC is the maximum amount of tokens you can stake inside of our NFTs.
+When you stake XDC tokens inside your NFT, it will gradually level up, which increases the multiplier of your NFT. The higher your multiplier, the more rewards you will earn from the rewards pool compared to other NFTs in circulation. 100,000 XDC is the maximum amount of tokens you can stake inside of our NFTs.
 
 ### <mark style="color:purple;">The Structure Of The NFTs…</mark> <a href="#d7e3" id="d7e3"></a>
 
@@ -25,7 +25,7 @@ Each NFT has the same structure. It consists of…
 
 <figure><img src="../../.gitbook/assets/Elementos Whitepaper (1).jpg" alt=""><figcaption></figcaption></figure>
 
-**An Added Multiplier -** As you level up your NFT it increases the added multiplier as shown in the table below…
+**An Added Multiplier - As you level up your NFT, it increases the added multiplier, as shown in the table below…**
 
 <figure><img src="../../.gitbook/assets/11.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
@@ -39,7 +39,7 @@ Example:
 
 NFT with Base Multiplier 2.0 and level 18 (Added Multiplier 1.8) will be a Total Multiplier of 3.8
 
-The higher the level and rarity of your NFT, the more rewards you will receive at the end of each month. The rewards you claim at the end of each month will go into your NFT and contribute towards levelling it up. The maximum that can be staked inside an NFT is 100,000 XDC. Once it reaches this amount your rewards will continue to be added to your NFT each month and you can withdraw the excess XDC by using the "Get Surplus" button.
+The higher the level and rarity of your NFT, the more rewards you will receive at the end of each month. The rewards you claim at the end of each month will go into your NFT and contribute towards leveling it up. The maximum that can be staked inside an NFT is 100,000 XDC. Once it reaches this amount, your rewards will continue to be added to your NFT each month, and you can withdraw the excess XDC by using the "Get Surplus" button.
 
 ***
 
@@ -53,31 +53,33 @@ Link
 
 * **When do I receive my rewards?**\
   Your rewards will be available to claim on the last day of each month.
-*   **Do the rewards I claim contribute toward levelling up my NFT?**
+*   **Do the rewards I claim contribute toward leveling up my NFT?**
 
     Yes they do
 
 ## <mark style="color:purple;">NFT Interface Buttons</mark> <a href="#id-9afb" id="id-9afb"></a>
 
 * **The “Stake” Button**\
-  This button is used to stake XDC tokens inside your NFT. Simply enter the amount you wish to stake and then confirm the stake transaction.
+  This button is used to stake XDC tokens inside your NFT. Enter the amount you wish to stake and then confirm the stake transaction.
 * **The “Get Surplus” Button**\
-  Once your NFT has reached the top level then the Get Surplus button will become available. This allows you to withdraw any XDC tokens from your NFT that are above the balance of 100,000 XDC tokens.
+  Once your NFT has reached the top level, the Get Surplus button will become available. This allows you to withdraw any XDC tokens from your NFT above the balance of 100,000 XDC tokens.
 * **The “Withdraw XDC” Button**\
-  This button allows you to withdraw XDC tokens from your NFT without destroying it. Simply enter how much you want to withdraw and then click accept and that amount of tokens will get sent back to your wallet.
+  This button allows you to withdraw XDC tokens from your NFT without destroying it. Enter how much you want to withdraw and then click accept, and that amount of tokens will be sent back to your wallet.
 * **The “Burn To Redeem” Button**\
-  This button breaks open the NFT and sends all the XDC tokens inside of it back to your wallet. This action CANNOT be reversed, it will burn your NFT and send all the XDC tokens back to your wallet. You also receive 30 PRNT tokens as a bonus for burning your NFT.
+  This button breaks open the NFT and sends all the XDC tokens inside of it back to your wallet. This action CANNOT be reversed; it will burn your NFT and send all the XDC tokens back to your wallet. You also receive 30 PRNT tokens as a bonus for burning your NFT.
 * **The “Transfer” Button**\
-  This button is used for transferring NFTs between wallets.
+  This button is used to transfer NFTs between wallets.
 * **The “Merge NFTs” Button**\
-  Pressing this button allows you to merge two NFTs of the same rarity together to create an NFT of a higher rarity.
+  Pressing this button allows you to merge two NFTs of the same rarity to create an NFT of a higher rarity.
 * **The “Lock NFT” Button**\
-  Pressing this button allows you to lock your NFT up in one of the Prime Numbers XDC master nodes which earns you an extra 7% per year in rewards. This button locks this NFT for one year and one month to earn an additional 7% APY. When your NFT reaches the MAX LIMIT (100 000 $XDC staked inside the NFT), you can lock the NFT to get this reward. NFTs that are locked cannot utilize Burn To Redeem, Merge NFTs, or Withdraw XDC features.
+  Pressing this button allows you to lock your NFT up in one of the Prime Numbers XDC master nodes, which earns you an extra 7% per year in rewards. This button locks this NFT for one year and one month to earn an additional 7% APY. When your NFT reaches the MAX LIMIT (100 000 $XDC staked inside the NFT), you can lock the NFT to get this reward. Locked NFTs cannot utilize Burn To Redeem, Merge NFTs, or Withdraw XDC features.
 * **The “Claim XDC” Button**\
-  On the last day of each month, you can press the Claim XDC button to claim your XDC rewards which will then get added to your NFT.
+  On the last day of each month, you can press the Claim XDC button to claim your XDC rewards, which will then be added to your NFT.
 * **The “Sell” Button**\
-  By pressing the sell button it'll take you to the PrimePort marketplace where you can then sell your NFT by listing it or starting an auction.
+  Pressing the sell button will take you to the PrimePort marketplace, where you can sell your NFT by listing it or starting an auction.
 
-{% embed url="https://medium.com/@PrimeNumbersFi/xdc-staking-nft-mechanics-5db9fe6437a1" %}
 
-{% embed url="https://www.youtube.com/watch?v=pspWr9M6smo" %}
+
+## <mark style="color:purple;">Rewards</mark> <a href="#id-9afb" id="id-9afb"></a>
+
+Check how the rewards work: [XDC Staking Reward System](../prime-numbers-staking-reward-system/xdc-nft-staking-reward-system.md)

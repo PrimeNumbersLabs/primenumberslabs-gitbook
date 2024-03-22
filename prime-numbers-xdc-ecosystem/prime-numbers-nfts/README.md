@@ -8,9 +8,9 @@ description: PRNT Staking NFTs
 
 ## <mark style="color:purple;">Introduction</mark> <a href="#id-7c88" id="id-7c88"></a>
 
-Our collection consists of 4,111 NFTs, of which 4,096 are generative NFTs and 15 are handmade NFTs. In addition, pre sale participants received an OG NFT depending on how much they invested.
+Our collection consists of 4,111 NFTs, of which 4,096 are generative NFTs, and 15 are handmade NFTs. In addition, pre-sale participants received an OG NFT depending on how much they invested.
 
-During the PRNT Staking NFT minting period, only 2,333 NFTs were minted so the original supply was halved from the very beginning making those NFTs in circulation far more valuable.
+During the PRNT Staking NFT minting period, only 2,333 NFTs were minted, so the original supply was halved from the very beginning, making those NFTs in circulation far more valuable.
 
 <figure><img src="../../.gitbook/assets/5.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
@@ -26,7 +26,7 @@ During the PRNT Staking NFT minting period, only 2,333 NFTs were minted so the o
 
 ## <mark style="color:purple;">Handmade</mark> <a href="#a422" id="a422"></a>
 
-The first 15 Prime Numbers will consist of handcrafted images from our Art Director. They are creative paintings that each represent one of the first 15 prime numbers. The handmade Prime Numbers are unique, and will never again be minted.
+The first 15 Prime Numbers consist of handcrafted images from our Art Director. They are creative paintings representing one of the first 15 prime numbers. The handmade Prime Numbers are unique and will never again be minted.
 
 ## <mark style="color:purple;">Generative</mark> <a href="#id-0cde" id="id-0cde"></a>
 
@@ -47,19 +47,19 @@ The following chances are assigned to the different rarities:
 
 <figure><img src="../../.gitbook/assets/6.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
-This makes 8⁵ = 32,768 different combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
+This makes 8⁵ = 32,768 combinations possible, meaning many of the combinations will not be minted, and the uniqueness factor of the minted NFTs will be very high.
 
 Each generative NFT will be unique, and there will be no others like it.
 
-The Generative NFTs will increase in price as more get minted. We want to reward early minters by getting a better price, however, we ensure the curve is not too punishing for later participants.
+The Generative NFTs will increase in price as more are minted. We want to reward early minters by giving them a better price. However, we ensure the curve does not punish later participants too much.
 
 ## <mark style="color:purple;">NFTs Rarity</mark> <a href="#b805" id="b805"></a>
 
-The NFTs in our collection each have their own global rarity. We explained in the previous chapter how each of the segments of the NFT has its own rarity, combining the rarity of the segments determines the overall rarity of the NFT. Each rarity grants an increasing base multiplier when you are staking.
+The NFTs in our collection each have their own global rarity. We explained in the previous chapter how each segment of the NFT has its own rarity. Combining the rarities of the segments determines the overall rarity of the NFT. Each rarity grants an increasing base multiplier when you stake.
 
 Next, we explain how the rarity of each part of the NFT is calculated.
 
-With the probability explained above, we take the 5 parts with their different rarities.
+With the probability explained above, we take the five parts with their different rarities.
 
 For example:
 
@@ -77,8 +77,8 @@ Once the form of obtaining the rarity and how unique these NFTs are has been cre
 
 <figure><img src="../../.gitbook/assets/7.jpg" alt=""><figcaption><p>Click to enlarge</p></figcaption></figure>
 
-You can increase these percentages with the information we share in the ''Next'' page (PRNT Staking Mechanics).
+You can increase these percentages with the information we share on the ''Next'' page ([PRNT Staking Mechanics](prime-numbers-nfts-staking-mechanics.md)).
 
-#### **How to get a $PRNT Staking NFT?**
+#### **How do you get a $PRNT Staking NFT?**
 
 {% embed url="https://primeport.xyz/collection/xdc/PRNTNFTv3" %}
