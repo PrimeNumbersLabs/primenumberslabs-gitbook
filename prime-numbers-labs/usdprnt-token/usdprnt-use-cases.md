@@ -14,18 +14,16 @@ Thanks to our DAO, you can participate in the decisions made in the ecosystem by
 
 * Earn up to 40% from Prime Finance
 * 20k PRNT to the PRNT NFTs holders
+* **The main utility of the PRNT token is to level up your NFT**
 
 ### Prime Finance
 
-1.-Participation in Governance
-
-2.-Participation Rewards
-
-3.-Participation in Staking
-
-
-
-
-
-
+* Participation in Governance
+* Participation Rewards
+* Participation in Staking
+* **Access loans before they become available to the public for a PRNT fee**
+* **Hold/lock PRNT and access specialized/advanced platform analytics**
+* **Tiered user benefits**
+* **Simulations from the team**
+* **Advanced analytics**
 
