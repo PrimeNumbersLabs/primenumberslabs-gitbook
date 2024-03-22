@@ -1,8 +1,8 @@
 # Prime Finance
 
-**Introduction Prime Finance**\
-\
-PRIME FINANCE is a decentralized finance (DeFi) protocol that enables the borrowing and lending of cryptocurrency and NFTs.
+## **Introduction Prime Finance**
+
+**PRIME FINANCE is a decentralized finance (DeFi) protocol that enables the borrowing and lending of cryptocurrency and NFTs.**
 
 With Prime Finance, get the best lending and borrowing rates in a snap.
 
@@ -14,13 +14,13 @@ PRIME FINANCE will have the same general features as any other lending platform.
 
 However, it will also offer unique functionalities: concentrated liquidity through your assets, collateralizing NFTs for loans, and fractionalizing your NFTs for renting.
 
-Supporting RWA as collateral will be one of Prime Finance's main features.
+Supporting **RWA** as collateral will be one of Prime Finance's main features.
 
 To learn more about Prime Finance, we recommend carefully reviewing its [Official WhitePaper](https://app.gitbook.com/o/j7Qko0hTNGYSZrhxYdJe/s/o4SISzko0XTUUE5cJyPX/).
 
 Prime Finance represents the pinnacle of innovation in decentralized finance (DeFi). It can operate in EVM blockchains and utilize its unique PRNT token. This platform empowers users to supply liquidity for generating passive income or borrowing with a flexible collateralization approach.
 
-**Key Features of Prime Finance**:
+### **Key Features of Prime Finance**:
 
 1. **Security and Openness**: Prime Finance, renowned for its robust security framework, will be fully audited and open-source, ensuring maximum transparency and safety. The protocol offers user-friendly interaction through web interfaces, APIs, or direct engagement with network smart contracts and encourages the development of third-party integrations and applications.
 2. **Active Participation in the Ecosystem**: Users can seamlessly integrate into the Prime Finance ecosystem by depositing assets. These assets provide passive income based on market demand and allow for asset-backed borrowing. This dual functionality balances the cost of borrowing with the interest accrued from deposits.
@@ -28,12 +28,12 @@ Prime Finance represents the pinnacle of innovation in decentralized finance (De
 4. **Comprehensive Risk Management**: Prime Finance acknowledges the inherent risks in DeFi, such as potential smart contract vulnerabilities and the challenges in the liquidation process. The platform employs continuous audits and public code reviews to mitigate these and maintains an active bug bounty program.
 5. **PRNT Token: The Governance and Security Cornerstone**: The PRNT token is integral to Prime Finance's governance. It enables token holders to vote on Prime Finance Improvement Proposals (PFIPs) and influence the protocol's trajectory.
 
-**Innovations in Lending and Borrowing**:
+### **Innovations in Lending and Borrowing**:
 
 * Prime Finance stands out for integrating NFTs into the lending and borrowing framework. This unique feature and an NFT marketplace allow for novel lending and borrowing opportunities involving NFTs.
 * The platform’s loans are overcollateralized, offering both fixed and variable interest rates and the ability for borrowers to maintain loans indefinitely as long as the collateral value is sufficient.
 
-**Profit Sharing and NFT Integration**:
+### **Profit Sharing and NFT Integration**:
 
 * A distinctive aspect of Prime Finance is the distribution of 40% of the profits offered to Prime Numbers NFT holders and 10% to XDC NFT holders.
 * This integration of lending and borrowing with NFTs, coupled with the platform's comprehensive approach to yield optimization and asset management, underscores Prime Finance's commitment to innovation and versatility in the rapidly evolving DeFi ecosystem.
