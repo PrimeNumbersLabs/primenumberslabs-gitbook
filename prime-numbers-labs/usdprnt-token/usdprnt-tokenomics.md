@@ -71,7 +71,13 @@ Tokens allocated for the seed sale were sold at 0.33 $/PRNT. This batch has been
 
 **9. Team (300,000 PRNT)**
 
-The team's token allocation is locked and will remain so until Wednesday, January 1, 2025, at 10:18:09 AM. The associated address for these tokens is [0x4Ce69e8952Ebda2079941e0d131A239C0E3C20f2](https://xdc.blocksscan.io/address/0x4Ce69e8952Ebda2079941e0d131A239C0E3C20f2#transactions).
+The team's token allocation is locked and will remain so until Wednesday, January 1, 2025, at 10:18:09 AM. \
+\
+The associated address for these tokens is:
+
+```
+ 0x4Ce69e8952Ebda2079941e0d131A239C0E3C20f2
+```
 
 ***
 
