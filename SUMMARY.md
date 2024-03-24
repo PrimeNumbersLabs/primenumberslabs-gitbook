@@ -27,7 +27,7 @@
 * [Community Links](community-links/README.md)
   * [X](community-links/x.md)
   * [Telegram](community-links/telegram.md)
-  * [Discourse](community-links/discourse.md)
+  * [Discourse (Community Platform)](community-links/discourse-community-platform.md)
   * [Medium](community-links/medium.md)
   * [Youtube](community-links/youtube.md)
   * [LinkedIn](community-links/linkedin.md)
