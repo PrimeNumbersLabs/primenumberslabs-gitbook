@@ -9,7 +9,7 @@
     * [$PRNT Tokenomics](prime-numbers-labs/usdprnt-token/usdprnt-tokenomics.md)
     * [$PRNT Smart Contracts](prime-numbers-labs/usdprnt-token/usdprnt-smart-contracts.md)
     * [$PRNT Use Cases](prime-numbers-labs/usdprnt-token/usdprnt-use-cases.md)
-  * [Prime Numbers Labs Ecosystem](prime-numbers-labs/prime-numbers-labs-ecosystem.md)
+  * [Prime Numbers Labs Ecosystem Fees](prime-numbers-labs/prime-numbers-labs-ecosystem-fees.md)
   * [Roadmap](prime-numbers-labs/roadmap.md)
 * [Prime Numbers XDC Ecosystem](prime-numbers-xdc-ecosystem/README.md)
   * [What Is The Prime Numbers XDC Ecosystem?](prime-numbers-xdc-ecosystem/what-is-the-prime-numbers-xdc-ecosystem.md)
