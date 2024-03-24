@@ -1,8 +1,8 @@
 ---
 description: >-
-  Enjoy an all-in-one platform where lending & borrowing, staking, and NFT
-  markets all intersect for unmatched returns on your principal.  At Prime
-  Numbers Labs, the numbers are in your favor.
+  Enjoy an ecosystem where lending & borrowing, staking, and NFT markets all
+  intersect for unmatched returns on your principal. At Prime Numbers Labs, the
+  numbers are in your favor.
 ---
 
 # What Is Prime Numbers Labs?
