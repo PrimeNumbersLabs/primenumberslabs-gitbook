@@ -1,2 +1,2 @@
-# PRIME NUMBERS LABS
+# Learn
 
