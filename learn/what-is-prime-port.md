@@ -24,6 +24,6 @@ PrimePort Docs:
 
 How to use Prime Port?
 
-{% content-ref url="using-the-prime-numbers-ecosystem/how-to-use-primeport.md" %}
-[how-to-use-primeport.md](using-the-prime-numbers-ecosystem/how-to-use-primeport.md)
+{% content-ref url="how-to-use-the-prime-numbers-ecosystem/how-to-use-primeport.md" %}
+[how-to-use-primeport.md](how-to-use-the-prime-numbers-ecosystem/how-to-use-primeport.md)
 {% endcontent-ref %}

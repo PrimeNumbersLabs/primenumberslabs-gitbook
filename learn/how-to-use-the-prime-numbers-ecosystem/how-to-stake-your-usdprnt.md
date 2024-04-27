@@ -20,7 +20,7 @@ In this section, we guide you through the process of staking your PRNT. To do th
 
 <mark style="color:purple;">**To read our guide on Medium click the link below...**</mark>
 
-This link is still under construction.
+{% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-your-prnt-42e46e26cdb6" %}
 
 <mark style="color:purple;">**To watch our video tutorial on YouTube click the link below...**</mark>
 
