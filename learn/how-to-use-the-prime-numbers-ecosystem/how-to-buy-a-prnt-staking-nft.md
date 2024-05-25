@@ -24,4 +24,4 @@ In this section, we guide you through the process of purchasing one of our revol
 
 <mark style="color:purple;">**To watch our video tutorial on YouTube click the link below...**</mark>
 
-This link is still under construction.
+{% embed url="https://youtu.be/g4xQC9PR7xw" %}
