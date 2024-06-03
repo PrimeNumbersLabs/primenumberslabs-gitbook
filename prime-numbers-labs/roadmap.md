@@ -32,6 +32,6 @@ Prime Finance NFT compatibility: In this third version of Prime Finance, we will
 \
 Prime Finance EVMs: We will seek more EVMs to expand our platforms.
 
-> <mark style="color:green;">**Here we mention only of the milestones that we can announce.**</mark>
+> <mark style="color:green;">**Here we mention only few of the milestones that we can announce.**</mark>
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de pantalla 2024-06-03 a las 9.03.47.png" alt=""><figcaption></figcaption></figure>
