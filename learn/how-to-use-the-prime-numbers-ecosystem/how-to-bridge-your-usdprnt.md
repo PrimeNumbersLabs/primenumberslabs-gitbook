@@ -20,7 +20,7 @@ In this section, we guide you through the process of bridging your PRNT tokens o
 
 <mark style="color:purple;">**To read our guide on Medium click the link below...**</mark>
 
-This link is still under construction.
+{% embed url="https://medium.com/@PrimeNumbersFi/how-to-bridge-your-prnt-tokens-e718921afc0a" %}
 
 <mark style="color:purple;">**To watch our video tutorial on YouTube click the link below...**</mark>
 
