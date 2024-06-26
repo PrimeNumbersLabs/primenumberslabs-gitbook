@@ -4,7 +4,7 @@ description: Prime Numbers Labs Token $PRNT
 
 # $PRNT Tokenomics
 
-<figure><img src="../../.gitbook/assets/tokenomics nuevo JPG.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Allocations - PRNT (1).jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
