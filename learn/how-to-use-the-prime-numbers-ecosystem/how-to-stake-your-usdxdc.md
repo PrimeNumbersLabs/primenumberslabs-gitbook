@@ -20,7 +20,7 @@ In this section, we guide you through the process of staking your XDC. To do thi
 
 <mark style="color:purple;">**To read our guide on Medium click the link below...**</mark>
 
-Link under construction
+{% embed url="https://medium.com/@PrimeNumbersFi/how-to-stake-your-xdc-8899057dd23f" %}
 
 <mark style="color:purple;">**To watch our video tutorial on YouTube click the link below...**</mark>
 
