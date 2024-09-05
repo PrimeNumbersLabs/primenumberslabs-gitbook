@@ -1,2 +1,0 @@
-# PRIME NUMBERS LABS
-

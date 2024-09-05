@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -12,6 +13,5 @@ layout:
     visible: true
 ---
 
-# Overview
+# PNL Brand Kit
 
-This section provides an overview of how Prime Numbers Labs was formed, our core values, and our mission going forward.

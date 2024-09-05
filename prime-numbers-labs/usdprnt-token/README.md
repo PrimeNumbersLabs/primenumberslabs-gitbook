@@ -1,2 +1,0 @@
-# $PRNT Token
-

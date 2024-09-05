@@ -12,6 +12,6 @@ layout:
     visible: true
 ---
 
-# Overview
+# The Ecosystem
 
-This section provides an overview of how Prime Numbers Labs was formed, our core values, and our mission going forward.
+In this section, we dive into all the different parts of the Prime Numbers Ecosystem.

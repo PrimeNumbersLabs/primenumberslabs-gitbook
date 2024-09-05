@@ -12,6 +12,6 @@ layout:
     visible: true
 ---
 
-# Overview
+# Community & Social Media
 
-This section provides an overview of how Prime Numbers Labs was formed, our core values, and our mission going forward.
+In this section, you'll find links to all our Social Media accounts.

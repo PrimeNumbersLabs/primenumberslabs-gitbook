@@ -12,6 +12,6 @@ layout:
     visible: true
 ---
 
-# Overview
+# Miscellaneous
 
-This section provides an overview of how Prime Numbers Labs was formed, our core values, and our mission going forward.
+In this section, we provide other information not covered in previous sections that we think you should be aware of.
