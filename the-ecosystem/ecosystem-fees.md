@@ -14,7 +14,7 @@ layout:
 
 # Ecosystem Fees
 
-<figure><img src="../.gitbook/assets/3.0  Prime Numbers Labs Funding DECK  (5).png" alt=""><figcaption><p>Full Map</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/ecosystemfees.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -26,7 +26,7 @@ Primeport charges a 1.5% fee on all secondary sales. The following graph shows h
 
 Primeport also charges a 5% fee on all projects that use PrimePort Drops. This fee goes to the company treasury.
 
-<figure><img src="../.gitbook/assets/3.0  Prime Numbers Labs Funding DECK  (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/primeportfees.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -38,9 +38,7 @@ Prime Finance has different types of fees:
 * Liquidation Fees: A 15% fee applies to a liquidation event; the reward is split between the liquidator and the protocol.
 * Extra Fees: Penalty fees go to the treasury.
 
-
-
-<figure><img src="../.gitbook/assets/Prime Finance (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/primefinancefees.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -49,7 +47,7 @@ Prime Finance has different types of fees:
 PRNT NFTs receive rewards from staking, primeport, and prime finance. \
 Learn more here: [PRNT NFTs](nft-staking-reward-system/prnt-staking-nfts/)
 
-<figure><img src="../.gitbook/assets/3.0  Prime Numbers Labs Funding DECK  (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/prntnftsfees.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -58,4 +56,4 @@ Learn more here: [PRNT NFTs](nft-staking-reward-system/prnt-staking-nfts/)
 XDC NFTs receive rewards from Prime Finance and XDC Masternodes. \
 Learn more here: [XDC NFTs](broken-reference)
 
-<figure><img src="../.gitbook/assets/3.0  Prime Numbers Labs Funding DECK  (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/xdcnftsfees.jpg" alt=""><figcaption></figcaption></figure>
