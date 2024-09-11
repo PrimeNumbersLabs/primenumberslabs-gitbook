@@ -9,6 +9,7 @@
 * [The Ecosystem](the-ecosystem/README.md)
   * [Ecosystem and Benefits](the-ecosystem/ecosystem-and-benefits.md)
   * [Prime Finance](the-ecosystem/prime-finance.md)
+  * [PrimePort](https://docs.primeport.xyz/)
   * [PrimePort NFT Marketplace](the-ecosystem/primeport-nft-marketplace/README.md)
     * [How to Use PrimePort?](the-ecosystem/primeport-nft-marketplace/how-to-use-primeport.md)
   * [NFT Staking Reward System](the-ecosystem/nft-staking-reward-system/README.md)

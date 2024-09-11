@@ -26,7 +26,7 @@ Prime Numbers Labs introduces a revolutionary staking system where your $PRNT to
 
 * Stake PRNT tokens inside an NFT to imbue it with value and start earning rewards. The NFT’s value and rewards potential grow over time as it levels up.
 
-1. **Earn Multiple Rewards:**
+2. **Earn Multiple Rewards:**
 
 * **PRNT Rewards Pool:** Earn monthly rewards from the PRNT rewards pool.
 * **NFT Royalties:** Receive a share of NFT royalties from the PrimePort marketplace.
