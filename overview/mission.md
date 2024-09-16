@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:purple;">**Our Mission: Making DeFi Simple, Secure, and Accessible for All**</mark>
 
-At Prime Numbers Labs, our mission is clear: **to democratize decentralised finance** by making it simple, secure, and accessible to everyone, regardless of their background or experience.
+At Prime Numbers Labs, our mission is clear: **to democratize decentralized finance** by making it simple, secure, and accessible to everyone, regardless of their background or experience.
 
 We are committed to solving the biggest challenges in the DeFi space—complexity, lack of regulation, and unfair profit sharing. By offering an all-in-one platform that integrates lending, borrowing, staking, and NFT markets, we empower our users to take control of their financial future with confidence.
 

@@ -18,7 +18,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/PRIMENUMBERSECOSYSTEM.jpg" alt=""><figcaption><p>Prime Numbers Labs Ecosystem - Click to Enlarge</p></figcaption></figure>
 
-At Prime Numbers Labs, we've built a dynamic ecosystem that seamlessly integrates the best of decentralised finance (DeFi) and non-fungible tokens (NFTs). This all-in-one platform is designed to empower users with unmatched opportunities for growth, security, and financial freedom.
+At Prime Numbers Labs, we've built a dynamic ecosystem that seamlessly integrates the best of decentralized finance (DeFi) and non-fungible tokens (NFTs). This all-in-one platform is designed to empower users with unmatched opportunities for growth, security, and financial freedom.
 
 ***
 
@@ -26,7 +26,7 @@ At Prime Numbers Labs, we've built a dynamic ecosystem that seamlessly integrate
 
 Our ecosystem is more than just a collection of features—it's a holistic environment where every component works together to maximize your returns and simplify your financial journey. Here’s what you can expect:
 
-1. [**Prime Finance:**](http://primefinance.xyz/) Our state-of-the-art lending and borrowing protocol is at the heart of our ecosystem. It provides users with secure and lucrative opportunities to earn passive income through decentralised loans, ensuring that your assets are always working for you.
+1. [**Prime Finance:**](http://primefinance.xyz/) Our state-of-the-art lending and borrowing protocol is at the heart of our ecosystem. It provides users with secure and lucrative opportunities to earn passive income through decentralized loans, ensuring that your assets are always working for you.
 2. [**PrimePort NFT Marketplace:**](https://primeport.xyz/) Engage in a vibrant marketplace where NFTs are not just digital assets but key components of your investment strategy. Our multichain marketplace allows you to create, trade, and stake NFTs with ease, leveraging the full potential of the burgeoning digital art and collectibles market.
 3. [**NFT Staking and Rewards:**](https://staking.primenumbers.xyz/) Take advantage of our innovative staking systems that offer high yields and consistent rewards. Whether you’re staking PRNT or XDC tokens, our ecosystem ensures that you benefit directly from the platform’s success through profit-sharing and community rewards.
 
