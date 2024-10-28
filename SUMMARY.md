@@ -26,7 +26,7 @@
   * [$PRFI Token](the-ecosystem/usdprfi-token/README.md)
     * [$PRFI Tokenomics](the-ecosystem/usdprfi-token/usdprfi-tokenomics.md)
     * [$PRNT Smart Contracts](the-ecosystem/usdprfi-token/usdprnt-smart-contracts.md)
-    * [$PRFI Use Cases - Cambiar COPY](the-ecosystem/usdprfi-token/usdprfi-use-cases-cambiar-copy.md)
+    * [$PRFI Use Cases](the-ecosystem/usdprfi-token/usdprfi-use-cases.md)
     * [How to Buy $PRNT?](the-ecosystem/usdprfi-token/how-to-buy-usdprnt.md)
     * [How to Stake your $PRNT?](the-ecosystem/usdprfi-token/how-to-stake-your-usdprnt.md)
     * [How to Bridge your $PRNT?](the-ecosystem/usdprfi-token/how-to-bridge-your-usdprnt.md)
