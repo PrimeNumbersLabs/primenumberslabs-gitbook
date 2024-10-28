@@ -16,7 +16,7 @@ layout:
 
 ## <mark style="color:purple;">The Prime Numbers Labs Logo: Where Mathematics Meets Innovation</mark>
 
-<figure><img src="../.gitbook/assets/PRIMENUMBERSLOGO.jpg" alt=""><figcaption><p>Prime Numbers Logo - Click to Enlarge</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/PRIMENUMBERSLOGO (1).jpg" alt=""><figcaption></figcaption></figure>
 
 At Prime Numbers Labs, our logo is more than just a visual identity—it’s a powerful symbol that encapsulates the essence of our project, blending the precision of mathematics with the creative spirit of innovation.
 
