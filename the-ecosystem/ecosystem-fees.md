@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Ecosystem Fees - to do
+# Ecosystem Fees
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
@@ -45,7 +45,7 @@ PrimeFi has different types of fees:
 ## <mark style="color:purple;">PRFI NFTs</mark>
 
 PRFI NFTs receive rewards from staking, primeport, and prime finance. \
-Learn more here: [PRFI NFTs](nft-staking-reward-system-to-do/prfi-staking-nfts/)
+Learn more here: [PRFI NFTs](nft-staking-reward-system/prfi-staking-nfts/)
 
 <figure><img src="../.gitbook/assets/prfinftsfees (1).jpg" alt=""><figcaption></figcaption></figure>
 
