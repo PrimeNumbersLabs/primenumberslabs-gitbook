@@ -42,7 +42,7 @@ Prime Numbers Labs introduces a revolutionary staking system where your $PRFI to
 
 * **Added Multiplier:** As your NFT levels up, the added multiplier increases, further boosting rewards.
 
-<figure><img src="../../../.gitbook/assets/PRFINFTSADDEDMULTIPLIER.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/PRFINFTSADDEDMULTIPLIER.png" alt=""><figcaption></figcaption></figure>
 
 * **Total Multiplier:** The combined base and added multipliers define the total rewards your NFT generates.
 
@@ -51,7 +51,7 @@ Prime Numbers Labs introduces a revolutionary staking system where your $PRFI to
 ### <mark style="color:blue;">Interface Buttons</mark>
 
 * **Stake:** Stake PRFI tokens inside your NFT to start earning rewards.
-* **Get Surplus:** Withdraw PRFI tokens above 8,298 for free once your NFT reaches the top level.
+* **Get Surplus:** Withdraw PRFI tokens above 41,490 for free once your NFT reaches the top level.
 * **Burn to Redeem:** Break open the NFT to redeem all staked tokens, destroying the NFT.
 * **Transfer:** Move your NFT between wallets.
 * **Withdraw PRFI:** Withdraw PRFI tokens with a 20% fee, which is redistributed to other NFT holders.

@@ -18,11 +18,11 @@ layout:
 
 ## <mark style="color:purple;">PRFI NFT STAKING REWARDS:</mark> <a href="#b642" id="b642"></a>
 
-### 1- 200,000 PRFI Fixed Rewards
+### 1- 100,000 PRFI Fixed Rewards
 
-1.5M from the allocation is dedicated to rewarding PRFI NFT holders.&#x20;
+10M from the allocation is dedicated to rewarding PRFI NFT holders.&#x20;
 
-Each month, 200,000 PRFI is distributed as a reward to these holders.
+Each month, 100,000 PRFI is distributed as a reward to these holders.
 
 ### 2- Prime Numbers NFTs Royalties <a href="#id-6649" id="id-6649"></a>
 
@@ -49,9 +49,9 @@ To be eligible for these rewards, you need to lock your NFT on PrimeFi for a per
 * **b**: Level of the NFT.
 * **t**: PRFI tokens assigned per NFT.
 * **Tx**: Total multiplier for an NFT, calculated as (Tx = a + b).
-* **Extra Rewards**: Additional rewards coming from Primeport and PrimeFi fees, added to the initial 200,000 PRFI rewards pool.
+* **Extra Rewards**: Additional rewards coming from Primeport and PrimeFi fees, added to the initial 100,000 PRFI rewards pool.
 
-A total of 200,000 PRFI tokens, plus Extra Rewards, are to be distributed, taking into account both the NFTs' total multiplier and the product of the total multiplier and PRFI tokens per NFT.
+A total of 100,000 PRFI tokens, plus Extra Rewards, are to be distributed, taking into account both the NFTs' total multiplier and the product of the total multiplier and PRFI tokens per NFT.
 
 ***
 
@@ -70,7 +70,7 @@ $$
 2. **Determine the reward for each NFT**, also considering a portion of the Extra Rewards:
 
 $$
-R_{1,i} = \left(\frac{Tx_i}{T_{total}} \times 100000\right) + \left(\frac{Tx_i}{T_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
+R_{1,i} = \left(\frac{Tx_i}{T_{total}} \times 50000\right) + \left(\frac{Tx_i}{T_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
 $$
 
 #### Part 2: Based on Total Multiplier and PRFI Tokens
@@ -86,7 +86,7 @@ $$
 2. **Determine the reward for each NFT**, incorporating a portion of the Extra Rewards:
 
 $$
-R_{2,i} = \left(\frac{Tx_i \times t_i}{P_{total}} \times 100000\right) + \left(\frac{Tx_i \times t_i}{P_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
+R_{2,i} = \left(\frac{Tx_i \times t_i}{P_{total}} \times 50000\right) + \left(\frac{Tx_i \times t_i}{P_{total}} \times \text{Extra Rewards}_{\text{portion}}\right)
 $$
 
 ***
