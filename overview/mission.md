@@ -14,14 +14,14 @@ layout:
 
 # Mission
 
-## <mark style="color:purple;">**Our Mission: Making DeFi Simple, Secure, and Accessible for All**</mark>
+**Prime Numbers Labs is dedicated to revolutionizing decentralized finance (DeFi) by building an inclusive, secure, and accessible ecosystem that empowers users across the blockchain multiverse.**
 
-At Prime Numbers Labs, our mission is clear: **democratizing decentralized finance** by making it simple, secure, and accessible to everyone, regardless of their background or experience.
+From our beginnings on the XDC Network, where we pioneered a liquid staking system and established PrimePort, the network's first and largest NFT marketplace, we have continuously innovated to solve key challenges in DeFi. With the launch of PrimeFi, we are transforming into an omnichain platform powered by advanced technologies like LayerZero and Stargate v2.
 
-We address fundamental problems in DEFI that block adoption and user benefits. Today, DeFi has a lot of fragmented liquidity across multiple blockchains, making it difficult for users to access the best rates and opportunities. This lack of connectivity creates inefficiencies, leaving users needing a unified source for lending and borrowing across chains.
+Our mission is to:
 
-Interoperability solutions carry significant security risks. Bridge vulnerabilities have led to severe losses, creating a lack of trust in cross-chain transactions. Also, the complexity of DeFi platforms can make it difficult for users to understand the ecosystem. This complexity leaves potential users behind. Prime Numbers Labs is committed to solving these issues and creating a safer, more accessible DeFi environment.
+* **Democratize DeFi:** By bridging fragmented blockchain ecosystems, we enable users to seamlessly access the best financial opportunities, regardless of their preferred chain.
+* **Go Where the Users Are:** We integrate with familiar platforms like Telegram mini-apps, Instagram bots, and other social media tools to simplify DeFi for everyone—from crypto enthusiasts to businesses and institutions.
+* **Make DeFi Accessible and Secure:** We address the critical challenges of fragmented liquidity, security risks in interoperability, and user complexity by providing innovative solutions that are user-friendly, blockchain-agnostic, and built within a regulated framework.
 
-As we continue to grow, we focus on creating a safe and inclusive environment where everyone can thrive. We are dedicated to obtaining the necessary licenses to operate within a regulated framework, providing the security and peace of mind our users deserve.
-
-At Prime Numbers Labs, we are more than just a platform—we are a movement towards financial empowerment, and we invite you to join us on this journey.
+Prime Numbers Labs is more than a platform—it’s a movement for financial empowerment. Our vision is to create a future where DeFi is as intuitive and secure as traditional finance, unlocking its potential for a global audience.
