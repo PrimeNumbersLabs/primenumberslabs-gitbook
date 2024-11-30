@@ -14,9 +14,7 @@ layout:
 
 # $PRFI Tokenomics
 
-<figure><img src="../../.gitbook/assets/tokenomics (2).jpg" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de pantalla 2024-11-25 152125.png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:blue;">**1. SEED SALE (14,000,000 PRFI)**</mark>
 
@@ -48,7 +46,7 @@ These tokens are reserved for airdrops for incentives.
 
 ***
 
-### <mark style="color:blue;">**6. SEED COMMUNITY (21,500,000 PRFI)**</mark>
+### <mark style="color:blue;">**6. SEED COMMUNITY (19,550,000 PRFI)**</mark>
 
 Token holders of the previous token.
 
@@ -71,7 +69,7 @@ The Ecosystem allocation is primarily used for various operational and expansion
 
 ***
 
-### <mark style="color:blue;">**9. Team (3,000,000 PRFI)**</mark>
+### <mark style="color:blue;">**9. Team (4,950,000 PRFI)**</mark>
 
 Tokens for the team.
 

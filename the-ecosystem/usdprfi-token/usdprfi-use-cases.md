@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# $PRFI Use Cases - Cambiar COPY
+# $PRFI Use Cases
 
 <figure><img src="../../.gitbook/assets/TOKENUSECASES (1).jpg" alt=""><figcaption></figcaption></figure>
 
@@ -27,7 +27,7 @@ Thanks to our DAO, you can participate in the decisions made in the ecosystem by
 ### <mark style="color:blue;">PRFI NFTs</mark>
 
 * Earn up to 40% from PrimeFi
-* 200k PRNT to the PRFI NFTs holders
+* 100k PRNT to the PRFI NFTs holders
 * **The main utility of the PRFI token is to level up your NFT**
 
 ### <mark style="color:blue;">PrimeFi</mark>

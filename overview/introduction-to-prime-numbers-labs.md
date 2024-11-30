@@ -18,7 +18,7 @@ layout:
 
 <figure><img src="../.gitbook/assets/primenumberspreview.jpg" alt=""><figcaption></figcaption></figure>
 
-**Prime Numbers Labs is a revolutionary DeFi ecosystem that seamlessly integrates lending, borrowing, staking, and NFT markets into an all-in-one ecosystem.**
+**Prime Numbers Labs is building the Prime Numbers ecosystem that combines the PrimeFi lending and borrowing protocol, the PrimePort NFT Marketplace, and a unique derivatives staking System called PrimeStaking, in order to make DeFi truly omnichain.**
 
 Here, your financial assets do more than just sit idle—they work for you, opening doors to unmatched returns and financial freedom. Our platform is designed to make decentralized finance accessible to everyone, whether you’re a seasoned investor or new to DeFi.
 
