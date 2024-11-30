@@ -8,8 +8,6 @@
   * [Logo Explanation](overview/logo-explanation.md)
 * [The Ecosystem](the-ecosystem/README.md)
   * [Ecosystem and Benefits](the-ecosystem/ecosystem-and-benefits.md)
-  * [PrimePort](https://docs.primeport.xyz/)
-  * [PrimeFi](https://docs.primefi.xyz/)
   * [NFT Staking Reward System](the-ecosystem/nft-staking-reward-system/README.md)
     * [PRFI Staking NFTs](the-ecosystem/nft-staking-reward-system/prfi-staking-nfts/README.md)
       * [PRFI NFTs Staking Mechanics](the-ecosystem/nft-staking-reward-system/prfi-staking-nfts/prfi-nfts-staking-mechanics.md)

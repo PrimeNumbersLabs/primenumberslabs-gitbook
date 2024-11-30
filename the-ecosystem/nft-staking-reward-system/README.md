@@ -1,4 +1,5 @@
 ---
+hidden: true
 layout:
   title:
     visible: true
@@ -12,7 +13,7 @@ layout:
     visible: true
 ---
 
-# NFT Staking Reward System - To do
+# NFT Staking Reward System
 
 ## <mark style="color:purple;">NFT Staking Reward System: Transforming Digital Collectibles into Income-Generating Assets</mark>
 
