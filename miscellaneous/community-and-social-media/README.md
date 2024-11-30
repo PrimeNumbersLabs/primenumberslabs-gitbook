@@ -16,36 +16,36 @@ layout:
 
 In this section, you'll find links to all our Social Media accounts.
 
-## [X](miscellaneous/community-and-social-media/x.md)
+## [X](x.md)
 
 [https://twitter.com/PrimeNumbersFi](https://twitter.com/PrimeNumbersFi)
 
-## [Telegram](miscellaneous/community-and-social-media/telegram.md)
+## [Telegram](telegram.md)
 
-### Community
+#### Community
 
 [https://t.me/PrimeNumbersFi](https://t.me/PrimeNumbersFi)
 
-### Annoucements
+#### Annoucements
 
 [https://t.me/PrimeNumbersChannel](https://t.me/PrimeNumbersChannel)
 
-## [Discourse (Community Platform)](miscellaneous/community-and-social-media/discourse-community-platform.md)
+## [Discourse (Community Platform)](discourse-community-platform.md)
 
 [https://community.primenumbers.xyz/](https://community.primenumbers.xyz/)
 
-## [Medium](miscellaneous/community-and-social-media/medium.md)
+## [Medium](medium.md)
 
 [https://medium.primenumbers.xyz/](https://medium.primenumbers.xyz/)
 
-## [Youtube](miscellaneous/community-and-social-media/youtube.md)
+## [Youtube](youtube.md)
 
 [https://www.youtube.com/@PrimeNumbersLabs](https://www.youtube.com/@PrimeNumbersLabs)
 
-## [LinkedIn](miscellaneous/community-and-social-media/linkedin.md)
+## [LinkedIn](linkedin.md)
 
 [https://www.linkedin.com/company/prime-numbers-labs](https://www.linkedin.com/company/prime-numbers-labs)
 
-## [Discord](miscellaneous/community-and-social-media/discord.md)
+## [Discord](discord.md)
 
 [https://discord.gg/primenumbers](https://discord.gg/primenumbers)
