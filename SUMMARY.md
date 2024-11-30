@@ -48,4 +48,3 @@
   * [PNL Brand Kit](miscellaneous/pnl-brand-kit.md)
 * [PrimePort Docs](https://docs.primeport.xyz/)
 * [PrimeFi Docs](https://docs.primefi.xyz/)
-* [FAQs](https://help.primenumbers.xyz/en/)
