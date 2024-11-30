@@ -14,10 +14,8 @@ layout:
 
 # Overview
 
-This section provides an overview of how Prime Numbers Labs was formed, our core values, and our mission going forward.
+This section overviews how Prime Numbers Labs was formed, our core values, and our future mission.
 
-- [Introduction to Prime Numbers Labs](overview/introduction-to-prime-numbers-labs.md)
-- [Mission](overview/mission.md)
-- [Road Map](overview/road-map.md)
-- [FAQs](overview/faqs.md)
-- [Logo Explanation](overview/logo-explanation.md)
+* [Introduction to Prime Numbers Labs](overview/introduction-to-prime-numbers-labs.md)
+* [Mission](overview/mission.md)
+* [Logo Explanation](overview/logo-explanation.md)
