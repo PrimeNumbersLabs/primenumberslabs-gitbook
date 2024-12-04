@@ -42,6 +42,7 @@
   * [Discord](community-and-social-media/discord.md)
 * [PrimePort Docs](https://docs.primeport.xyz/)
 * [PrimeFi Docs](https://docs.primefi.xyz/)
+* [PrimeStaking Docs](https://docs.primestaking.xyz/)
 * [Ecosystem Partners](ecosystem-partners/README.md)
   * [XDC Network](ecosystem-partners/xdc-network.md)
 * [PNL Brand Kit](pnl-brand-kit.md)
