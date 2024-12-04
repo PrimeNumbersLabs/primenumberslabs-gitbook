@@ -16,7 +16,7 @@ layout:
 
 In this section, we dive into all the different parts of the Prime Numbers Ecosystem.
 
-The Prime numbers ecosystem consists of three major applications that work together and empower each other.&#x20;
+The Prime Numbers ecosystem consists of three major applications that work together and empower each other.&#x20;
 
 These applications are:
 
@@ -34,9 +34,9 @@ The full documentation of PrimePort can be found here [PrimePort](https://docs.p
 
 ### PrimeStaking
 
-PrimeStaking is an innovative staking protocol that utilizes NFTs to create derivate packages of assets
+PrimeStaking is an innovative staking protocol that utilizes NFTs to create derivate packages of assets.
 
-The complete documentation of PrimeStaking can be found here \<link to PrimeStaking gitbook>
+The complete documentation of PrimeStaking can be found here [PrimeStaking](https://app.gitbook.com/o/j7Qko0hTNGYSZrhxYdJe/s/aNL9MtQF319bzNT2KTNC/)
 
 ## Benefits of the ecosystem
 
@@ -52,20 +52,4 @@ The $PRFI token is the glue that ties the Prime Numbers ecosystem together.  All
 
 * [$PRFI Token](usdprfi-token/)
   * [$PRFI Tokenomics](usdprfi-token/usdprfi-tokenomics.md)
-  * [$PRNT Smart Contracts](usdprfi-token/usdprnt-smart-contracts.md)
   * [$PRFI Use Cases](usdprfi-token/usdprfi-use-cases.md)
-  * [How to Buy $PRNT?](usdprfi-token/how-to-buy-usdprnt.md)
-  * [How to Stake your $PRNT?](usdprfi-token/how-to-stake-your-usdprnt.md)
-  * [How to Bridge your $PRNT?](usdprfi-token/how-to-bridge-your-usdprnt.md)
-
-## XDC
-
-The roots of Prime Numbers are on the XDC network, you can find information about our XDC products  here:
-
-* [Prime Numbers XDC Ecosystem](prime-numbers-xdc-ecosystem/)
-  * [XDC Staking NFTs](prime-numbers-xdc-ecosystem/xdc-staking-nfts/)
-    * [XDC NFTs Staking System - Vaults](prime-numbers-xdc-ecosystem/xdc-staking-nfts/xdc-nfts-staking-system-vaults.md)
-    * [XDC Staking NFTs Mechanics](prime-numbers-xdc-ecosystem/xdc-staking-nfts/xdc-staking-nfts-mechanics.md)
-    * [XDC NFT Staking Reward System](prime-numbers-xdc-ecosystem/xdc-staking-nfts/xdc-nft-staking-reward-system.md)
-    * [How to Buy a XDC NFT?](prime-numbers-xdc-ecosystem/xdc-staking-nfts/how-to-buy-a-xdc-nft.md)
-    * [How to Buy $XDC?](prime-numbers-xdc-ecosystem/xdc-staking-nfts/how-to-buy-usdxdc.md)
