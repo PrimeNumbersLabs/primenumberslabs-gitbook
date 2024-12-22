@@ -71,7 +71,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
   6.&#x32;**. NFT Holders (8.41%)**
 * **Tokens:** 8,410,000 PRFI
 * **Purpose:** Distributed to holders of Prime Numbers Labs’ NFTs, fostering engagement.
-* **Rationale:** Enhances utility for NFT owners and creates strong ties between tokens and NFTs.
+* **Rationale:** Holders who migrated their PRNT to PRFI inside NFTs.
 
 ***
 
