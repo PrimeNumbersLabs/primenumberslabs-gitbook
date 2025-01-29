@@ -1,81 +1,41 @@
+---
+description: The Foundation of Omnichain Interoperability in PrimeFi
+---
+
 # Layerzero
 
--Sobre Layerzero
+## <mark style="color:purple;">The Foundation of Omnichain Interoperability in PrimeFi</mark>
 
-**LayerZero** es un protocolo de interoperabilidad blockchain que permite la comunicación directa entre diferentes cadenas de bloques de manera eficiente, segura y descentralizada.
+### **About LayerZero**
 
-Actualmente, LayerZero trabaja con más de 7**0 redes blockchain**, incluidas Ethereum, Binance Smart Chain, Avalanche, Polygon, y más. La empresa ha recaudado mas de **260 millones de dólares** en tres rondas de financiación, con el respaldo de destacados inversionistas como Andreessen Horowitz, Sequoia Capital y Coinbase Ventures. Este sólido respaldo financiero y técnico posiciona a LayerZero como un actor líder en el espacio de la interoperabilidad blockchain.
+LayerZero is an **omnichain interoperability protocol** that enables seamless and secure communication between multiple blockchains. Its innovative technology eliminates the need for traditional intermediaries, providing a decentralized approach to cross-chain asset and data transfers. With its **Ultra Light Nodes (ULN)** infrastructure, LayerZero facilitates efficient cross-chain interactions, reducing costs and enhancing security.
 
--**Beneficios para PrimeFi**
+Currently, **LayerZero supports over 70 blockchain networks**, including **Ethereum, Binance Smart Chain, Avalanche, Polygon, and more**. The company has raised **over $260 million** across three funding rounds, backed by top-tier investors such as **Andreessen Horowitz, Sequoia Capital, and Coinbase Ventures**. This strong financial and technical backing positions LayerZero as a leading player in the **blockchain interoperability space**, driving the future of cross-chain connectivity.
 
-#### **1. Interoperabilidad fluida entre cadenas**
+[**https://layerzero.network/**](https://layerzero.network/)
 
-LayerZero permite la conexión directa entre múltiples blockchains, facilitando la transferencia de datos y activos sin necesidad de intermediarios. Esto permite a los usuarios:
+### **Benefits for PrimeFi**
 
-* **Prestar y pedir prestado activos en diferentes cadenas:** Los usuarios pueden depositar garantías en una blockchain (por ejemplo, Ethereum) y pedir prestado en otra (como Binance Smart Chain o Avalanche).
-* **Acceso a un ecosistema ampliado:** Los prestatarios y prestamistas pueden interactuar sin preocuparse por la compatibilidad entre cadenas.
+At **PrimeFi**, integrating **LayerZero** is essential to delivering a truly omnichain experience in our lending and borrowing protocol. The key benefits include:
 
-***
+* **Seamless interoperability:** LayerZero enables asset and data transfers across multiple blockchains without the need for centralized bridges or wrapped tokens.
+* **Reduced costs and transaction times:** Its efficient architecture minimizes gas fees and accelerates cross-chain operations within PrimeFi.
+* **Enhanced security and trust:** By eliminating dependencies on centralized validators, LayerZero provides a more secure and attack-resistant infrastructure.
+* **Our lending and borrowing protocol is truly Omnichain:** Thanks to LayerZero’s technology, **PrimeFi** allows users to manage collateral and loans across multiple blockchains without restrictions, ensuring a smooth and interoperable experience within the DeFi ecosystem.
+* **Support for the OFT standard:** The **Prime Numbers Labs token, $PRFI**, utilizes the **Omnichain Fungible Token (OFT) Standard**, built on LayerZero. This allows for the transfer of native tokens across blockchains without the need for wrapping or liquidity pools, optimizing interoperability within PrimeFi.
+* **Launching PRFI NFTs using the ONFT standard:** At **Prime Numbers Labs**, we are preparing to launch our **PRFI NFTs**, which will utilize the **Omnichain Non-Fungible Token (ONFT) Standard** developed by LayerZero. This will enable NFTs to be transferred natively across different blockchains, eliminating the need for wrapped versions and improving their liquidity and accessibility across multiple networks.
 
-#### **2. Reducción de costos y fricción**
+### **Recognitions**
 
-* **Eficiencia en costos:** Gracias a la tecnología de relés ligeros de LayerZero, las transferencias cross-chain no dependen de validadores externos costosos. Esto reduce las tarifas asociadas a las transacciones entre cadenas.
-* **Eliminación de pasos adicionales:** No es necesario que los usuarios utilicen puentes tradicionales (bridges) para mover sus activos entre cadenas, lo que mejora la experiencia del usuario.
+It is worth highlighting that **Daniel de Witte, our CPO, participated in ETHGlobal Brussels in 2024**, where he achieved **2nd place for Best Omnichain Implementation** for LayerZero. This recognition underscores our team's deep expertise in omnichain technology and our commitment to innovation within the space.
 
-***
+{% hint style="info" %}
+[https://dewitte.info/](https://dewitte.info/)
+{% endhint %}
 
-#### ~~**3. Gestión de riesgos mejorada**~~
+### **Future and Trust**
 
-~~LayerZero permite un monitoreo en tiempo real de los activos garantizados en diferentes cadenas, lo cual es crucial para un protocolo de **lending and borrowing**:~~
+LayerZero is a fundamental pillar of **PrimeFi’s** infrastructure, allowing us to build a truly omnichain ecosystem. As the DeFi space continues to evolve, LayerZero will remain a key player in our expansion, ensuring secure, efficient, and barrier-free connectivity for our users.
 
-* ~~**Pruebas de solvencia omnichain:** Se pueden verificar las posiciones de deuda y colateral de los usuarios en todas las cadenas en las que estén operando, asegurando que se mantenga la proporción de colateral adecuada.~~
-* ~~**Liquidaciones automáticas cross-chain:** Si una posición de garantía se vuelve riesgosa en una cadena, LayerZero facilita la liquidación inmediata desde cualquier otra cadena conectada.~~
-
-***
-
-#### **4. Escalabilidad y flexibilidad**
-
-* **Expansión a nuevos mercados:** Con LayerZero, el protocolo puede agregar compatibilidad con nuevas cadenas de forma ágil, aumentando su base de usuarios y liquidez.
-* **Personalización modular:** LayerZero permite adaptar la comunicación entre cadenas según las necesidades específicas del protocolo, lo que brinda flexibilidad para escalar las operaciones.
-
-***
-
-#### **5. Mejor experiencia de usuario**
-
-* **Interacción sin interrupciones:** Los usuarios pueden interactuar con el protocolo como si fuera una sola entidad, sin preocuparse por la blockchain en la que están operando.
-* **Reducción del tiempo de transacción:** Las operaciones cross-chain se procesan más rápido que con soluciones tradicionales.
-
-***
-
-#### **6. Seguridad avanzada**
-
-* **Uso de Ultra Light Nodes (ULN):** Este modelo minimiza los vectores de ataque al eliminar la necesidad de confianza en un gran conjunto de validadores.
-* **Pruebas de fraude y validación verificable:** Aumenta la confianza en las operaciones, lo que es crítico para protocolos financieros.
-
-Hace poco vimos a USDT optar por el estandar omnichain diseñado por Layerzero.
-
--Logros
-
-1.-Prime Numbers Labs lanza su omnichain lending and borrowing
-
-A traves de esta integracion el protocolo de lending and borrowing PrimeFi consigue realizar transacciones en diferentes cadenas sin riesgos y de manera segura. \
-Un usuario es capaz de depositar un activo en una red y pedir prestado en otra como ya hemos explicado en los beneficios previamente.
-
-En breve nuevas integraciones...
-
-
-
-
-
-
-
--Futuras Alianzas
-
-Actualmente continuamos con desarrollos estrategicos junto a Layerzero para integrar nuestro ecosystema con su tecnologia al completo.
-
-Seguimos explorando nuevas oportunidades de asociación que puedan complementar y enriquecer nuestra visión a largo plazo.
-
--Reconocimientos
-
-Destacar que Daniel de Witte, nuestro CPO participio el pasado 2024 en ETHGlobal Brussels, donde logro Best Omnichain implementation 2nd place para Layerzero.
+{% embed url="https://x.com/PrimeNumbersFi/status/1882134372889096476" %}
 
