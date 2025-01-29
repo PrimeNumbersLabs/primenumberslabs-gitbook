@@ -13,6 +13,8 @@ layout:
     visible: true
 ---
 
-# Ecosystem Integrations
+# Ecosystem Collaborators
 
-The technologies we integrate at Prime Numbers Labs are the driving force behind the evolution of our protocols. These advanced tools enable us to optimize operations, expand the ecosystem’s possibilities, and deliver innovative solutions that benefit our entire community.
+In this section, we look at collaboratos of our ecosystem.
+
+At Prime Numbers Labs, we believe that collaborations are fundamental to building a robust and sustainable ecosystem. Our partners play a key role in strengthening our technical capabilities, expanding our reach, and ensuring the success of our vision.

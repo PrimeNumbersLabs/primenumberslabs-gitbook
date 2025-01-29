@@ -54,6 +54,6 @@ Learn more here: [PRFI NFTs](https://app.gitbook.com/s/aNL9MtQF319bzNT2KTNC/prfi
 ## <mark style="color:purple;">XDC NFTs</mark>
 
 XDC NFTs receive rewards from  XDC Masternodes. \
-Learn more here: [XDC NFTs](https://app.gitbook.com/s/aNL9MtQF319bzNT2KTNC/xdc-staking/xdc-staking-nfts/xdc-nft-staking-reward-system)
+Learn more here: [XDC NFTs](https://app.gitbook.com/s/aNL9MtQF319bzNT2KTNC/xdc-staking/xdc-nfts-staking-system-vaults/xdc-staking-nfts/xdc-nft-staking-reward-system)
 
 <figure><img src="../.gitbook/assets/xdcnftsfees (1).jpg" alt=""><figcaption></figcaption></figure>
