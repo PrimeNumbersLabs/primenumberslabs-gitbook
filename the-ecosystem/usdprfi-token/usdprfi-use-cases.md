@@ -27,7 +27,7 @@ Thanks to our DAO, you can participate in the decisions made in the ecosystem by
 ### <mark style="color:blue;">PRFI NFTs</mark>
 
 * Earn up to 40% from PrimeFi
-* 100k PRNT to the PRFI NFTs holders
+* 100k PRFI to the PRFI NFTs holders
 * **The main utility of the PRFI token is to level up your NFT**
 
 ### <mark style="color:blue;">PrimeFi</mark>
