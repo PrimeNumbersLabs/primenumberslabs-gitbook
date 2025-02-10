@@ -2,7 +2,10 @@
 
 ### **Ticker on Hyperliquid L1**
 
-Acquiring the ticker for our token on **Hyperliquid L1** represents a **key strategic investment** that goes beyond merely securing an identifier. Since tickers on this network must be **purchased and hold intrinsic value**, this move ensures **exclusivity and brand protection** within a highly specialized ecosystem.
+Acquiring the ticker for our token on **Hyperliquid L1, worth** [**$180,000**](https://x.com/PrimeNumbersFi/status/1886480271790248380)**,** represents a **key strategic investment** that goes beyond merely securing an identifier. Since tickers on this network must be **purchased and hold intrinsic value**, this move ensures **exclusivity and brand protection** within a highly specialized ecosystem.
+
+\
+[https://x.com/PrimeNumbersFi/status/1886480271790248380](https://x.com/PrimeNumbersFi/status/1886480271790248380)
 
 ### **Exclusivity and Brand Protection**
 
