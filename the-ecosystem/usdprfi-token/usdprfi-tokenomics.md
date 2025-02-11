@@ -20,25 +20,25 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**1. KOL Round (4.50%)**
+**1. KOL Round (1.25%)**
 
-* **Tokens:** 4,500,000 PRFI
+* **Tokens:** 1,250,000 PRFI
 * **Purpose:** Allocated to Key Opinion Leaders (KOLs) who advocate for and promote Prime Numbers Labs.
 * **Rationale:** Boosts visibility and attracts early adopters through trusted influencers.
 
 ***
 
-**2. Private Round (4.00%)**
+**2. Private Round (7.75%)**
 
-* **Tokens:** 4,000,000 PRFI
+* **Tokens:** 7,750,000 PRFI
 * **Purpose:** Reserved for early-stage investors who support the project during its formative phase.
 * **Rationale:** Secures strategic funding from institutional or individual investors.
 
 ***
 
-**3. Public Round (9.00%)**
+**3. Public Round (4.00%)**
 
-* **Tokens:** 9,000,000 PRFI
+* **Tokens:** 4,000,000 PRFI
 * **Purpose:** Distributed to participants during the public token sale.
 * **Rationale:** Provides access to a broad community and establishes the circulating supply.
 
@@ -52,9 +52,9 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**5. Ecosystem Development (20.00%)**
+**5. Ecosystem Development (21.50%)**
 
-* **Tokens:** 20,000,000 PRFI
+* **Tokens:** 21,500,000 PRFI
 * **Purpose:** Funds used to expand and strengthen the Prime Numbers Labs ecosystem.
 * **Rationale:** Supports initiatives such as partnerships, integrations, and product development.
 
@@ -83,17 +83,17 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**9. LP Incentives (20.00%)**
+**9. LP Incentives (22.00%)**
 
-* **Tokens:** 20,000,000 PRFI
+* **Tokens:** 22,000,000 PRFI
 * **Purpose:** Rewards liquidity providers for maintaining healthy liquidity pools for PRFI.
 * **Rationale:** Ensures smooth trading on decentralized exchanges, reducing slippage and volatility.
 
 ***
 
-**10. Airdrop (5.00%)**
+**10. Airdrop (4.00%)**
 
-* **Tokens:** 5,000,000 PRFI
+* **Tokens:** 4,000,000 PRFI
 * **Purpose:** Distributed as free tokens to selected participants as part of promotional activities.
 * **Rationale:** Attracts new users and rewards loyal supporters of Prime Numbers Labs.
 
