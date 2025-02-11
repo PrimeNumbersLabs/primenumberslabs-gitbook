@@ -14,7 +14,7 @@ layout:
 
 # $PRFI Tokenomics
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The PRFI token supply is capped at **100,000,000**, and its allocation is distributed across various categories to drive growth, incentivize participation, and ensure sustainability.
 
