@@ -14,7 +14,7 @@ layout:
 
 # $PRFI Tokenomics
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
 The PRFI token supply is capped at **100,000,000**, and its allocation is distributed across various categories to drive growth, incentivize participation, and ensure sustainability.
 
@@ -52,19 +52,19 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**5. Ecosystem Development (21.45%)**
+**5. Ecosystem Development (21.28%)**
 
-* **Tokens:** 21,450,000 PRFI
+* **Tokens:** 21,280,000 PRFI
 * **Purpose:** Funds used to expand and strengthen the Prime Numbers Labs ecosystem.
 * **Rationale:** Supports initiatives such as partnerships, integrations, and product development.
 
 ***
 
-6. **Community (19.55%)**\
+6. **Community (19.72%)**\
    \
-   **6.1. Existing Holders (11.14%)**
+   **6.1. Existing Holders (11.31%)**
 
-* **Tokens:** 11,140,000 PRFI
+* **Tokens:** 11,310,000 PRFI
 * **Purpose:** Rewards for early token holders of Prime Numbers Labs.
 * **Rationale:** Recognizes and incentivizes early supporters, building trust and loyalty within the community.\
   \
