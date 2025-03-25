@@ -51,6 +51,7 @@
   * [Stargate Finance](ecosystem-partners-1/stargate-finance.md)
 * [Ecosystem Integrations](ecosystem-partners-2/README.md)
   * [Hyperliquid](ecosystem-partners-2/hyperliquid.md)
+  * [Hyperswap](ecosystem-partners-2/hyperswap.md)
 * [PrimePort Docs](https://docs.primeport.xyz/)
 * [PrimeFi Docs](https://docs.primefi.xyz/)
 * [PrimeStaking Docs](https://docs.primestaking.xyz/)
