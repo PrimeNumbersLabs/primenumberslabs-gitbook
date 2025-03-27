@@ -14,21 +14,13 @@ layout:
 
 # $PRFI Tokenomics
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The PRFI token supply is capped at **100,000,000**, and its allocation is distributed across various categories to drive growth, incentivize participation, and ensure sustainability.
 
 ***
 
-**1. Angel Round (2%)**
-
-* **Tokens:** 2,000,000 PRFI
-* **Purpose:** Allocated to Angel investors.
-* **Rationale:** Secures strategic funding and knowledge of the protocol.
-
-***
-
-**2. Private Round (8%)**
+**1. Private Round (8%)**
 
 * **Tokens:** 8,000,000 PRFI
 * **Purpose:** Reserved for early-stage investors who support the project during its formative phase.
@@ -36,7 +28,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**3. Public Round (5.00%)**
+**2. Public Round (5.00%)**
 
 * **Tokens:** 5,000,000 PRFI
 * **Purpose:** Distributed to participants during the public token sale.
@@ -44,7 +36,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**4. Team (5%)**
+**3. Team (5%)**
 
 * **Tokens:** 5,000,000 PRFI
 * **Purpose:** Allocated to Prime Numbers Labs’ core team and contributors.
@@ -52,30 +44,30 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**5. Ecosystem Development (21.28%)**
+**4. Ecosystem Development (21.28%)**
 
-* **Tokens:** 21,280,000 PRFI
+* **Tokens:** 23,280,000 PRFI
 * **Purpose:** Funds used to expand and strengthen the Prime Numbers Labs ecosystem.
 * **Rationale:** Supports initiatives such as partnerships, integrations, and product development.
 
 ***
 
-6. **Community (19.72%)**\
+5. **Community (19.72%)**\
    \
-   **6.1. Existing Holders (11.31%)**
+   **5.1. Existing Holders (11.31%)**
 
 * **Tokens:** 11,310,000 PRFI
 * **Purpose:** Rewards for early token holders of Prime Numbers Labs.
 * **Rationale:** Recognizes and incentivizes early supporters, building trust and loyalty within the community.\
   \
-  6.&#x32;**. NFT Holders (8.41%)**
+  5.&#x32;**. NFT Holders (8.41%)**
 * **Tokens:** 8,410,000 PRFI
 * **Purpose:** Distributed to holders of Prime Numbers Labs’ NFTs, fostering engagement.
 * **Rationale:** Holders who migrated their PRNT to PRFI inside NFTs.
 
 ***
 
-**8. Staking Rewards (10.00%)**
+**6. Staking Rewards (10.00%)**
 
 * **Tokens:** 10,000,000 PRFI
 * **Purpose:** Allocated for staking programs to incentivize token holders to lock their PRFI tokens.
@@ -83,7 +75,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**9. LP Incentives (20.00%)**
+**7. LP Incentives (20.00%)**
 
 * **Tokens:** 20,000,000 PRFI
 * **Purpose:** Rewards liquidity providers for maintaining healthy liquidity pools for PRFI.
@@ -91,7 +83,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**10. Airdrop (4.00%)**
+**8. Airdrop (4.00%)**
 
 * **Tokens:** 4,000,000 PRFI
 * **Purpose:** Distributed as free tokens to selected participants as part of promotional activities.
@@ -99,7 +91,7 @@ The PRFI token supply is capped at **100,000,000**, and its allocation is distri
 
 ***
 
-**11. Liquidity (5.00%)**
+**9. Liquidity (5.00%)**
 
 * **Tokens:** 5,000,000 PRFI
 * **Purpose:** Tokens reserved for market-making and providing liquidity on exchanges.
