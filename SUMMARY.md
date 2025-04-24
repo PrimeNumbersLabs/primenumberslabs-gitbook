@@ -28,6 +28,7 @@
     * [Omnichain Functionality with OFT](the-ecosystem/usdprfi-token/omnichain-functionality-with-oft.md)
     * [Strategic Expansion into Hyperliquid L1](the-ecosystem/usdprfi-token/strategic-expansion-into-hyperliquid-l1.md)
     * [Connection with HyperEVM via HIP-1](the-ecosystem/usdprfi-token/connection-with-hyperevm-via-hip-1.md)
+    * [Smart Contract Addresses](the-ecosystem/usdprfi-token/smart-contract-addresses.md)
   * [Prime Numbers XDC Ecosystem](the-ecosystem/prime-numbers-xdc-ecosystem/README.md)
     * [XDC Staking NFTs](the-ecosystem/prime-numbers-xdc-ecosystem/xdc-staking-nfts/README.md)
       * [XDC NFTs Staking System - Vaults](the-ecosystem/prime-numbers-xdc-ecosystem/xdc-staking-nfts/xdc-nfts-staking-system-vaults.md)
