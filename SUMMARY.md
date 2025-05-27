@@ -56,6 +56,6 @@
   * [HyperSwap](ecosystem-integrations/hyperswap.md)
   * [Kinetiq](ecosystem-integrations/kinetiq.md)
 * [PrimePort Docs](https://docs.primeport.xyz/)
-* [PrimeFi Docs](https://docs.primefi.xyz/)
+* [PrimeFi Docs](https://docs.primefi.xyz/introduction-primefi)
 * [PrimeStaking Docs](https://docs.primestaking.xyz/)
 * [PNL Brand Kit](pnl-brand-kit.md)
