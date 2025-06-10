@@ -26,4 +26,4 @@ Ensuring the security and integrity of the USD₽FI token is our top priority. A
 
 ***
 
-For a complete overview of all Prime Numbers Labs contract audits, including staking, ONFTs, PrimeFi and more, see our [**Ecosystem Security Audits**](https://docs.primenumbers.xyz/the-ecosystem/security-audits) page.
+For a complete overview of all Prime Numbers Labs contract audits, including staking, ONFTs, PrimeFi and more, see our [**Ecosystem Security Audits**](https://docs.primenumbers.xyz/audits-prime-numbers-labs-ecosystem) page.
