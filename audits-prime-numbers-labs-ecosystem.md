@@ -39,20 +39,20 @@ Independent audits safeguard the ecosystem’s **security**, **transparency**, a
 
 ### Published reports
 
-| Module                   | Auditor     | Date        | Link        |
-| ------------------------ | ----------- | ----------- | ----------- |
-| **PRFI Token Contract**  | QuillAudits | 24 Apr 2025 | Leaderboard |
-| **XDC Staking Contract** | QuillAudits | 24 Apr 2025 | Leaderboard |
+| Module                        | Auditor        | Date        | Link                       |
+| ----------------------------- | -------------- | ----------- | -------------------------- |
+| **PRFI Token Contract**       | QuillAudits    | 24 Apr 2025 | Leaderboard                |
+| **XDC Staking Contract**      | QuillAudits    | 24 Apr 2025 | Leaderboard                |
+| **PrimeFi (pre-audit)**       | Gerard Persoon | Completed   | Leaderboard                |
+| **PrimeFi (smart contracts)** | PeckShield     | Completed   | PDF available upon request |
 
 ***
 
 ### Audits in progress
 
-| Module                        | Auditor        | Status    | Notes                                                                                                      |
-| ----------------------------- | -------------- | --------- | ---------------------------------------------------------------------------------------------------------- |
-| **PRFI ONFTs**                | QuillAudits    | Scheduled | Q2 2025                                                                                                    |
-| **PrimeFi (pre-audit)**       | Gerard Persoon | Completed | [Code4Arena review](https://code4rena.com/reports/primefi) • [GitHub](https://github.com/gpersoon/PrimeFi) |
-| **PrimeFi (smart contracts)** | PeckShield     | Completed | PDF available upon request                                                                                 |
-| **PrimeFi (smart contracts)** | QuillShield    | Scheduled | —                                                                                                          |
+| Module                        | Auditor     | Status       | Notes   |
+| ----------------------------- | ----------- | ------------ | ------- |
+| **PRFI ONFTs**                | QuillAudits | Scheduled    | Q2 2025 |
+| **PrimeFi (smart contracts)** | QuillShield | Final Review | —       |
 
 _Last updated: 10 Jun 2025._
