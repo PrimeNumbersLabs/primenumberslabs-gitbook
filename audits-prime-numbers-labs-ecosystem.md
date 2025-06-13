@@ -14,7 +14,7 @@ layout:
 
 # Audits - Prime Numbers Labs Ecosystem
 
-> Last updated: June 10, 2025
+> Last updated: June 13, 2025
 
 ***
 
@@ -55,4 +55,4 @@ Independent audits safeguard the ecosystem’s **security**, **transparency**, a
 | **PRFI ONFTs**                | QuillAudits | Scheduled    | Q2 2025 |
 | **PrimeFi (smart contracts)** | QuillShield | Final Review | —       |
 
-_Last updated: 10 Jun 2025._
+_Last updated: 13 Jun 2025._
