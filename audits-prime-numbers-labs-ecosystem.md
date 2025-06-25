@@ -26,14 +26,14 @@ Independent audits safeguard the ecosystem’s **security**, **transparency**, a
 
 ### Audit Summary
 
-| Module / Contract             | Auditor                                                       | Status          | Date (completed / started) | Report / Reference                                                                               |
-| ----------------------------- | ------------------------------------------------------------- | --------------- | -------------------------- | ------------------------------------------------------------------------------------------------ |
-| **PRFI Token**                | QuillAudits                                                   | ✅ Completed     | 24 Apr 2025                | [See report](https://www.quillaudits.com/leaderboard/prime-number/prime-number-token-contract)   |
-| **XDC Staking**               | QuillAudits                                                   | ✅ Completed     | 06 Apr 2025                | [See report](https://www.quillaudits.com/leaderboard/prime-number/prime-number-staking-contract) |
-| **PRFI ONFTs (OFT Standard)** | _TBD_                                                         | 🔄 In progress  | Starts Q2 2025             | —                                                                                                |
-| **PrimeFi – Pre-audit**       | [Gerard Persoon / Code4rena](https://code4rena.com/@gpersoon) | ✅ Completed     | Feb 2025                   | [Warden profile](https://github.com/gpersoon/PrimeFi)                                            |
-| **PrimeFi – Full audit**      | PeckShield                                                    | ✅ Completed     | May 2025                   | Internal PDF (public release pending)                                                            |
-| **PrimeFi – AI audit**        | QuillShield                                                   | 🔄 Final review | Jun 2025                   | -                                                                                                |
+| Module / Contract             | Auditor                                                       | Status         | Date (completed / started) | Report / Reference                                                                               |
+| ----------------------------- | ------------------------------------------------------------- | -------------- | -------------------------- | ------------------------------------------------------------------------------------------------ |
+| **PRFI Token**                | QuillAudits                                                   | ✅ Completed    | 24 Apr 2025                | [See report](https://www.quillaudits.com/leaderboard/prime-number/prime-number-token-contract)   |
+| **XDC Staking**               | QuillAudits                                                   | ✅ Completed    | 06 Apr 2025                | [See report](https://www.quillaudits.com/leaderboard/prime-number/prime-number-staking-contract) |
+| **PRFI ONFTs (OFT Standard)** | _TBD_                                                         | 🔄 In progress | Starts Q2 2025             | —                                                                                                |
+| **PrimeFi – Pre-audit**       | [Gerard Persoon / Code4rena](https://code4rena.com/@gpersoon) | ✅ Completed    | Feb 2025                   | [Warden profile](https://github.com/gpersoon/PrimeFi)                                            |
+| **PrimeFi – Full audit**      | PeckShield                                                    | ✅ Completed    | May 2025                   | Internal PDF (public release pending)                                                            |
+| **PrimeFi – AI audit**        | QuillAudits                                                   | ✅ Completed    | Jun 2025                   | Internal PDF (public release pending)                                                            |
 
 ***
 
