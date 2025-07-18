@@ -20,9 +20,9 @@ Ensuring the security and integrity of the USD₽FI token is our top priority. A
 
 ### PRFI Token Audit
 
-| Module                  | Auditor     | Date        | Report                                                                                                  |
-| ----------------------- | ----------- | ----------- | ------------------------------------------------------------------------------------------------------- |
-| **PRFI Token Contract** | QuillAudits | 24 Apr 2025 | [View on QuillAudits](https://www.quillaudits.com/leaderboard/prime-number/prime-number-token-contract) |
+| Module                  | Auditor     | Date        | Report                                                                                                    |
+| ----------------------- | ----------- | ----------- | --------------------------------------------------------------------------------------------------------- |
+| **PRFI Token Contract** | QuillAudits | 24 Apr 2025 | [View on QuillAudits](https://www.quillaudits.com/leaderboard/prime-numbers/prime-numbers-token-contract) |
 
 ***
 
