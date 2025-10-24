@@ -1,16 +1,5 @@
 ---
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Road Map
@@ -43,22 +32,69 @@ At Prime Numbers Labs, our journey is _a testament to innovation, perseverance, 
 
 ### <mark style="color:blue;">**2024: Scaling New Heights**</mark>
 
-**Q1-Q2 2024: Innovations and Community Growth**
+| Quarter | Task                                 | Status | Notes                                                             |
+| ------- | ------------------------------------ | ------ | ----------------------------------------------------------------- |
+| Q1–Q2   | PRFI Staking v3 & XDC Staking v2     | ✅      | Latest staking versions integrating the new Liquid Staking System |
+|         | Staking Interface V3                 | ✅      | New UI with enhanced user experience and real-time staking data   |
+|         | Adoption & Community Growth Strategy | 🚀     | Expanding user base and engagement programs                       |
+| Q3      | Tokenomics rebuild                   | ✅      | Completed and validated                                           |
+|         | Vaults & liquid staking              | ✅      | Fully deployed and audited                                        |
+|         | PrimeFi Testnet launch               | ✅      | Stable version launched                                           |
+| Q4      | Start of PRNT → PRFI migration       | ✅      | Migration finalized successfully                                  |
+|         | PrimeFi incentive testnet campaign   | ✅      | $150k rewards                                                     |
 
-* PRFI Staking v3 & XDC Staking v2: Our latest staking versions represent a massive leap forward, integrating our new Liquid Staking System.
-* Staking Interface V3: The new staking interface provides comprehensive data and an enhanced user experience, making staking more intuitive than ever.
-* Adoption & Community Growth Strategy: Focused efforts on expanding our user base and strengthening community engagement.
 
-**Q3-Q4 2024: Expansion and Fundraising**
 
-* Series A Fundraising: We’re raising equity to take Prime Numbers Labs to the next level, enabling further innovation and expansion.
-* PrimeFi will be released using LayerZero technology, bringing new features and greater efficiency.
-* Vaults & Liquid Staking NFTs: With the integration of PrimeFi, we’re set to launch the full version of our advanced staking system.
-* Exchange Listings: Listing on major exchanges to increase accessibility and liquidity for our users.
-* Growth Strategy: Implementing strategic initiatives to accelerate our growth and market presence.
+### <mark style="color:blue;">**2025**</mark>
 
-### <mark style="color:blue;">**2025: Regulatory Compliance and Full Integration**</mark>
+#### What We’ve Already Done
 
-* Obtaining Licenses: We’re committed to obtaining the necessary licenses to operate fully within a regulated framework, ensuring trust and compliance.
-* RWA Compatibility: Integrating Real-World Assets (RWA) into our ecosystem, bridging the gap between traditional finance and DeFi.
-* Full Ecosystem Integration: Achieving seamless interaction between all our platforms, providing users with a unified and comprehensive DeFi experience.
+| Quarter | Task                                     | Status | Notes                                               |
+| ------- | ---------------------------------------- | ------ | --------------------------------------------------- |
+| Q1      | Private round: $1.2M raised from angels  | ✅      | Exclusive angel round closed                        |
+|         | HyperCORE ticker acquisition             | ✅      | Ownership transferred                               |
+|         | Pre-Audit – Gerard Persoon               | ✅      | Completed successfully                              |
+| Q2      | PRFI adopted as OFT standard (LayerZero) | ✅      | Implementation complete                             |
+|         | PRFI launch                              | ✅      | Mainnet launch finished                             |
+|         | NFT migration to ONFT standard           | ✅      | Migrated all legacy NFTs                            |
+|         | Full Audit PrimeFi – PeckShield          | ✅      | Report delivered                                    |
+|         | Full Audit $PRFI – QuillAudits           | ✅      | Verified and published                              |
+|         | Full Audit XDC Staking – QuillAudits     | ✅      | Validated contract security                         |
+|         | Testnet Campaign reward distribution     | ✅      | Rewards sent to all participants                    |
+|         | Liquid staking launch                    | ✅      | Product released                                    |
+|         | Full Audit PrimeFi – QuillAudits         | ✅      | Completed second audit                              |
+| Q3      | PrimeFi Mainnet launch                   | ✅      | Main deployment live                                |
+|         | Integrations with Base and HyperEVM      | ✅      | Both integrations finalized                         |
+| Q4      | Integration with XDC Network             | ✅      | Deployment + production complete                    |
+|         | Launch of in-house Analytics             | ✅      | Live dashboards for TVL, Borrow, Utilization, Users |
+
+#### What’s Next in the Ecosystem (Q4 2025 → 2026)
+
+**PrimeFi — Omnichain Lending & Borrowing**
+
+| Task                                      | Status                                 | Target            |
+| ----------------------------------------- | -------------------------------------- | ----------------- |
+| Upgrade of incentivized lending contracts | 🧪 In final testing                    | Q4 2025           |
+| Launch of Prime Point System (PPS)        | ⚙️ UI + backend implementation         | Q4 2025           |
+| New interface modules                     | 🚧 In development                      | Q4 2025           |
+| Referral program                          | 🧩 Specification + anti-fraud tracking | Q4 2025           |
+| psXDC incentives                          | 🪙 Scheduled                           | Q4 2025           |
+| HYPE incentives                           | 🪙 Scheduled                           | Q4 2025           |
+| Core dependency upgrade                   | 🧱 Audit + regression testing          | Q4 2025 → Q1 2026 |
+| Omnichain Collateral (extensions)         | 🌐 Cross-chain collateral feature      | Q1 2026           |
+| Omnichain Repay + functionalities         | 🔁 Native cross-chain repayment        | Q1 2026           |
+| Core contract integration with Aave v3    | 🧩 Compatibility + testing             | Q1 2026           |
+| NFT integration                           | 🖼️ Ecosystem NFT utilities (Phase 1)  | Q1–Q2 2026        |
+
+**PrimeStaking — NFT Staking & Liquid Staking**
+
+| Task                              | Status         | Target  |
+| --------------------------------- | -------------- | ------- |
+| New staking interface             | 🚧 Development | Q4 2025 |
+| Non-Human Custody (decentralized) | 🧠 R\&D phase  | Q1 2026 |
+
+**PrimePort — EVM NFT Marketplace**
+
+| Task                                 | Status                  | Target            |
+| ------------------------------------ | ----------------------- | ----------------- |
+| Integration of Omnichain NFTs (ONFT) | 🔗 Implementation phase | Q4 2025 → Q1 2026 |
