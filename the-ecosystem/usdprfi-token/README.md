@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # $PRFI Token
 
 ## <mark style="color:purple;">**Introduction to $PRFI Token**</mark>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Medium
 
 Our Medium Platform [https://medium.primenumbers.xyz/](https://medium.primenumbers.xyz/)

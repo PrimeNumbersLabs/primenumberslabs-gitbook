@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # PRFI Staking NFTs
 
 <mark style="color:red;">**Note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Our NFTs are being migrated to a new network. Staking is paused during this migration, but you can still purchase NFTs on Primeport.</mark>

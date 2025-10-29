@@ -4,6 +4,8 @@
   * [Introduction to Prime Numbers Labs](overview/introduction-to-prime-numbers-labs.md)
   * [Mission](overview/mission.md)
   * [Road Map](overview/road-map.md)
+  * [Copy of Road Map](readme/road-map-1.md)
+  * [Copy of Copy of Road Map](readme/road-map-2.md)
   * [FAQs](overview/faqs.md)
   * [Logo Explanation](overview/logo-explanation.md)
 * [The Ecosystem](the-ecosystem/README.md)

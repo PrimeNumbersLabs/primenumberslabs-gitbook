@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # XDC NFT Staking Reward System
 
 ## <mark style="color:purple;">XDC NFTs STAKING REWARDS:</mark> <a href="#b642" id="b642"></a>

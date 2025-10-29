@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Introduction to Prime Numbers Labs
 
 ## <mark style="color:purple;">**The DeFi Revolution by Prime Numbers Labs is Here!**</mark>

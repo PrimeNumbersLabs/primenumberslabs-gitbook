@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # How to Buy a XDC NFT?
 
 ## <mark style="color:purple;">Steps to Acquire Your XDC Staking NFT</mark>

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ecosystem and Benefits
 
 ## <mark style="color:purple;">Unleashing the Power of DeFi and NFTs</mark>

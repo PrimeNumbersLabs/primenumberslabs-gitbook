@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Logo Explanation
 
 ## <mark style="color:purple;">The Prime Numbers Labs Logo: Where Mathematics Meets Innovation</mark>

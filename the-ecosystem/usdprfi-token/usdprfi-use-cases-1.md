@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # $PRFI Use Cases
 
 <figure><img src="../../.gitbook/assets/TOKENUSECASES (1).jpg" alt=""><figcaption></figcaption></figure>
