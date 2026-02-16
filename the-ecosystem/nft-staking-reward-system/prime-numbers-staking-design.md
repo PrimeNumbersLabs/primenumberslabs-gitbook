@@ -18,8 +18,7 @@
 * Flexibility: This model enables associating multiple assets with a single address.
 * Security: Contracts can be suspended to mitigate risks in the event of identified vulnerabilities.
 * User Convenience: Users can manage their NFTs seamlessly without transferring contracts anew, as all information is consolidated within the diamond contract.
-* Scalability: The contract is designed to incorporate additional features and functionalities without impacting the core protocol.\
-
+* Scalability: The contract is designed to incorporate additional features and functionalities without impacting the core protocol.<br>
 
 EIP 2535 is the foundational protocol standard in the updated Prime Numbers Staking. It utilizes the diamond standard alongside a bespoke staking interface standard for ERC-721 NFTs to manage asset interactions within the protocol.&#x20;
 
@@ -27,4 +26,4 @@ The ERC-20 standard is utilized for asset management (excluding XDC). The system
 
 The interface is integral to a broader staking and ERC721 token system, with specific functionalities dependent on the Staking Facets and Staking Getter contract implementations.
 
-\
+<br>

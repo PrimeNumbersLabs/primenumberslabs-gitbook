@@ -25,7 +25,7 @@ hidden: true
 
 <mark style="color:blue;">**9. What are the benefits of partnering with the XDC Network?**</mark> Our partnership with the XDC Network enhances the scalability, speed, and security of the Prime Numbers Labs ecosystem. It also allows us to offer unique products, such as XDC staking NFTs, and integrate with a well-established blockchain network.
 
-<mark style="color:blue;">**10. What are your future plans and how can I stay updated?**</mark> We have an exciting [roadmap](broken-reference) ahead, including the launch of Prime Finance MVP, expanding to more EVM networks, and obtaining regulatory licenses. To stay updated, follow us on our social media channels, join our community, and subscribe to our newsletter.
+<mark style="color:blue;">**10. What are your future plans and how can I stay updated?**</mark> We have an exciting [roadmap](/broken/pages/BWnGfCTOScpxEC7ywEBp) ahead, including the launch of Prime Finance MVP, expanding to more EVM networks, and obtaining regulatory licenses. To stay updated, follow us on our social media channels, join our community, and subscribe to our newsletter.
 
 <mark style="color:blue;">**11. How can I participate in the Prime Numbers Labs community?**</mark> We invite you to join our vibrant community! Connect with us on X, Discord, Telegram, and other social media platforms. Engage in discussions, share your insights, and stay informed about the latest developments in our ecosystem.
 
