@@ -16,18 +16,18 @@ To be eligible for these rewards, you need to lock your NFT for a period of time
 
 ### 3.- XDC NFTs Masternodes Staking - Optional
 
-When your NFT reach the MAX LIMIT (100,000 $XDC staked inside the NFT), you will be able to lock this NFT to get an additional 7% APY.&#x20;
+When your NFT reach the MAX LIMIT (100,000 psXDC staked inside the NFT), you can lock this NFT for 1 year for an additional 1.25% APY bonus (up to 6% total).&#x20;
 
 The lock period will be one year. Reward will be montly paid to the NFT.
 
 {% hint style="success" %}
-Example: You have an NFT with 100 000 $XDC. And you lock it.\
-From the lock, you get 7% of 100 000 $XDC -> 7000 $XDC
+Example: You have an NFT with 100,000 psXDC. And you lock it.\
+From the lock, you get ~6% APY on your staked psXDC
 {% endhint %}
 
 ***
 
-## <mark style="color:purple;">Calculating NFT Rewards with PRNT Staking Rewards Pool and Extra Rewards</mark>
+## <mark style="color:purple;">Calculating NFT Rewards with XDC Staking Rewards Pool and Extra Rewards</mark>
 
 ### <mark style="color:blue;">Variables Overview</mark>
 
@@ -84,5 +84,5 @@ $$
 
 ### <mark style="color:blue;">Conclusion</mark>
 
-By applying these formulas, each NFT's reward is determined by its unique characteristics (rarity and level) and the assigned XDC tokens. This dual approach ensures a balanced reward distribution that considers both the intrinsic qualities of the NFTs and the PRNT tokens allocated to them.
+By applying these formulas, each NFT's reward is determined by its unique characteristics (rarity and level) and the assigned XDC tokens. This dual approach ensures a balanced reward distribution that considers both the intrinsic qualities of the NFTs and the psXDC tokens allocated to them.
 

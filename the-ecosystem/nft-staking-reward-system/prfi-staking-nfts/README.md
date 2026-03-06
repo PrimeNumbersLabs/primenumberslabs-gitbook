@@ -1,7 +1,5 @@
 # PRFI Staking NFTs
 
-<mark style="color:red;">**Note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Our NFTs are being migrated to a new network. Staking is paused during this migration, but you can still purchase NFTs on Primeport.</mark>
-
 ## <mark style="color:purple;">Prime Numbers NFTs: A Unique Blend of Art and Financial Power</mark>
 
 Our Prime Numbers NFT collection consists of 4,111 unique digital assets, including 4,096 generative NFTs and 15 handmade masterpieces. Each NFT in this collection is designed to offer both aesthetic value and financial utility within the Prime Numbers Labs ecosystem.
@@ -12,15 +10,18 @@ During the PRFI Staking NFT minting period, only 2,333 NFTs were minted—half o
 
 ***
 
-### <mark style="color:blue;">Smart Contract Information</mark>
+### <mark style="color:blue;">Network and Marketplace</mark>
 
-<details>
+PRFI ONFTs live on **Base** (Ethereum L2). They are omnichain-capable via LayerZero.
 
-<summary>Prime Numbers PRFI NFT V3</summary>
+| | |
+| --- | --- |
+| **Network** | Base (Chain ID 8453) |
+| **Contract** | [0x693A3A45Ff596024f844Be1cc6845d59F778dCF5](https://basescan.org/address/0x693a3a45ff596024f844be1cc6845d59f778dcf5) |
+| **Standard** | ERC-721 (ONFT via LayerZero) |
+| **Marketplace** | [OpenSea](https://opensea.io/collection/primenumbers-prfi-onft) and [PrimePort](https://primeport.xyz) |
 
-[xdc134279d46ce98cca734d9a43cc3dda63a1ac755d](https://xdc.blocksscan.io/address/xdc134279d46ce98cca734d9a43cc3dda63a1ac755d)
-
-</details>
+For full staking documentation, see [PrimeStaking Docs](https://docs.primestaking.xyz/products/prfi-staking-nfts).
 
 ### <mark style="color:blue;">Handmade Prime Numbers NFTs</mark>
 

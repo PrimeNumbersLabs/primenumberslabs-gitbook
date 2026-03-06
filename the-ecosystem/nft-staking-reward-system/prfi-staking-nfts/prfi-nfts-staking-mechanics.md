@@ -1,7 +1,5 @@
 # PRFI NFTs Staking Mechanics
 
-<mark style="color:red;">**Note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Our NFTs are being migrated to a new network. Staking is paused during this migration, but you can still purchase NFTs on Primeport.</mark>
-
 ## <mark style="color:purple;">Understanding PRFI Staking NFTs: Maximizing Your Rewards</mark>
 
 Prime Numbers Labs introduces a revolutionary staking system where your $PRFI tokens can be staked inside NFTs, allowing you to earn various rewards. Here’s how it works:

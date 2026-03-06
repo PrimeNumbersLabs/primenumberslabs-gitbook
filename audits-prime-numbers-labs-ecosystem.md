@@ -1,6 +1,6 @@
 # Audits - Prime Numbers Labs Ecosystem
 
-> Last updated: Jul 18, 2025
+> Last updated: Feb 2026
 
 ***
 
@@ -18,7 +18,8 @@ Independent audits safeguard the ecosystem’s **security**, **transparency**, a
 | **PRFI Token**           | QuillAudits                                                   | ✅ Completed | 24 Apr 2025                | [See report](https://www.quillaudits.com/leaderboard/prime-numbers/prime-numbers-token-contract)   |
 | **PrimeFi – Pre-audit**  | [Gerard Persoon / Code4rena](https://code4rena.com/@gpersoon) | ✅ Completed | Feb 2025                   | [Warden profile](https://github.com/gpersoon/PrimeFi)                                              |
 | **PrimeFi – Full audit** | PeckShield                                                    | ✅ Completed | May 2025                   | [See report](https://drive.google.com/file/d/1TLig0aCVzmdpwOvYbE_S3JX-BOYIGwVG/view)               |
-| **PrimeFi – AI audit**   | QuillAudits                                                   | ✅ Completed | Jun 2025                   | [See report](https://www.quillaudits.com/leaderboard/prime-numbers/prime-numbers-v3)               |
+| **PrimeFi -- AI audit**  | QuillAudits                                                   | ✅ Completed | Jun 2025                   | [See report](https://www.quillaudits.com/leaderboard/prime-numbers/prime-numbers-v3)               |
+| **Custody contracts**    | Nethermind Security                                           | ✅ Completed | Mar 2026                   | Report available upon request                                                                      |
 
 ***
 
@@ -38,6 +39,6 @@ Independent audits safeguard the ecosystem’s **security**, **transparency**, a
 
 | Module                      | Auditor     | Status      | Notes   |
 | --------------------------- | ----------- | ----------- | ------- |
-| **PrimeFi (reward system)** | QuillAudits | In progress | Q4 2025 |
+| **PrimeFi (reward system)** | QuillAudits | In progress | Ongoing |
 
-_Last updated: 24 Oct 2025._
+_Last updated: Feb 2026._

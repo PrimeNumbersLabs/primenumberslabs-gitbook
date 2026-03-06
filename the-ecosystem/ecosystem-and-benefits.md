@@ -10,9 +10,9 @@ At Prime Numbers Labs, we've built an ecosystem that integrates the best of dece
 
 ### <mark style="color:blue;">A Comprehensive DeFi Solution</mark>
 
-1. [**PrimeFi**](https://primefi.xyz/)**:** Our lending and borrowing protocol is at the heart of our ecosystem. It allows users to earn passive income through decentralized loans, ensuring that your assets always work for you.
+1. [**PrimeFi**](https://app.primefi.xyz/)**:** Our lending and borrowing protocol is at the heart of our ecosystem. It allows users to earn passive income through decentralized loans, ensuring that your assets always work for you.
 2. [**PrimePort NFT Marketplace:**](https://primeport.xyz/) Our multichain marketplace allows you to easily create and trade NFTs, leveraging the full potential of the burgeoning digital art and collectibles market.
-3. [**PrimeStaking:**](https://app.gitbook.com/o/j7Qko0hTNGYSZrhxYdJe/s/aNL9MtQF319bzNT2KTNC/) Take advantage of our innovative staking systems that offer high yields and consistent rewards. Whether you’re staking PRFI or XDC tokens, our ecosystem ensures that you benefit directly from the platform’s success through profit-sharing and community rewards.
+3. [**PrimeStaking:**](https://docs.primestaking.xyz/) Take advantage of our innovative staking systems that offer high yields and consistent rewards. Whether you’re staking PRFI or XDC tokens, our ecosystem ensures that you benefit directly from the platform’s success through profit-sharing and community rewards.
 
 ***
 

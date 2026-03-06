@@ -2,19 +2,26 @@
 
 ## <mark style="color:purple;">Introduction to XDC Staking NFTs</mark>
 
-Prime Numbers Labs is proud to introduce the XDC Staking NFTs, the first non-custodial and trustless staking system built on the XDC Network. These NFTs act as secure "vaults," allowing you to store your XDC tokens and earn rewards simultaneously. With a collection of 5,557 NFTs, including 5,542 generative and 15 handcrafted pieces, these NFTs combine utility with artistic value, offering a unique staking experience.
+XDC Staking NFTs are gamified staking vaults on the XDC Network. Each NFT holds **psXDC** (not raw XDC) and earns XDC rewards based on its rarity and level, offering higher yields than standard liquid staking. The collection has 5,557 NFTs (5,542 generative + 15 handcrafted).
+
+| | |
+| --- | --- |
+| **Token staked** | psXDC |
+| **Rewards paid in** | XDC |
+| **Base APY** | ~4.75% (staked, unlocked) |
+| **Max APY** | Up to 6% (staked + 1-year lock) |
+| **Max stake per NFT** | 100,000 psXDC |
+| **Marketplace** | [PrimePort](https://primeport.xyz) |
+
+For full documentation, see [PrimeStaking Docs](https://docs.primestaking.xyz/products/xdc-staking-nfts).
 
 ***
 
 ### <mark style="color:blue;">Smart Contract Information</mark>
 
-<details>
-
-<summary>Prime Numbers XDC NFT V2</summary>
-
-[xdc9d458330e458f11fd1ce7e44b3a66568af8076a0](https://xdc.blocksscan.io/address/xdc9d458330e458f11fd1ce7e44b3a66568af8076a0)
-
-</details>
+| | |
+| --- | --- |
+| **Contract** | [xdc9d458330e458f11fd1ce7e44b3a66568af8076a0](https://xdcscan.com/address/xdc9d458330e458f11fd1ce7e44b3a66568af8076a0) |
 
 ### <mark style="color:blue;">Handmade Prime Numbers NFTs</mark>
 
@@ -62,8 +69,6 @@ This makes the NFTs deflationary.
 
 ### <mark style="color:blue;">Refund System</mark>
 
-**You can use the "BurnToRedeem" button to get 300 $PRFI (Refund System)**
-
-This button breaks the NFT and extracts all the $XDC inside the NFT. It cannot be reversed; it will burn your NFT and send all the XDC to your wallet. Also, you get 300 $PRFI when you break the NFT.
+You can use the "BurnToRedeem" button to break open the NFT and extract all the psXDC inside. This action is irreversible: it burns the NFT and sends all psXDC to your wallet.
 
 This makes the NFTs deflationary.

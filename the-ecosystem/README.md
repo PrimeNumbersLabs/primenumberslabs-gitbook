@@ -8,9 +8,9 @@ These applications are:
 
 ### PrimeFi
 
-PrimeFi is a borrowing and lending protocol, unifying crosschain liquidity.
+PrimeFi is a live lending and borrowing protocol, unifying crosschain liquidity. Available at [app.primefi.xyz](https://app.primefi.xyz).
 
-The full documentation of PrimePort can be found here [PrimeFi](https://docs.primefi.xyz/)
+The full documentation can be found here [PrimeFi Docs](https://docs.primefi.xyz/)
 
 ### PrimePort
 
@@ -20,9 +20,9 @@ The full documentation of PrimePort can be found here [PrimePort](https://docs.p
 
 ### PrimeStaking
 
-PrimeStaking is an innovative staking protocol that utilizes NFTs to create derivate packages of assets.
+PrimeStaking is a non-custodial staking platform and infrastructure provider on the XDC Network. Stake psXDC inside NFTs for up to 6% APY, or stake PRFI inside ONFTs on Base for monthly rewards.
 
-The complete documentation of PrimeStaking can be found here [PrimeStaking](https://app.gitbook.com/o/j7Qko0hTNGYSZrhxYdJe/s/aNL9MtQF319bzNT2KTNC/)
+The complete documentation of PrimeStaking can be found here [PrimeStaking](https://docs.primestaking.xyz/)
 
 ## Benefits of the ecosystem
 

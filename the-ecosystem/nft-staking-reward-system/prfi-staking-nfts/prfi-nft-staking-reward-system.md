@@ -1,7 +1,5 @@
 # PRFI NFT Staking Reward System
 
-<mark style="color:red;">**Note:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Our NFTs are being migrated to a new network. Staking is paused during this migration, but you can still purchase NFTs on Primeport.</mark>
-
 ## <mark style="color:purple;">PRFI NFT STAKING REWARDS:</mark> <a href="#b642" id="b642"></a>
 
 ### 1- 100,000 PRFI Fixed Rewards
