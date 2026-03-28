@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Mission
 
 **Prime Numbers Labs is dedicated to revolutionizing decentralized finance (DeFi) by building an inclusive, secure, and accessible ecosystem that empowers users across the blockchain multiverse.**

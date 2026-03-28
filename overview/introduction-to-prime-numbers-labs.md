@@ -1,11 +1,16 @@
-# Introduction to Prime Numbers Labs
-
-## <mark style="color:purple;">**The DeFi Revolution by Prime Numbers Labs is Here!**</mark>
+# What is Prime Numbers
 
 <figure><img src="../.gitbook/assets/primenumberspreview.jpg" alt=""><figcaption></figcaption></figure>
 
-**Prime Numbers Labs is building an ecosystem together with its partners. This ecosystem combines the PrimeFi lending and borrowing protocol, the PrimePort NFT Marketplace, and a unique derivatives staking system called PrimeStaking. Our goal is to make DeFi truly omnichain.**
+Prime Numbers is a decentralized finance ecosystem built on XDC Network\
+and expanded across Hyperliquid, Base, and Ethereum. It consists of three\
+live, audited protocols, PrimeFi, PrimeStaking, and PrimePort, unified\
+by the $PRFI token.
 
-Here, your financial assets do more than just sit idle—they work for you, opening doors to unmatched returns and financial freedom. Our platform is designed to make decentralized finance accessible to everyone, whether you’re a seasoned investor or new to DeFi.
+Each protocol serves a distinct function: PrimeFi handles omnichain lending\
+and borrowing, PrimeStaking manages liquid staking and yield, and PrimePort\
+provides the NFT marketplace infrastructure. Together they form a closed-loop\
+ecosystem where fees, liquidity, and rewards flow between protocols and back\
+to $PRFI holders.
 
-At [Prime Numbers Labs](https://www.primenumbers.xyz/), we’re not just building a platform—we’re leading a movement toward a future where financial growth is secure, simple, and within everyone’s reach. Don’t miss your chance to be part of this financial revolution.
+$10M+ in deployed TVL. Six audited contracts. Four chains. Live since 2021.
