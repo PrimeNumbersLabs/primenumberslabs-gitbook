@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Ecosystem and Benefits
 
 ## <mark style="color:purple;">Unleashing the Power of DeFi and NFTs</mark>

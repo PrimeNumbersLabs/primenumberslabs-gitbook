@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # $PRFI Token
 
 ## <mark style="color:purple;">**Introduction to $PRFI Token**</mark>
