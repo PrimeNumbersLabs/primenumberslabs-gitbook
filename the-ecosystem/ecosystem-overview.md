@@ -4,6 +4,8 @@ The Prime Numbers ecosystem is built around **three core protocols** that reinfo
 
 No protocol operates in isolation, **fees, liquidity, and rewards flow between all three**, ultimately returning value to **$PRFI holders**.
 
+***
+
 ### <mark style="color:purple;">PrimeFi: Omnichain Lending & Borrowing</mark>
 
 PrimeFi enables users to deposit collateral and borrow assets across multiple chains.
@@ -13,6 +15,8 @@ PrimeFi enables users to deposit collateral and borrow assets across multiple ch
 * A share of borrowing fees flows to PRFI NFT holders
 
 → Full documentation: https://docs.primefi.xyz
+
+***
 
 ### <mark style="color:purple;">PrimeStaking: Liquid Staking & NFT Vaults</mark>
 
@@ -25,6 +29,8 @@ PrimeStaking allows users to stake XDC while maintaining liquidity.
 
 → Full documentation: https://docs.primestaking.xyz
 
+***
+
 ### <mark style="color:purple;">PrimePort: NFT Marketplace</mark>
 
 PrimePort is the marketplace layer of the ecosystem.
@@ -36,6 +42,8 @@ PrimePort is the marketplace layer of the ecosystem.
 A portion of marketplace fees flows to PRFI NFT holders.
 
 → Full documentation: PrimePort Docs
+
+***
 
 ### <mark style="color:purple;">$PRFI: The Ecosystem Token</mark>
 
