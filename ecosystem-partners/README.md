@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Ecosystem Partners
 
 In this section, we look at partners of our ecosystem.
