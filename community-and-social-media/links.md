@@ -14,7 +14,8 @@ All official announcements, product updates, and governance proposals are publis
 
 Primary channel for announcements, product updates, and ecosystem news.
 
-→ https://x.com/PrimeNumbersFi
+[→ Prime Numbers Labs](https://x.com/PrimeNumbersFi)\
+[→ PrimeFi](https://x.com/primefixyz)
 
 ***
 
@@ -26,7 +27,7 @@ Main community hub for:
 * Discussions
 * Ecosystem updates
 
-→ https://t.me/PrimeNumbersFi
+[→ https://t.me/PrimeNumbersFi](https://t.me/PrimeNumbersFi)
 
 ***
 
@@ -37,7 +38,7 @@ Official broadcast channel for:
 * Product launches
 * Protocol updates
 
-→ https://t.me/PrimeNumbersChannel
+[→ https://t.me/PrimeNumbersChannel](https://t.me/PrimeNumbersFi/96527)
 
 ***
 
@@ -48,7 +49,7 @@ Long-form content including:
 * Product deep-dives
 * Development updates
 
-→ https://medium.primenumbers.xyz
+[→ https://medium.primenumbers.xyz](https://medium.primenumbers.xyz/?source=post_page---byline--e079fa691116---------------------------------------)
 
 ***
 
@@ -60,7 +61,7 @@ Video content such as:
 * Protocol walkthroughs
 * Ecosystem explainers
 
-→ https://youtube.com/@PrimeNumbersFi
+[→ https://youtube.com/@PrimeNumbersFi](https://www.youtube.com/@primenumbersfi)
 
 ***
 
@@ -68,16 +69,16 @@ Video content such as:
 
 Company updates and professional announcements.
 
-→ https://linkedin.com/company/prime-numbers-labs
+[→ https://linkedin.com/company/prime-numbers-labs](https://www.linkedin.com/company/prime-numbers-labs/)
 
 ***
 
 #### Discord
 
-→ https://discord.gg/primenumbers
+[→ https://discord.gg/primenumbers](https://discord.gg/gWnK4vTV)
 
 ***
 
 #### GitHub
 
-→ https://github.com/PrimeNumbersLabs
+[→ https://github.com/PrimeNumbersLabs](https://github.com/PrimeNumbersLabs)

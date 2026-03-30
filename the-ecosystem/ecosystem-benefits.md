@@ -60,7 +60,7 @@ Additionally:
 * Active Immunefi bug bounty program
 * Continuous monitoring and upgrades
 
-→ See full audit list
+[→ See full audit list](https://docs.primenumbers.xyz/security-and-audits/audits-prime-numbers-labs-ecosystem)
 
 ***
 

@@ -14,7 +14,7 @@ PrimeFi enables users to deposit collateral and borrow assets across multiple ch
 * Available on XDC, Hyperliquid, and Base
 * A share of borrowing fees flows to PRFI NFT holders
 
-→ Full documentation: https://docs.primefi.xyz
+→ Full documentation: [https://docs.primefi.xyz](https://docs.primefi.xyz/)
 
 ***
 
@@ -27,7 +27,7 @@ PrimeStaking allows users to stake XDC while maintaining liquidity.
 * Positions are transferable and tradable
 * A share of staking rewards flows to PRFI NFT holders
 
-→ Full documentation: https://docs.primestaking.xyz
+→ Full documentation: [https://docs.primestaking.xyz](https://docs.primestaking.xyz/)
 
 ***
 
@@ -41,7 +41,7 @@ PrimePort is the marketplace layer of the ecosystem.
 
 A portion of marketplace fees flows to PRFI NFT holders.
 
-→ Full documentation: PrimePort Docs
+→ Full documentation: [PrimePort Docs](https://docs.primeport.xyz/)
 
 ***
 
@@ -56,4 +56,4 @@ $PRFI is the **utility and governance token** that connects all protocols.
   * PrimeStaking
   * PrimePort
 
-More details in the **$PRFI Token** section.
+More details in the [**$PRFI Token** section.](https://docs.primenumbers.xyz/usdprfi-token)
