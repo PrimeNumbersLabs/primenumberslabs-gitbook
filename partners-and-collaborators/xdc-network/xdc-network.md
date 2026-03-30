@@ -29,7 +29,7 @@ In conclusion, the partnership between XDC Network and Prime Numbers Labs is a t
 
 ***
 
-### <mark style="color:purple;">**WHY XDC NETWORK?**</mark>
+#### <mark style="color:purple;">**WHY XDC NETWORK?**</mark>
 
 The XDC Network is a hybrid blockchain (public/private) that combines the benefits of both ledgers and offers services to businesses and institutions.
 
@@ -41,29 +41,29 @@ In this manner, their blockchain's relationships with the private finance sector
 
 ***
 
-## <mark style="color:purple;">Private Sector in XDC Network</mark>
+### <mark style="color:purple;">Private Sector in XDC Network</mark>
 
-<mark style="color:purple;">**Trade Finance**</mark>
+#### <mark style="color:purple;">**Trade Finance**</mark>
 
 This is XDC's core activity through the private blockchain ledger. It allows real-time global trade and financing using blockchain for investors, governments, and institutions.
 
 {% embed url="https://xdc.org/solutions/trade-finance" %}
 
-<mark style="color:purple;">**Team**</mark>
+#### <mark style="color:purple;">**Team**</mark>
 
 The XDC team comprises experts in blockchain, finance, and technology, with high-level experience in finance companies.
 
 The platform also has partnerships with companies such as IBM, Oracle, and the government of India.
 
-<mark style="color:purple;">**André Casterman - Advisor**</mark>
+#### <mark style="color:purple;">**André Casterman - Advisor**</mark>
 
 With a career spanning over 20 years at SWIFT and technological innovations in payment systems, he has successfully led XDC Network to be selected to join the TFD Initiative.
 
-<mark style="color:purple;">**Key Partners: R3 Corda and Impel**</mark>
+#### <mark style="color:purple;">**Key Partners: R3 Corda and Impel**</mark>
 
 Both leverage the XDC network, providing decentralization and instant transactions to their applications and messaging.
 
-<mark style="color:purple;">**XDC offers enterprise solutions such as:**</mark>
+#### <mark style="color:purple;">**XDC offers enterprise solutions such as:**</mark>
 
 1. ISO 20022 API Solution
 2. Cross-chain bridge capabilities
@@ -115,6 +115,6 @@ Its positioning at the intersection of **institutional finance and blockchain** 
 
 ***
 
-### Learn More
+### <mark style="color:purple;">Learn More</mark>
 
 → https://xdc.network

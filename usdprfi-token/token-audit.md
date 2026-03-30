@@ -1,12 +1,12 @@
 # Token Audit
 
-## Security Audits
+#### <mark style="color:purple;">Security Audits</mark>
 
 Ensuring the security and integrity of the USD₽FI token is our top priority. All core contracts undergo independent external review before mainnet launch and after any significant upgrade.
 
 ***
 
-### Methodology
+#### <mark style="color:purple;">Methodology</mark>
 
 1. **Reputable auditors**\
    We engage leading firms (e.g. QuillAudits) for in-depth code and economic-model reviews.
@@ -18,7 +18,7 @@ Ensuring the security and integrity of the USD₽FI token is our top priority. A
 
 ***
 
-### PRFI Token Audit
+#### <mark style="color:purple;">PRFI Token Audit</mark>
 
 | Module                  | Auditor     | Date        | Report                                                                                                    |
 | ----------------------- | ----------- | ----------- | --------------------------------------------------------------------------------------------------------- |

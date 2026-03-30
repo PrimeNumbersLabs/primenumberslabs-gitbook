@@ -2,7 +2,7 @@
 
 The NFT vault system is the core mechanism that connects $PRFI holders to ecosystem revenue. It works differently from standard staking, and that difference matters.
 
-#### How It Works
+#### <mark style="color:purple;">How It Works</mark>
 
 1. You lock $PRFI inside a PRFI NFT. The NFT becomes a vault. Any $PRFI staked inside it begins accumulating rewards from all three ecosystem protocols.
 2.  The vault collects revenue from three sources.
@@ -14,7 +14,9 @@ The NFT vault system is the core mechanism that connects $PRFI holders to ecosys
     No NFT = no rewards. The staking contract distributes only to wallets holding a PRFI NFT with staked $PRFI inside.
 3. Your position is fully transferable. Because the stake lives inside the NFT, not in a separate staking contract tied to your wallet, you can transfer, sell, or trade your staked position on PrimePort at any time. The rewards accumulation moves with the NFT.
 
-#### The Tier System
+***
+
+#### <mark style="color:purple;">The Tier System</mark>
 
 Staking more $PRFI inside your NFT raises its tier. Higher tiers unlock a larger share of the ecosystem revenue pool.
 
@@ -30,6 +32,8 @@ Staking more $PRFI inside your NFT raises its tier. Higher tiers unlock a larger
 
 Burning additional $PRFI also contributes to tier progression, creating deflationary pressure on the total supply over time.
 
-#### Why This Design?
+***
+
+#### <mark style="color:purple;">Why This Design?</mark>
 
 Most DeFi tokens offer staking rewards paid in the same token, creating sell pressure as stakers claim and sell. The PRFI NFT vault system distributes rewards from real protocol revenue (borrowing fees, marketplace fees, staking yields) rather than from token emissions. This means rewards are backed by actual economic activity, not by inflating the supply.

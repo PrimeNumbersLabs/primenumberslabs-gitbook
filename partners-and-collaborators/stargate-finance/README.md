@@ -1,6 +1,6 @@
 # Stargate Finance
 
-### Overview
+#### <mark style="color:purple;">Overview</mark>
 
 **Stargate Finance** provides the omnichain liquidity infrastructure used by **PrimeFi**.
 
@@ -11,7 +11,7 @@ Built on top of LayerZero, it enables native asset transfers across chains witho
 
 ***
 
-### How It Works
+#### <mark style="color:purple;">How It Works</mark>
 
 Stargate uses unified liquidity pools to facilitate:
 
@@ -22,7 +22,7 @@ This allows users to move assets seamlessly between chains while maintaining nat
 
 ***
 
-### Role in PrimeFi
+#### <mark style="color:purple;">Role in PrimeFi</mark>
 
 Within PrimeFi, Stargate enables:
 
@@ -37,7 +37,7 @@ Within PrimeFi, Stargate enables:
 
 ***
 
-### Learn More
+#### <mark style="color:purple;">Learn More</mark>
 
 → https://stargate.finance
 

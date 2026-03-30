@@ -4,13 +4,13 @@ description: Empowering Innovation with World-Class Price Oracles
 
 # Deep Dive
 
-<mark style="color:purple;">**About Chainlink**</mark>
+#### <mark style="color:purple;">**About Chainlink**</mark>
 
 Chainlink is the leading provider of decentralized oracles in the Web3 ecosystem, renowned for its ability to securely, accurately, and reliably connect smart contracts with real-world data. Its oracle infrastructure is used across multiple blockchains, establishing itself as a key component in driving innovation within decentralized finance (DeFi) and other emerging blockchain sectors. With a robust network validated by the community, Chainlink has set the standard for quality and security in its field.
 
 {% embed url="https://chain.link/" %}
 
-<mark style="color:purple;">**Benefits for PrimeFi**</mark>
+#### <mark style="color:purple;">**Benefits for PrimeFi**</mark>
 
 At **PrimeFi**, integrating **Chainlink Price Feeds** ensures that asset values and collateralization rates are calculated using reliable and up-to-date data. This integration brings multiple benefits to our omnichain lending and borrowing protocol:
 
@@ -22,7 +22,7 @@ At **PrimeFi**, integrating **Chainlink Price Feeds** ensures that asset values 
 **For more info:**
 {% endembed %}
 
-<mark style="color:purple;">**Future and Trust**</mark>
+#### <mark style="color:purple;">**Future and Trust**</mark>
 
 Our collaboration with Chainlink underscores our commitment to building a robust and secure protocol for our users. As PrimeFi continues to grow, Chainlink’s technology will remain a cornerstone of our architecture, ensuring the transparency and reliability needed to provide a leading service in the omnichain DeFi space.
 

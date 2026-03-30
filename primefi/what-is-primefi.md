@@ -11,5 +11,5 @@ Hyperliquid, and Base, with Ethereum and Arbitrum on the expansion roadmap.
 $4M+ in active borrows. Audited by PeckShield, QuillAudits, and\
 pre-audited by Gerard Persoon (Code4rena). Live on mainnet since Q3 2025.
 
-**→ Launch PrimeFi:** app.primefi.xyz\
-&#xNAN;**→ Full technical documentation:** docs.primefi.xyz
+**→ Launch PrimeFi:** [app.primefi.xyz](https://app.primefi.xyz/)\
+&#xNAN;**→ Full technical documentation:** [docs.primefi.xyz](https://docs.primefi.xyz/)

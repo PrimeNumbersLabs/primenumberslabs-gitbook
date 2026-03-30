@@ -1,6 +1,6 @@
 # Chainlink
 
-### Overview
+### <mark style="color:purple;">Overview</mark>
 
 **Chainlink** provides the decentralized price oracle infrastructure used by **PrimeFi** to calculate:
 
@@ -9,7 +9,7 @@
 
 ***
 
-### Why It Matters
+### <mark style="color:purple;">Why It Matters</mark>
 
 Chainlink Price Feeds aggregate data from multiple premium sources, ensuring:
 
@@ -23,7 +23,7 @@ This is critical for a lending protocol, where:
 
 ***
 
-### Role in PrimeFi
+### <mark style="color:purple;">Role in PrimeFi</mark>
 
 Within PrimeFi, Chainlink enables:
 
@@ -33,7 +33,7 @@ Within PrimeFi, Chainlink enables:
 
 ***
 
-### Learn More
+### <mark style="color:purple;">Learn More</mark>
 
 → https://chain.link
 

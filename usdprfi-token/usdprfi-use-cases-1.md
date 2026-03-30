@@ -4,7 +4,7 @@
 
 ***
 
-### [**1. Stake-to-Earn (NFT Staking)**](https://primestaking.xyz/) **+ Level-Up System**
+#### <mark style="color:purple;">**1. Stake-to-Earn (NFT Staking) + Level-Up System**</mark>
 
 * Lock your $PRFI **inside your PRFI NFT**.
 * The NFT becomes a “vault” that funnels yield from every Prime Numbers product.
@@ -12,12 +12,12 @@
 * Burning or staking additional $PRFI raises your NFT’s **tier**.
 * Higher tiers unlock a larger share of the ecosystem revenue pool and future collection drops.
 
-### **2. DAO Governance**
+#### <mark style="color:purple;">**2. DAO Governance**</mark>
 
 * $PRFI is the **voting token** for every on-chain proposal: fee tweaks, new asset listings, treasury spending, ecosystem grants.
 * Snapshot > Timelock flow; the more $PRFI  you hold, the louder your voice.
 
-### **3. PrimeFi Utility**
+#### <mark style="color:purple;">**3. PrimeFi Utility**</mark>
 
 | Benefit                       | How it works                                                                         |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
@@ -26,13 +26,13 @@
 | **Tiered analytics**          | Hold/lock $PRFI and unlock pro dashboards, risk simulators and wallet health alerts. |
 | **Simulations & insights**    | Access team-built portfolio simulations normally reserved for institutions.          |
 
-### **4. Omnichain Transport**
+#### <mark style="color:purple;">**4. Omnichain Transport**</mark>
 
 * $PRFI is an **OFT (Omnichain Fungible Token)** powered by LayerZero, so you can bridge it natively, no wrappers, no liquidity pools. That means a single, unified supply across Ethereum, Base, HyperEVM, Arbitrum and XDC.&#x20;
 
 {% embed url="https://stargate.finance/" %}
 
-### **5. Future Use Cases**
+#### <mark style="color:purple;">**5. Future Use Cases**</mark>
 
 * Collateral inside PrimeFi (pending risk parameter approval)
 * Gas sponsorship for ERC-4337 smart wallets (in development)

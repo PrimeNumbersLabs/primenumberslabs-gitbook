@@ -4,7 +4,7 @@ The Prime Numbers ecosystem is designed so that **participation in any single pr
 
 ***
 
-### <mark style="color:purple;">Higher Yield & Rewards</mark>
+#### <mark style="color:purple;">Higher Yield & Rewards</mark>
 
 Every protocol within the ecosystem generates fees.
 
@@ -14,7 +14,7 @@ Every protocol within the ecosystem generates fees.
 
 ***
 
-### <mark style="color:purple;">Omnichain Access</mark>
+#### <mark style="color:purple;">Omnichain Access</mark>
 
 Built on LayerZero, the ecosystem operates across:
 
@@ -31,7 +31,7 @@ Users can:
 
 ***
 
-### <mark style="color:purple;">Liquid Positions</mark>
+#### <mark style="color:purple;">Liquid Positions</mark>
 
 PrimeStaking introduces **psXDC**, a liquid derivative of staked XDC.
 
@@ -45,7 +45,7 @@ All while continuing to generate yield.
 
 ***
 
-### <mark style="color:purple;">Security First</mark>
+#### <mark style="color:purple;">Security First</mark>
 
 All core contracts undergo independent audits before mainnet deployment.
 
@@ -64,7 +64,7 @@ Additionally:
 
 ***
 
-### <mark style="color:purple;">DAO Governance (soon)</mark>
+#### <mark style="color:purple;">DAO Governance (soon)</mark>
 
 $PRFI holders participate in protocol governance.
 

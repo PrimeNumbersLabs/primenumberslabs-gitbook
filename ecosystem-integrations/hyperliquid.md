@@ -6,7 +6,7 @@ description: Enhancing PrimeFi's Omnichain DeFi Ecosystem
 
 <figure><img src="../.gitbook/assets/image (14).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## **About Hyperliquid**
+#### <mark style="color:purple;">**About Hyperliquid**</mark>
 
 Hyperliquid is a decentralized perpetual exchange that offers traders a seamless experience with top-tier speed, liquidity, and pricing. Built on its proprietary **HyperEVM** blockchain, Hyperliquid achieves remarkable performance, processing up to **200,000 transactions per second** with a latency of just **0.2 seconds**. This custom Layer 1 infrastructure ensures instant finality and eliminates issues like MEV (Maximal Extractable Value), providing a trading environment that rivals centralized exchanges.
 
@@ -18,7 +18,7 @@ As of now, Hyperliquid boasts a **Total Value Locked (TVL) of $753 million** and
 
 {% embed url="https://hyperfoundation.org/" %}
 
-### **Integration with PrimeFi**
+#### <mark style="color:purple;">**Integration with PrimeFi**</mark>
 
 In a significant advancement for decentralized finance, **PrimeFi** has successfully integrated **Hyperliquid** into its **omnichain lending and borrowing protocol**. This collaboration makes PrimeFi the **first and only decentralized platform** to integrate with **Hyperliquid’s EVM Testnet**, fully preparing us to go live on **Mainnet** once Hyperliquid officially launches its **HyperEVM**.
 
@@ -26,7 +26,7 @@ This integration **empowers developers, investors, traders, and DeFi users** wit
 
 {% embed url="https://www.msn.com/en-us/money/other/what-could-hyperliquid-integration-mean-for-protocol-users-like-primefi/ar-AA1xEXv8" %}
 
-### **Benefits for PrimeFi Users**
+#### <mark style="color:purple;">**Benefits for PrimeFi Users**</mark>
 
 The integration of Hyperliquid into PrimeFi offers several key advantages:
 
@@ -36,7 +36,7 @@ The integration of Hyperliquid into PrimeFi offers several key advantages:
 * **Transparent Operations:** The fully on-chain order book and transaction processes align with PrimeFi's commitment to transparency and trustlessness.
 * **User-Friendly Experience:** Features like one-click trading enhance the user experience, making complex trading operations more accessible.
 
-### **Future and Trust**
+#### <mark style="color:purple;">**Future and Trust**</mark>
 
 At **PrimeFi**, we believe in building a **trustless, high-performance, and interconnected DeFi ecosystem**. The integration with **Hyperliquid’s HyperEVM** is a key step in **expanding our omnichain capabilities**, allowing us to offer **superior trading, borrowing, and lending experiences**.
 

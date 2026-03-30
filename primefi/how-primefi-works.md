@@ -1,33 +1,56 @@
 # How PrimeFi Works
 
-PrimeFi follows the standard lending and borrowing model used by protocols\
-like Aave, but extends it across multiple chains simultaneously.
+PrimeFi follows the standard lending and borrowing model used by protocols like Aave, but extends it across **multiple chains simultaneously**.
 
-#### Lend
+***
 
-Deposit supported assets into PrimeFi liquidity pools. Lenders earn variable\
-APY paid by borrowers. 90% of borrowing fees go to lenders; 10% goes to\
-the protocol treasury and PRFI NFT holders.
+#### <mark style="color:purple;">Lend</mark>
 
-#### Borrow
+Users can deposit supported assets into PrimeFi liquidity pools.
 
-Deposit collateral on any supported chain and borrow against it, on the\
-same chain or a different one. Loan-to-value ratios (LTV) vary by asset and\
-are governed by $PRFI holders.
+* Earn variable APY paid by borrowers
+* 90% of borrowing fees go to lenders
+* 10% goes to:
+  * Protocol treasury
+  * PRFI NFT holders
 
-#### Liquidations
+***
 
-If a position falls below the liquidation threshold, it can be liquidated by\
-any user. A 15% liquidation fee is split equally between the liquidator and\
-the protocol.
+#### <mark style="color:purple;">Borrow</mark>
 
-#### Cross-Chain Architecture
+Users can borrow against deposited collateral.
 
-PrimeFi uses LayerZero's messaging layer to communicate collateral positions\
-and loan states across chains. Users interact with a single interface, the\
-protocol handles the cross-chain complexity in the background.
+* Deposit collateral on any supported chain
+* Borrow on the same chain or a different one
+* Loan-to-value (LTV) ratios vary by asset
+* Parameters are governed by $PRFI holders
 
-Supported assets, LTV ratios, and chain-specific parameters are maintained\
-in the full documentation.
+***
 
-→ docs.primefi.xyz
+#### <mark style="color:purple;">Liquidations</mark>
+
+If a position falls below the required threshold, it becomes eligible for liquidation.
+
+* Any user can trigger a liquidation
+* 15% liquidation fee applied
+* Fee distribution:
+  * 50% → Liquidator
+  * 50% → Protocol
+
+***
+
+#### <mark style="color:purple;">Cross-Chain Architecture</mark>
+
+PrimeFi uses LayerZero to synchronize positions across chains.
+
+* Collateral and loan states are communicated cross-chain
+* Users interact with a single unified interface
+* Cross-chain complexity is handled at the protocol level
+
+***
+
+#### <mark style="color:purple;">Additional Parameters</mark>
+
+Supported assets, LTV ratios, and chain-specific configurations are maintained in the full documentation.
+
+[→ https://docs.primefi.xyz](https://docs.primefi.xyz/)

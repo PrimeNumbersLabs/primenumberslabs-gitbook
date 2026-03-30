@@ -6,7 +6,7 @@ No protocol operates in isolation, **fees, liquidity, and rewards flow between a
 
 ***
 
-### <mark style="color:purple;">PrimeFi: Omnichain Lending & Borrowing</mark>
+#### <mark style="color:purple;">PrimeFi: Omnichain Lending & Borrowing</mark>
 
 PrimeFi enables users to deposit collateral and borrow assets across multiple chains.
 
@@ -18,7 +18,7 @@ PrimeFi enables users to deposit collateral and borrow assets across multiple ch
 
 ***
 
-### <mark style="color:purple;">PrimeStaking: Liquid Staking & NFT Vaults</mark>
+#### <mark style="color:purple;">PrimeStaking: Liquid Staking & NFT Vaults</mark>
 
 PrimeStaking allows users to stake XDC while maintaining liquidity.
 
@@ -31,7 +31,7 @@ PrimeStaking allows users to stake XDC while maintaining liquidity.
 
 ***
 
-### <mark style="color:purple;">PrimePort: NFT Marketplace</mark>
+#### <mark style="color:purple;">PrimePort: NFT Marketplace</mark>
 
 PrimePort is the marketplace layer of the ecosystem.
 
@@ -45,7 +45,7 @@ A portion of marketplace fees flows to PRFI NFT holders.
 
 ***
 
-### <mark style="color:purple;">$PRFI: The Ecosystem Token</mark>
+#### <mark style="color:purple;">$PRFI: The Ecosystem Token</mark>
 
 $PRFI is the **utility and governance token** that connects all protocols.
 

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Strategic Expansion into Hyperliquid L1
 
 ### **Ticker on Hyperliquid L1**

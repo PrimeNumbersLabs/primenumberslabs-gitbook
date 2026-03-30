@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Omnichain Functionality with OFT
 
 **$PRFI** follows the **Omnichain Fungible Token (OFT) standard**, allowing seamless cross-chain transfers without the need for **asset wrapping, middlechains, or liquidity pools**. By leveraging **LayerZero’s interoperability technology**, $PRFI ensures:
